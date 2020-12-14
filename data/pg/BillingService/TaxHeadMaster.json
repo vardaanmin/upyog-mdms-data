@@ -324,7 +324,11 @@
       "order": "2",
       "isRequired": false
     },
+<<<<<<< HEAD
      {
+=======
+    {
+>>>>>>> egov-mdms/staging
       "category": "FEE",
       "service": "PT.MUTATION",
       "name": "PT Mutation Fees",
@@ -823,6 +827,182 @@
       "isActualDemand": false,
       "order": "1",
       "isRequired": false
+<<<<<<< HEAD
     }
   ]
 }
+=======
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "SW",
+      "name": "Sw advance carry forward",
+      "code": "SW_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Education Cess Grants",
+      "code": "REV_GRANTS_EDU_CESS_GRANTS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Govt. Aid for Primary Education",
+      "code": "REV_GRANTS_GOVT_AID_PRIM_EDU",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Family Welfare Grant",
+      "code": "REV_GRANTS_FAM_WF_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Family Planning Aid from Central Government",
+      "code": "REV_GRANTS_FAM_PLANNIG_AID_CENT_GOVT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "SJSRY Salary Grant",
+      "code": "REV_GRANTS_SJSRY_SAL_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "Land Fee",
+      "code": "DISP_FIXED_ASSET_LAND_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_LAND_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_LAND_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "Buidling Fee",
+      "code": "DISP_FIXED_ASSET_BUILDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_BUILDING_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_BUILDING_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "Vehicle Fee",
+      "code": "DISP_FIXED_ASSET_VEHICLE_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_VEHICLE_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_VEHICLE_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
+  ]
+}
+>>>>>>> egov-mdms/staging

@@ -21,7 +21,11 @@
         {
           "code": "pg.citye"
         }
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> egov-mdms/staging
       ]
     },
     {
@@ -170,6 +174,18 @@
           "code": "pg.citye"
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "tenants": [
+        {
+          "code": "pg.citya"
+        }
+      ]
+>>>>>>> egov-mdms/staging
     }
   ]
 }
