@@ -12885,6 +12885,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 623,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "LOA_CREATOR",
       "actionid": 1094,
       "actioncode": "",
@@ -17397,6 +17403,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1752,
       "actioncode": "",
@@ -19173,6 +19185,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "TL_CEMP",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1876,
       "actioncode": "",
@@ -20215,13 +20233,13 @@
       "actionid": 1924,
       "actioncode": "",
       "tenantId": "pg"
-      },
-      {
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1924,
       "actioncode": "",
       "tenantId": "pg"
-      },
+    },
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1930,
@@ -20311,7 +20329,7 @@
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "pg"
-      },
+    },
     {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 1931,
@@ -20951,6 +20969,42 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1891,
       "actioncode": "",
       "tenantId": "pg"
     }
