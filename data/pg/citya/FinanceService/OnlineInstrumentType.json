@@ -8,27 +8,17 @@
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
-<<<<<<< HEAD
-   {
-=======
     {
->>>>>>> egov-mdms/staging
       "servicecode": "TL",
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
     },
-<<<<<<< HEAD
-   {
-=======
     {
->>>>>>> egov-mdms/staging
       "servicecode": "FIRENOC",
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
-<<<<<<< HEAD
-=======
     },
     {
       "servicecode": "BPA.NC_APP_FEE",
@@ -77,7 +67,6 @@
       "glcode": "4502001",
       "validFrom": 1234567890,
       "validTo": 2345678901
->>>>>>> egov-mdms/staging
     }
   ]
 }

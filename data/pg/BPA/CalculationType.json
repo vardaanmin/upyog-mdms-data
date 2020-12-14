@@ -94,16 +94,6 @@
             "amount": 100
         },
         {
-<<<<<<< HEAD
-            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
-            "riskType": "LOW",
-            "feeType": "Low_SanctionFee",
-            "amount": 500
-        },
-        {
-=======
->>>>>>> egov-mdms/staging
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "ALL",
             "riskType": "LOW",
@@ -119,41 +109,23 @@
             "calsiLogic": [
                 {
                     "parameter": "builtuparea",
-<<<<<<< HEAD
-                    "tolerancelimit": 10,
-                    "calculationType": "number",
-                    "deviation": [
-                        {
-                            "from": 11,
-                            "to": 50,
-=======
                     "tolerancelimit": 1,
                     "calculationType": "number",
                     "deviation": [
                         {
                             "from": 1,
                             "to": 3,
->>>>>>> egov-mdms/staging
                             "MF": 1,
                             "uom": 100
                         },
                         {
-<<<<<<< HEAD
-                            "from": 51,
-                            "to": 100,
-=======
                             "from": 3,
                             "to": 5,
->>>>>>> egov-mdms/staging
                             "MF": 2,
                             "uom": 150
                         },
                         {
-<<<<<<< HEAD
-                            "from": 101,
-=======
                             "from": 5,
->>>>>>> egov-mdms/staging
                             "to": 499,
                             "MF": 3,
                             "uom": 200

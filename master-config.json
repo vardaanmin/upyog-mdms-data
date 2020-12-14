@@ -537,11 +537,7 @@
     }
   },
   "PropertyTax": {
-<<<<<<< HEAD
-     "MutationReason": {
-=======
     "MutationReason": {
->>>>>>> egov-mdms/staging
       "masterName": "MutationReason",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -638,21 +634,12 @@
       ]
     },
     "UsageCategory": {
-<<<<<<< HEAD
-     "masterName": "UsageCategory",
-     "isStateLevel": true,
-     "uniqueKeys": [
-       "$.code"
-     ]
-   },
-=======
       "masterName": "UsageCategory",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
     },
->>>>>>> egov-mdms/staging
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
@@ -716,8 +703,6 @@
         "$.code"
       ]
     },
-<<<<<<< HEAD
-=======
     "TradeRenewal": {
       "masterName": "TradeRenewal",
       "isStateLevel": true
@@ -729,7 +714,6 @@
         "$.code"
       ]
     },
->>>>>>> egov-mdms/staging
     "AccessoriesCategory": {
       "masterName": "AccessoriesCategory",
       "isStateLevel": true,
@@ -743,8 +727,6 @@
       "uniqueKeys": [
         "$.code"
       ]
-<<<<<<< HEAD
-=======
     },
     "Penalty": {
       "masterName": "Penalty",
@@ -759,7 +741,6 @@
       "uniqueKeys": [
         "$.fromFY"
       ]
->>>>>>> egov-mdms/staging
     }
   },
   "Workflow": {
@@ -851,10 +832,6 @@
         "$.code"
       ]
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> egov-mdms/staging
   },
   "BillingService": {
     "TaxPeriod": {
@@ -892,11 +869,7 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.billingservicecode",
-<<<<<<< HEAD
-         "$.taxhead"
-=======
         "$.taxhead"
->>>>>>> egov-mdms/staging
       ]
     },
     "InstrumentGLcodeMapping": {
@@ -1107,8 +1080,4 @@
       "uniqueKeys": []
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> egov-mdms/staging

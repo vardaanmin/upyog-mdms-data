@@ -11000,11 +11000,7 @@
          "displayName": "Rainmaker PGR report metadata",
          "orderNumber": 1,
          "parentModule": "147",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -11016,11 +11012,7 @@
          "displayName": "Rainmaker PGR Report",
          "orderNumber": 1,
          "parentModule": "147",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -11107,11 +11099,7 @@
          "displayName": "Complaint Types",
          "orderNumber": 2,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.ComplaintTypesReport",
@@ -11126,11 +11114,7 @@
          "displayName": "Departments",
          "orderNumber": 1,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.DepartmentWiseReport",
@@ -11145,11 +11129,7 @@
          "displayName": "Assigning Officers",
          "orderNumber": 3,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.AOWiseReport",
@@ -11164,11 +11144,7 @@
          "displayName": "ULB Employees",
          "orderNumber": 4,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.ULBEmployeeWiseReport",
@@ -11183,11 +11159,7 @@
          "displayName": "Source",
          "orderNumber": 5,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.SourceWiseReport",
@@ -11321,11 +11293,7 @@
          "url": "/report/rainmaker-pt/_get",
          "displayName": "PT Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PROPERTYREPORTS",
          "code": "null",
          "path": "Property Report"
@@ -11336,11 +11304,7 @@
          "url": "/report/rainmaker-pt/metadata/_get",
          "displayName": "PT Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PROPERTYREPORTS",
          "code": "null",
          "path": "Property Report"
@@ -11404,11 +11368,7 @@
          "orderNumber": 1,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11428,11 +11388,7 @@
          "orderNumber": 2,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11452,11 +11408,7 @@
          "orderNumber": 3,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11476,11 +11428,7 @@
          "orderNumber": 4,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11500,11 +11448,7 @@
          "orderNumber": 5,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11524,11 +11468,7 @@
          "orderNumber": 7,
          "queryParams": "",
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "tenantId": "pg",
          "createdDate": null,
@@ -11570,11 +11510,7 @@
          "url": "/report/rainmaker-pgr/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGRREPORTS",
          "code": "null",
          "path": "PGR Report"
@@ -11608,11 +11544,7 @@
          "displayName": "Description",
          "orderNumber": 6,
          "parentModule": "rainmaker-pgr",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.DescriptionReport",
@@ -11848,11 +11780,7 @@
          "parentModule": "",
          "displayName": "Create Detailed Code",
          "orderNumber": 1,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -13075,11 +13003,7 @@
          "url": "/report/rainmaker-tl/_get",
          "displayName": "TL Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "TLREPORTS",
          "code": "null",
          "path": "TL Report"
@@ -13090,11 +13014,7 @@
          "url": "/report/rainmaker-tl/metadata/_get",
          "displayName": "Rainmaker TL report metadata",
          "orderNumber": 1,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "TLREPORTS",
          "code": "null",
          "path": "TL Report Metadata "
@@ -14238,11 +14158,7 @@
          "parentModule": "",
          "displayName": "Close Period",
          "orderNumber": 3,
-<<<<<<< HEAD
-         "enabled": false,
-=======
          "enabled": true,
->>>>>>> egov-mdms/staging
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -14420,11 +14336,7 @@
          "url": "url",
          "displayName": "Collection Register",
          "orderNumber": 1,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "COLLECTIONS",
          "code": "null",
          "leftIcon": "action:description",
@@ -14482,11 +14394,7 @@
          "url": "/report/rainmaker-common/_get",
          "displayName": "Universal Collection Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "REPORTS",
          "code": "null",
          "path": "UC Report"
@@ -14497,11 +14405,7 @@
          "url": "/report/rainmaker-common/metadata/_get",
          "displayName": "Universal Collection Report metadata",
          "orderNumber": 1,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "UCREPORTS",
          "code": "null",
          "path": "UC Collection Metadata "
@@ -14648,11 +14552,7 @@
          "url": "/report/rainmaker-noc/_get",
          "displayName": "FIRENOC Report",
          "orderNumber": 0,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "REPORTS",
          "code": "null",
          "path": "FIRENOC Report"
@@ -14663,11 +14563,7 @@
          "url": "/report/rainmaker-noc/metadata/_get",
          "displayName": "FIRENOC Report metadata",
          "orderNumber": 1,
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "FIRENOCREPORTS",
          "code": "null",
          "path": "FIRENOC Metadata "
@@ -14869,11 +14765,7 @@
          "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
-<<<<<<< HEAD
-         "navigationURL": "tradelicence/apply",
-=======
          "navigationURL": "tradelicence/search?action=showRequiredDocuments",
->>>>>>> egov-mdms/staging
          "path": "TradeLicense.Apply",
          "leftIcon": "places:business-center"
       },
@@ -15545,11 +15437,7 @@
          "displayName": "rainmaker-tl-StateLevelStatus",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15561,11 +15449,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeWiseCollection",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15577,11 +15461,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15593,11 +15473,7 @@
          "displayName": "rainmaker-tl-TradeLicenseApplicationStatusReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -15609,11 +15485,7 @@
          "displayName": "rainmaker-tl-TradeWiseCollectionReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15625,11 +15497,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15641,11 +15509,7 @@
          "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15657,11 +15521,7 @@
          "displayName": "rainmaker-pgr-ComplaintTypesReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": "1902"
@@ -15673,11 +15533,7 @@
          "displayName": "rainmaker-pgr-ULBDepartmentReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15689,11 +15545,7 @@
          "displayName": "rainmaker-CollectionRegister",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15705,11 +15557,7 @@
          "displayName": "rainmaker-tl-StateLevelStatus",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15721,11 +15569,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeWiseCollection",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15737,11 +15581,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15753,11 +15593,7 @@
          "displayName": "rainmaker-tl-TradeLicenseApplicationStatusReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -15769,11 +15605,7 @@
          "displayName": "rainmaker-tl-TradeWiseCollectionReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15785,11 +15617,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15801,11 +15629,7 @@
          "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15817,11 +15641,7 @@
          "displayName": "rainmaker-pgr-ComplaintTypesReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": "1902"
@@ -15833,11 +15653,7 @@
          "displayName": "rainmaker-pgr-ULBDepartmentReport",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15849,11 +15665,7 @@
          "displayName": "rainmaker-CollectionRegister",
          "orderNumber": 1,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15903,8 +15715,6 @@
          "path": ""
       },
       {
-<<<<<<< HEAD
-=======
       "id": 1929,
       "name": "TradeLicenseApplication",
       "url": "quickAction",
@@ -15919,7 +15729,6 @@
       "leftIcon": "places:business-center"
     },
       {
->>>>>>> egov-mdms/staging
          "id": 1932,
          "name": "BPA-PermitOrderEDCR Report",
          "url": "/bpa-services/_permitorderedcr",
@@ -16169,11 +15978,7 @@
          "displayName": "Localization",
          "orderNumber": 5,
          "parentModule": "",
-<<<<<<< HEAD
-         "enabled": true,
-=======
          "enabled": false,
->>>>>>> egov-mdms/staging
          "serviceCode": "",
          "code": "",
          "path": "Localization",
@@ -16599,11 +16404,6 @@
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
-<<<<<<< HEAD
-      }
-   ]
-}
-=======
       },
       {
          "id": 2019,
@@ -16633,4 +16433,3 @@
     }
    ]
 }
->>>>>>> egov-mdms/staging

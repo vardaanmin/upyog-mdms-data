@@ -11,8 +11,6 @@
       "active": false
     },
     {
-<<<<<<< HEAD
-=======
       "serviceCode": "NonSweepingOfRoad",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
@@ -22,18 +20,13 @@
       "order": 5
     },
     {
->>>>>>> egov-mdms/staging
       "serviceCode": "StreetLightNotWorking",
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-<<<<<<< HEAD
-      "active": true
-=======
       "active": true,
       "order": 1
->>>>>>> egov-mdms/staging
     },
     {
       "serviceCode": "GarbageNeedsTobeCleared",
@@ -41,12 +34,8 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-<<<<<<< HEAD
-      "active": true
-=======
       "active": true,
       "order": 4
->>>>>>> egov-mdms/staging
     },
     {
       "serviceCode": "DamagedGarbageBin",
@@ -86,12 +75,8 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-<<<<<<< HEAD
-      "active": true
-=======
       "active": true,
       "order": 2
->>>>>>> egov-mdms/staging
     },
     {
       "serviceCode": "ShortageOfWater",
@@ -123,12 +108,8 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-<<<<<<< HEAD
-      "active": true
-=======
       "active": true,
       "order": 3
->>>>>>> egov-mdms/staging
     },
     {
       "serviceCode": "WaterPressureisVeryLess",
@@ -288,15 +269,8 @@
       "department": "DEPT_10",
       "slaHours": 336,
       "menuPath": "",
-<<<<<<< HEAD
-      "active": true
-    }
-  ]
-}
-=======
       "active": true,
       "order": 6
     }
   ]
 }
->>>>>>> egov-mdms/staging

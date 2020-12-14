@@ -597,8 +597,6 @@
           "order": "6."
         }
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "code": "pg.citya",
@@ -695,7 +693,6 @@
           "order": "6."
         }
       ]
->>>>>>> egov-mdms/staging
     }
   ]
 }
