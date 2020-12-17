@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.citya",
-      "name": "City A",
-      "description": "City A",
+      "name": "City-I",
+      "description": "City-I",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
@@ -16,7 +16,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "City A",
+        "name": "City-I",
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
@@ -28,12 +28,12 @@
         "captcha": null,
         "code": "1013"
       },
-      "address": "City A Municipal Corporation",
+      "address": "City-I Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
       "code": "pg.cityb",
-      "name": "City B",
+      "name": "City-II",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.cityb/logo.png",
       "imageId": null,
@@ -47,7 +47,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City B",
+        "name": "City-II",
         "localName": null,
         "districtCode": "CITYB",
         "districtName": null,
@@ -59,13 +59,13 @@
         "captcha": null,
         "code": "107"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "City-II Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityc",
-      "name": "City C",
+      "name": "City-III",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.cityc/logo.png",
       "imageId": null,
@@ -79,7 +79,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City C",
+        "name": "City-III",
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
@@ -91,13 +91,13 @@
         "captcha": null,
         "code": "108"
       },
-      "address": "City C Municipal Corporation Address",
+      "address": "City-III Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityd",
-      "name": "City D",
+      "name": "City-IV",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.cityd/logo.png",
       "imageId": null,
@@ -111,7 +111,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "City-IV",
         "localName": null,
         "districtCode": "CITYD",
         "districtName": null,
@@ -123,13 +123,13 @@
         "captcha": null,
         "code": "109"
       },
-      "address": "City D Municipal Corporation Address",
+      "address": "City-IV Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.citye",
-      "name": "City E",
+      "name": "City-V",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citye/logo.png",
       "imageId": null,
@@ -143,7 +143,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "City-V",
         "localName": null,
         "districtCode": "CITYE",
         "districtName": null,
@@ -155,7 +155,7 @@
         "captcha": null,
         "code": "110"
       },
-      "address": "City E Municipal Corporation Address",
+      "address": "City-V Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
