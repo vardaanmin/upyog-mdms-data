@@ -110,9 +110,65 @@
       "fromDate": 1585679399000,
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
+      "service": "OTHER.Misc_Challans",
+      "code": "OTHERMSC2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHER.Misc_Challans",
+      "code": "OTHERMSC2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
       "code": "TXELCH2020",
       "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXELCH2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNTS1CROS2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "code": "TXNTS1CROS2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNTPF2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Transfer_Property_Fees",
+      "code": "TXNTPF2019",
+      "financialYear": "2019-20"
     },
     {
       "fromDate": 1585679399000,
