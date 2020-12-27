@@ -256,6 +256,46 @@
     },
     {
       "category": "TAX",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "name": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_TAX",
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.TS1_copy_register_for_old_survey",
+      "name": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_FIELD_FEE",
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },    
+    {
+      "category": "TAX",
+      "service": "TX.Transfer_Property_Fees",
+      "name": "TX.TRANSFER_PROPERTY_FEES_TAX",
+      "code": "TX.TRANSFER_PROPERTY_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Transfer_Property_Fees",
+      "name": "TX.TRANSFER_PROPERTY_FEES_FIELD_FEE",
+      "code": "TX.TRANSFER_PROPERTY_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },       
+    {
+      "category": "TAX",
       "service": "RT.Municipal_Shops_Rent",
       "name": "RT.MUNICIPAL_SHOPS_RENT_TAX",
       "code": "RT.MUNICIPAL_SHOPS_RENT_TAX",
