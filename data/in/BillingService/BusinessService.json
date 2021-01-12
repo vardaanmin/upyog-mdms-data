@@ -47,6 +47,21 @@
       "isVoucherCreationEnabled": true
     },
     {
+      "businessService": "FIRENOC",
+      "code": "FIRENOC",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
       "businessService": "Taxes.No Dues Certificate",
       "code": "TX.No_Dues_Certificate",
       "collectionModesNotAllowed": [
