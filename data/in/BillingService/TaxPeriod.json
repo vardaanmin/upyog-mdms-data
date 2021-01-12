@@ -110,6 +110,14 @@
       "fromDate": 1585679399000,
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
       "service": "OTHER.Misc_Challans",
       "code": "OTHERMSC2020",
       "financialYear": "2020-21"
