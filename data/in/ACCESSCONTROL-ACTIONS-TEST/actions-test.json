@@ -15397,7 +15397,7 @@
       {
          "id": 1892,
          "name": "DSS Dashboard Config Property Tax",
-         "url": "/dashboard-analytics/dashboard/getDashboardConfig/propertyTax",
+         "url": "/dashboard-analytics/dashboard/getDashboardConfig/propertytax",
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
@@ -15409,7 +15409,7 @@
       {
          "id": 1893,
          "name": "DSS Dashboard Config Trade License",
-         "url": "/dashboard-analytics/dashboard/getDashboardConfig/tradeLicense",
+         "url": "/dashboard-analytics/dashboard/getDashboardConfig/tradelicense",
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
