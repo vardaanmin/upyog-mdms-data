@@ -21007,6 +21007,48 @@
       "actionid": 1891,
       "actioncode": "",
       "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1886,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1887,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1888,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1889,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1892,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1893,
+      "actioncode": "",
+      "tenantId": "in"
     }
   ]
 }
