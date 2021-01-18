@@ -16430,6 +16430,76 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
-    }
+    },
+    {
+         "id": 2021,
+         "name": "Remittance Collection Report",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Remittance Collection Report",
+         "orderNumber": 6,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
+         "navigationURL": "services/EGF/report/remittance/collection/form"
+      },
+      {
+         "id": 2022,
+         "name": "Remittance Pending Report",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Remittance Pending Report",
+         "orderNumber": 6,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
+         "navigationURL": "services/EGF/report/remittance/pending/form"
+      },
+      {
+         "id": 2023,
+         "name": "Dishonored Cheque Report ",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Dishonored Cheque Report ",
+         "orderNumber": 7,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
+         "navigationURL": "services/collection/report/dishonouredcheque/searchform"
+      },
+      {
+         "id": 2024,
+         "name": "Surrendered Cheque",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Surrendered Cheque",
+         "orderNumber": 6,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
+         "navigationURL": "services/EGF/report/cheque/surrendered/form"
+      },
+      {
+         "id": 2025,
+         "name": "Dishonor Cheque/DD",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Dishonor Cheque/DD",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceAdmin",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Administration.Dishonor Cheque/DD",
+         "navigationURL": "services/collection/dishonour/cheque/form"
+      },
    ]
 }
