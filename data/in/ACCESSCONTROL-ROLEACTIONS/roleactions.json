@@ -21049,6 +21049,66 @@
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "in"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2023,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2023,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in"
     }
   ]
 }
