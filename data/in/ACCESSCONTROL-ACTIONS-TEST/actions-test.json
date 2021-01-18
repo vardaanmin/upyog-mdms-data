@@ -16500,6 +16500,6 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Administration.Dishonor Cheque/DD",
          "navigationURL": "services/collection/dishonour/cheque/form"
-      },
+      }
    ]
 }
