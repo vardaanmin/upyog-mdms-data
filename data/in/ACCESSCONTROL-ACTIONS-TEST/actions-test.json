@@ -16500,6 +16500,39 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Administration.Dishonor Cheque/DD",
          "navigationURL": "services/collection/dishonour/cheque/form"
-      }
+      },
+       {
+      "id": 2026,
+      "name": "NOC Create",
+      "url": "/noc-services/v1/noc/_create",
+      "displayName": "Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2027,
+      "name": "NOC Search",
+      "url": "/noc-services/v1/noc/_search",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2028,
+      "name": "NOC Update",
+      "url": "/noc-services/v1/noc/_update",
+      "displayName": "Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
