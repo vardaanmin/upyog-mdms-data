@@ -567,7 +567,7 @@
             "idname": "noc.application.number"
         },
         {
-            "format": "PG-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+            "format": "PG-[cy:yyyy-MM]-[SEQ_EG_PGR_ID]",
             "idname": "pgr.servicerequestid"
         }
     ]
