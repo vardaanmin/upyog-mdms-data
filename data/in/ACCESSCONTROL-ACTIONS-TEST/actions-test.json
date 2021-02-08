@@ -11028,7 +11028,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "AllComplaints",
-         "navigationURL": "all-complaints",
+         "navigationURL": "/digit-ui/employee/pgr/inbox",
          "leftIcon": "custom:open-complaints",
          "rightIcon": ""
       },
@@ -11058,7 +11058,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.MyComplaints",
-         "navigationURL": "all-complaints",
+         "navigationURL": "/digit-ui/employee/pgr/inbox",
          "leftIcon": "action:announcement",
          "rightIcon": ""
       },
@@ -11088,7 +11088,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.CreateComplaint",
-         "navigationURL": "create-complaint",
+         "navigationURL": "/digit-ui/employee/pgr/complaint/create",
          "leftIcon": "content:add",
          "rightIcon": ""
       },
@@ -13932,7 +13932,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "all-complaints",
+         "navigationURL": "/digit-ui/employee/pgr/inbox",
          "leftIcon": "action:announcement",
          "rightIcon": "",
          "queryParams": ""
@@ -14296,7 +14296,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints",
-         "navigationURL": "pgr-home",
+         "navigationURL": "/digit-ui/citizen/pgr/complaints",
          "leftIcon": "custom:account-alert",
          "rightIcon": ""
       },
@@ -14421,7 +14421,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "pgr-home",
+         "navigationURL": "/digit-ui/citizen",
          "leftIcon": "custom:account-alert",
          "rightIcon": "",
          "queryParams": ""
