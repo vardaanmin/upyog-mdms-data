@@ -16593,6 +16593,102 @@
       "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+         "id": 2034,
+         "name": "BPA Application Payment search",
+         "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
+         "displayName": "BPA Application Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2035,
+         "name": "BPA San Payment search",
+         "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
+         "displayName": "BPA San Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2036,
+         "name": "BPA OCApplication Payment search",
+         "url": "/collection-services/payments/BPA.NC_OC_APP_FEE/_search",
+         "displayName": "BPA OC Application Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2037,
+         "name": "BPA OC San Payment search",
+         "url": "/collection-services/payments/BPA.NC_OC_SAN_FEE/_search",
+         "displayName": "BPA OC San Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2038,
+         "name": "BPA LOW Payment search",
+         "url": "/collection-services/payments/BPA.LOW_RISK_PERMIT_FEE/_search",
+         "displayName": "BPA LOW Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2039,
+         "name": "PT Payment search",
+         "url": "/collection-services/payments/PT.MUTATION/_search",
+         "displayName": "PT Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2040,
+         "name": "TL Payment search",
+         "url": "/collection-services/payments/TL/_search",
+         "displayName": "TL Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2041,
+         "name": "FIRENOC Payment search",
+         "url": "/collection-services/payments/FIRENOC/_search",
+         "displayName": "FIRENOC Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
