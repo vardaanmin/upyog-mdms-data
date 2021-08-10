@@ -20241,6 +20241,54 @@
       "tenantId": "in"
     },
     {
+      "rolecode": "CSR",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1927,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantId": "in"
+    },
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1930,
       "actioncode": "",
