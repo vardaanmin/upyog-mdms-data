@@ -50,3 +50,4 @@ class RoleAttributeAccess {
 ```
 
 Decryption will happen by Attribute based Access Control(ABAC). The configuration for decryption is defined in the DecryptionABAC. It is a list of ABAC policies to used in different scenarios. Key signifies the input object structure. For each key there will be a list of RoleAttributeAccess.
+
