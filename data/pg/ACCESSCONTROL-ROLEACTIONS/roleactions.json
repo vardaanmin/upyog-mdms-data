@@ -16461,6 +16461,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CEMP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2042,
       "actioncode": "",
@@ -22933,93 +22939,279 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "CITIZEN",
+        {
+      "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2305,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "BPAREG_APPROVER",
+      "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2305,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2305,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2306,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ANONYMOUS",
+      "actionid": 2309,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2307,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2309,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2308,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "ANONYMOUS",
+      "actionid": 2308,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2131,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2131,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2311,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2312,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2313,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2314,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2312,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2315,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2315,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "AIRPORT_AUTHORITY_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "AIRPORT_AUTHORITY_APPROVER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
       "rolecode": "BPAREG_DOC_VERIFIER",
-      "actionid": 2305,
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE_FINANCE",
-      "actionid": 701,
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 701,
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 701,
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "SYS_INTEGRATOR_FINANCE",
-      "actionid": 701,
+      "rolecode": "BPA_BUILDER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
-      "actionid": 701,
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 701,
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_VOUCHER_APPROVER",
-      "actionid": 701,
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_BILL_CREATOR",
-      "actionid": 701,
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_BILL_APPROVER",
-      "actionid": 701,
+      "rolecode": "BPA_APPROVER",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_PAYMENT_CREATOR",
-      "actionid": 701,
+      "rolecode": "CITIZEN",
+      "actionid": 2316,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_PAYMENT_CREATOR",
-      "actionid": 701,
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 2316,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "EGF_PAYMENT_APPROVER",
-      "actionid": 701,
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 2316,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 2316,
       "actioncode": "",
       "tenantId": "pg"
     }
