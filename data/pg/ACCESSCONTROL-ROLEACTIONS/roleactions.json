@@ -11655,12 +11655,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 1792,
       "actioncode": "",
