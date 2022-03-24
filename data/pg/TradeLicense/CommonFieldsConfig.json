@@ -301,7 +301,7 @@
             ]
         },
         {
-            "head": "",
+            "head": "ES_NEW_APPLICATION_PT_DETAILS",
             "body": [
                 {
                     "type": "component",
