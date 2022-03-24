@@ -6271,20 +6271,6 @@
          "path": ""
       },
       {
-         "id": 1827,
-         "name": "BillGenie",
-         "url": "url",
-         "displayName": "BillGenie",
-         "orderNumber": 5,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "BG",
-         "code": "null",
-         "navigationURL": "abg/billSearch",
-         "path": "BG",
-         "leftIcon": "action:receipt"
-      },
-      {
          "id": 1828,
          "name": "mSeva Event Create",
          "url": "/egov-user-event/v1/events/_create",
@@ -12290,7 +12276,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Home",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12514,7 +12500,7 @@
       "serviceCode": "integration",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
