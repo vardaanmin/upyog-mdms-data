@@ -11655,6 +11655,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 1792,
       "actioncode": "",
@@ -12293,18 +12299,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1826,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1827,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1827,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -20509,126 +20503,6 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
-     },
-     {
-      "rolecode": "WS_CEMP",
-      "actionid": 2189,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_CEMP",
-      "actionid": 2177,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2177,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 2178,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_CEMP",
-      "actionid": 2178,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2178,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_CEMP",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 2180,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_CREATOR_EMP",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EDITOR_EMP",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_COLLECTOR",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2124,
-      "actioncode": "",
-      "tenantId": "pg"
-    }, 
-      {
-      "rolecode": "UC_EMP",
-      "actionid": 2124,
-      "actioncode": "",
-      "tenantId": "pg"
-    }, 
-      {
-      "rolecode": "SUPERUSER",
-      "actionid": 2124,
-      "actioncode": "",
-      "tenantId": "pg"
-    }, 
-      {
-      "rolecode": "CITIZEN",
-      "actionid": 2125,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-      {
-      "rolecode": "CITIZEN",
-      "actionid": 2126,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 1743,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 1730,
-      "actioncode": "",
-      "tenantId": "pg"
     },
     {
       "rolecode": "WS_CEMP",
@@ -23895,7 +23769,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "NATADMIN",
+      "rolecode": "STADMIN",
       "actionid": 2321,
       "actioncode": "",
       "tenantId": "pg"
@@ -23913,7 +23787,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "STADMIN",
+      "rolecode": "NATADMIN",
       "actionid": 2324,
       "actioncode": "",
       "tenantId": "pg"
@@ -23931,7 +23805,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "NATADMIN",
+      "rolecode": "SUPERUSER",
       "actionid": 2327,
       "actioncode": "",
       "tenantId": "pg"
@@ -24079,103 +23953,6 @@
       "actionid": 2346,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "COMMON_EMPLOYEE",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "COMMON_EMPLOYEE",
-      "actionid": 699,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-     {
-      "rolecode": "COMMON_EMPLOYEE",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-     {
-      "rolecode": "NATADMIN",
-      "actionid": 1890,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE_FINANCE",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SYS_INTEGRATOR_FINANCE",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    
-      {
-      "rolecode": "EGF_REPORT_VIEW",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_CREATOR",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_VOUCHER_APPROVER",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_BILL_CREATOR",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_BILL_APPROVER",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_PAYMENT_CREATOR",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_PAYMENT_CREATOR",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_PAYMENT_APPROVER",
-      "actionid": 701,
-      "actioncode": "",
-      "tenantId": "pg"
-      }
+    }
   ]
 }
