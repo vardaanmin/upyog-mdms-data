@@ -587,20 +587,10 @@
       "name": "System user",
       "description": "System user role"
     },
-     {
-      "code": "SYSTEM_PAYMENT",
-      "name": "System Payment user",
-      "description": "System payment user role"
-    },
     {
       "code": "NATADMIN",
       "name": "National Dashboard Admin",
       "description": "Admin role that as access over a Nation"
-    },
-    {
-      "code": "COMMON_EMPLOYEE",
-      "name": "Basic employee roles",
-      "description": "Basic employee roles"
     }
   ]
 }
