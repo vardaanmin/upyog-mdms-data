@@ -23769,7 +23769,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "STADMIN",
+      "rolecode": "NATADMIN",
       "actionid": 2321,
       "actioncode": "",
       "tenantId": "pg"
@@ -23951,6 +23951,30 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 2346,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMMON_EMPLOYEE",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMMON_EMPLOYEE",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "COMMON_EMPLOYEE",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "NATADMIN",
+      "actionid": 1890,
       "actioncode": "",
       "tenantId": "pg"
     }
