@@ -24819,11 +24819,17 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-{
+    {
       "rolecode": "CITIZEN",
       "actionid": 2368,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2368,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
