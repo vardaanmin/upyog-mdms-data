@@ -24758,6 +24758,66 @@
       "actionid": 2353,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2354,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2359,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2359,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2395,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2395,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2350,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2351,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2356,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2357,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 2403,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
