@@ -24817,6 +24817,174 @@
       "actionid": 2368,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2349,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2360,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2360,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2355,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2352,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2358,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_CREATOR",
+      "actionid": 2361,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_CREATOR",
+      "actionid": 2383,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_CREATOR",
+      "actionid": 2383,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_VIEWER",
+      "actionid": 2383,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_EDITOR",
+      "actionid": 2383,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_CREATOR",
+      "actionid": 2362,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_VIEWER",
+      "actionid": 2363,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_EDITOR",
+      "actionid": 2363,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_VIEWER",
+      "actionid": 2364,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_EDITOR",
+      "actionid": 2364,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_EDITOR",
+      "actionid": 2365,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_VIEWER",
+      "actionid": 2365,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_EDITOR",
+      "actionid": 2366,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_VIEWER",
+      "actionid": 2366,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 2368,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 2367,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_EDITOR",
+      "actionid": 2381,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_VIEWER",
+      "actionid": 2381,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_VIEWER",
+      "actionid": 2382,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "DEATH_APPLICATION_EDITOR",
+      "actionid": 2382,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_VIEWER",
+      "actionid": 2385,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BIRTH_APPLICATION_EDITOR",
+      "actionid": 2385,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
