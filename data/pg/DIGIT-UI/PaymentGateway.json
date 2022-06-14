@@ -4,7 +4,7 @@
     "PaymentGateway": [
         {
             "gateway": "AXIS",
-            "active": false
+            "active": true
         },
         {
             "gateway": "PAYGOV",
