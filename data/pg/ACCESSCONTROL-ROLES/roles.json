@@ -646,6 +646,11 @@
       "code": "DEATH_APPLICATION_EDITOR",
       "name": "DEATH Application Editor",
       "description": "Death User that can edit existing applications"
+    },
+    {
+      "code": "NDA_SYSTEM",
+      "name": "National Dashboard Systeme user",
+      "description": "Push data through adopter for all states"
     }
   ]
 }
