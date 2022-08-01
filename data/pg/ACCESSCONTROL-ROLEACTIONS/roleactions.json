@@ -23781,6 +23781,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2322,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDA_SYSTEM",
+      "actionid": 2322,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "STADMIN",
       "actionid": 2323,
       "actioncode": "",
