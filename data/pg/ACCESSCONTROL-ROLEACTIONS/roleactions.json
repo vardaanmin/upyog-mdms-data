@@ -24717,7 +24717,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "NATADMIN",
+      "rolecode": "CITIZEN",
       "actionid": 2403,
       "actioncode": "",
       "tenantId": "pg"
@@ -24855,25 +24855,12 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 2406,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    
-    {
-      "rolecode": "CITIZEN",
+      "rolecode": "NATADMIN",
       "actionid": 2407,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "BND_CEMP",
-      "actionid": 2404,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 2404,
       "actioncode": "",
@@ -24888,6 +24875,18 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 2405,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2406,
       "actioncode": "",
       "tenantId": "pg"
     },
