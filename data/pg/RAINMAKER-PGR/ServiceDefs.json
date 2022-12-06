@@ -9,12 +9,12 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NonSweepingOfRoad",
       "name": "Non sweeping of road",
-      "active": true,
+      "active": false,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -28,7 +28,7 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": true,
+      "active": false,
       "order": 1
     },
     {
@@ -38,7 +38,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true,
+      "active": false,
       "order": 4
     },
     {
@@ -48,7 +48,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BurningOfGarbage",
@@ -57,7 +57,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
@@ -66,7 +66,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "Drains",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
@@ -75,7 +75,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BlockOrOverflowingSewage",
@@ -84,7 +84,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true,
+      "active": false,
       "order": 2
     },
     {
@@ -94,7 +94,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NoWaterSupply",
@@ -103,7 +103,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DirtyWaterSupply",
@@ -112,7 +112,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "BrokenWaterPipeOrLeakage",
@@ -121,7 +121,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true,
+      "active": false,
       "order": 3
     },
     {
@@ -131,7 +131,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DamagedRoad",
@@ -140,7 +140,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "WaterLoggedRoad",
@@ -149,7 +149,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
@@ -158,7 +158,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
@@ -167,7 +167,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
@@ -176,7 +176,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
@@ -185,7 +185,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "StrayAnimals",
@@ -194,7 +194,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DeadAnimals",
@@ -203,7 +203,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
@@ -212,7 +212,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
@@ -221,7 +221,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
@@ -230,7 +230,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
@@ -239,7 +239,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalConstructions",
@@ -248,7 +248,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalParking",
@@ -257,7 +257,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
@@ -266,7 +266,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
@@ -275,7 +275,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "OpenDefecation",
@@ -284,7 +284,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
@@ -293,7 +293,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks",
-      "active": true
+      "active": false
     },
     {
       "serviceCode": "Others",
@@ -302,8 +302,575 @@
       "department": "DEPT_10",
       "slaHours": 336,
       "menuPath": "",
-      "active": true,
+      "active": false,
       "order": 6
+    },
+    {
+      "serviceCode": "WaterSupply",
+      "name": "Water Supply",
+      "keywords": "water, supply, civil , services",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Sewerage",
+      "name": "Sewerage",
+      "keywords": "sewerage, supply, civil , services",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Publichealthandsanitation",
+      "name": "Public health and sanitation",
+      "keywords": "public, health, sanitation, civil , services",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "StormwaterDrains",
+      "name": "Storm water Drains",
+      "keywords": "storm, water, drain, civil , services",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "RoadInfrastructureMaintenance",
+      "name": "Road Infrastructure Maintenance",
+      "keywords": "Road, Infrastructure, Maintenance, civil , services",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "ParkingandStreetLight",
+      "name": "Parking & Street Light",
+      "keywords": "Parking,Street, Light,Civil, Services",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Solid Waste Management",
+      "name": "SolidWasteManagement",
+      "keywords": "Solid,Waste,Management,Civil, Services",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "TrafficSignalsCCTVAndSurveillance",
+      "name": "Traffic Signals, CCTV & Surveillance",
+      "keywords": "Traffic, Signals,CCTV,Surveillance,Civil, Services",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "PowerSupply",
+      "name": "Power Supply",
+      "keywords": "Power, Supply,Civil, Services",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Civil Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Buildingdevelopmentpermission",
+      "name": "Building/development permission",
+      "keywords": "Building, Development, Permission, License , Permits",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "License & Permits",
+      "active": true
+    },
+    {
+      "serviceCode": "PermitexhibitingadvertisementpostersandHoardings",
+      "name": "Permit exhibiting advertisement, posters and Hoardings",
+      "keywords": "Building, Development, Permission, License , Permits",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "License & Permits",
+      "active": true
+    },
+    {
+      "serviceCode": "TradeLicense",
+      "name": "Trade License",
+      "keywords": "Trade, License , Permits",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "License & Permits",
+      "active": true
+    },
+    {
+      "serviceCode": "License for Installation of machineries",
+      "name": "LicenseforInstallationofmachineries",
+      "keywords": "License ,Installation, Machinery, machinery, Permits",
+      "department": "DEPT_6",
+      "slaHours": 336,
+      "menuPath": "License & Permits",
+      "active": true
+    },
+    {
+      "serviceCode": "ResidentialCertificate",
+      "name": "Residential Certificate",
+      "keywords": "Residential,Certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "OwnershipCertificate",
+      "name": "Ownership Certificate",
+      "keywords": "Ownership,Certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "AgeCertificateofthebuilding",
+      "name": "Age Certificate of the building",
+      "keywords": "Age,Certificate,building, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "BPLcertificates",
+      "name": "BPL certificates",
+      "keywords": "BPL,Certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "NoObjectionCertificates",
+      "name": "No Objection Certificates",
+      "keywords": "Objection,Certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "NoDueCertificate",
+      "name": "No Due Certificate",
+      "keywords": "NoDue,Certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "RegistrationofBirthsDeathsandStillBirths",
+      "name": "Registration of Births, Deaths and Still Births",
+      "keywords": "Registration,Births, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "Registrationofprivatehospitalsandparamedicalinstitutions",
+      "name": "Registration of private hospitals and paramedical institutions",
+      "keywords": "Registration,Private,Hospitals, paramedical, institutes, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "Registrationoftutorialinstitutions",
+      "name": "Registration of tutorial institutions",
+      "keywords": "Registration,tutorial,institutions, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "Registration of contractors",
+      "name": "Registration of contractors",
+      "keywords": "Registration,contractors, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "RegistrationofNRI",
+      "name": "Registration of NRI's",
+      "keywords": "Registration,NRI,Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "RegistrationofMentallychallengedpersons.",
+      "name": "Registration of Mentally challenged persons.",
+      "keywords": "Registration,mentally,challenged, persons, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "IssueofcommencementCertificate",
+      "name": "Issue of commencement Certificate",
+      "keywords": "Commencement, certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "IssueofPlinthCheckCertificate",
+      "name": "Issue of Plinth Check Certificate",
+      "keywords": "Plinth, certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "IssueofOccupancyCertificate",
+      "name": "Issue of Occupancy Certificate",
+      "keywords": "Occupancy, certificate, Certificates",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Certificates",
+      "active": true
+    },
+    {
+      "serviceCode": "TaxAssessmentAndDemandExtract",
+      "name": "Tax Assessment & Demand Extract",
+      "keywords": "Tax,Assessment,Demand,Extract,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "Taxappealpetition",
+      "name": "Tax appeal petition",
+      "keywords": "Tax,Appeal, petition,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "ChangeofTitle/ownershipofproperty",
+      "name": "Change of title/ownership of property",
+      "keywords": "Title, Ownership,Property,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "UserCharges",
+      "name": "User Charges",
+      "keywords": "Tax,Appeal, petition,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "TaxRebatesandRefunds",
+      "name": "Tax Rebates and Refunds",
+      "keywords": "Tax,Rebates,Refunds,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "Onlinepaymentissue",
+      "name": "Online payment issue",
+      "keywords": "Online, Payment,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "OtherTaxRelatedIssues",
+      "name": "Other Tax Related Issues",
+      "keywords": "Tax,Taxation",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Taxation",
+      "active": true
+    },
+    {
+      "serviceCode": "InformationonMunicipalServices",
+      "name": "Information on Municipal Services",
+      "keywords": "Information, Municipal, Services, Right",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Right to Information",
+      "active": true
+    },
+    {
+      "serviceCode": "Extractofrecordsandregisters",
+      "name": "Extract of records and registers",
+      "keywords": "Information, Records, REgisters, Right",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Right to Information",
+      "active": true
+    },
+    {
+      "serviceCode": "Controlofstrayanimals",
+      "name": "Control of stray animals",
+      "keywords": "Control, Stray, Animals, Nuisance",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Abatement of Nuisance",
+      "active": true
+    },
+    {
+      "serviceCode": "Replacementofdamagedslabsoverdrains",
+      "name": "Replacement of damaged slabs over drains",
+      "keywords": "Damanged, Slabs, Drains",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Abatement of Nuisance",
+      "active": true
+    },
+    {
+      "serviceCode": "Removalofdangerousbuildingconstruction",
+      "name": "Removal of dangerous building/ construction",
+      "keywords": "Control, Stray, Animals, Nuisance",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Abatement of Nuisance",
+      "active": true
+    },
+    {
+      "serviceCode": "EncroachmentRemoval",
+      "name": "Encroachment Removal",
+      "keywords": "Encroachment,Removal, Nuisance",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Abatement of Nuisance",
+      "active": true
+    },
+    {
+      "serviceCode": "GeneralFeedback",
+      "name": "General Feedback",
+      "keywords": "Feedback, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "Accounting&Finance",
+      "name": "Accounting & Finance",
+      "keywords": "Feedback, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "Administration",
+      "name": "Administration",
+      "keywords": "Feedback, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "Corruptionormisbehavior",
+      "name": "Corruption or misbehavior",
+      "keywords": "Corruption, Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "RegulationofBuildingsandVacantLands",
+      "name": "Regulation of Buildings and Vacant Lands",
+      "keywords": "Regulation, Buildings, Vacant,Land,Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "CityorTownPlanning",
+      "name": "City or Town Planning",
+      "keywords": "City,Town,Planning,Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "PovertyAlleviationandSlumDevelopment",
+      "name": "Poverty Alleviation & Slum Development",
+      "keywords": "Poverty, Alleviation, Slum,Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "SocialWelfare",
+      "name": "Social Welfare",
+      "keywords": "Social, Welfare,Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "CitizenCharter",
+      "name": "Citizen Charter",
+      "keywords": "Citizen, Charter,Municipal, Administration, Office",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Municipal Office & Administration",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofurbanforestryrecreationgroundsparksgardens",
+      "name": "Maintenance of urban forestry, recreation grounds, parks, gardens",
+      "keywords": "Urban, Forestry, Recreation, Grounds, Parks, Gardens, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Library&Readingrooms",
+      "name": "Library & Reading rooms",
+      "keywords": "Library, Reading, Room, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Community&MarriageCenters",
+      "name": "Community & Marriage Centers",
+      "keywords": "Community, Marriage, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofmarkets",
+      "name": "Maintenance of markets",
+      "keywords": "Maintenance,markets, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Bus/lorrystands",
+      "name": "Bus/lorry stands",
+      "keywords": "Bus, stand, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "TownHallorCommunityHall",
+      "name": "Town Hall/Community Hall",
+      "keywords": "Town, Community, Hall, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofstadiumgrounds",
+      "name": "Maintenance of stadium/grounds",
+      "keywords": "Stadium, Grounds, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofpublicbuildings",
+      "name": "Maintenance of public buildings",
+      "keywords": "Buildings, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofpublictoilets",
+      "name": "Maintenance of public toilets",
+      "keywords": "Public, Toilets, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceoftankswells",
+      "name": "Maintenance of tanks, wells",
+      "keywords": "Tanks, Wells, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Ambulances&FireServices",
+      "name": "Ambulances & Fire Services",
+      "keywords": "Ambulance, Fire, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "Maintenanceofpublicinfrastructure",
+      "name": "Maintenance of public infrastructure",
+      "keywords": "Public, Infrastructure, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
+    },
+    {
+      "serviceCode": "MunicipalSchools",
+      "name": "Municipal Schools",
+      "keywords": "Municipal,Schools, Public,Convenience, Utility",
+      "department": "DEPT_10",
+      "slaHours": 336,
+      "menuPath": "Public Convenience & Utility Services",
+      "active": true
     }
   ]
 }
