@@ -3117,8 +3117,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.kuchamancitynagarpalika",
-      "name": "rj.kuchamancitynagarpalika",
+      "code": "rj.kuchamancitynagarparishad",
+      "name": "rj.kuchamancitynagarparishad",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -3965,8 +3965,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.laxmangarhnagarpalika",
-      "name": "rj.laxmangarhnagarpalika",
+      "code": "rj.laxmangarhnagarpalika_sikar",
+      "name": "rj.laxmangarhnagarpalika_sikar",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -4109,8 +4109,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.kotputlinagarpalika",
-      "name": "rj.kotputlinagarpalika",
+      "code": "rj.kotputlinagarparishad",
+      "name": "rj.kotputlinagarparishad",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -4189,8 +4189,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.laxmangarhnagarpalika",
-      "name": "rj.laxmangarhnagarpalika",
+      "code": "rj.laxmangarhnagarpalika_alwar",
+      "name": "rj.laxmangarhnagarpalika_alwar",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -4823,6 +4823,198 @@
       "stateName": "Rajasthan",
       "code": "rj.pratapgarhnagarparishad",
       "name": "rj.pratapgarhnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.jayalnagarpalika",
+      "name": "rj.jayalnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.siwananagarpalika",
+      "name": "rj.siwananagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.khajuwalanagarpalika",
+      "name": "rj.khajuwalanagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.tibbinagarpalika",
+      "name": "rj.tibbinagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.basninagarpalika",
+      "name": "rj.basninagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.bardodnagarpalika",
+      "name": "rj.bardodnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.dantaramgarhnagarpalika",
+      "name": "rj.dantaramgarhnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.ajitgarhnagarpalika",
+      "name": "rj.ajitgarhnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.gudhagorjinagarpalika",
+      "name": "rj.gudhagorjinagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.mandawarnagarpalika",
+      "name": "rj.mandawarnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.tapukaranagarpalika",
+      "name": "rj.tapukaranagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.neemrananagarpalika",
+      "name": "rj.neemrananagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.balesarsattanagarpalika",
+      "name": "rj.balesarsattanagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.bonlinagarpalika",
+      "name": "rj.bonlinagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.raniwaranagarpalika",
+      "name": "rj.raniwaranagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.hamirgarhnagarpalika",
+      "name": "rj.hamirgarhnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.dhariyawadnagarpalika",
+      "name": "rj.dhariyawadnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.marwarjunctionnagarpalika",
+      "name": "rj.marwarjunctionnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.barodameonagarpalika",
+      "name": "rj.barodameonagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.rishabhdevnagarpalika",
+      "name": "rj.rishabhdevnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.narayananagarpalika",
+      "name": "rj.narayananagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.segarinagarpalika",
+      "name": "rj.segarinagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.manoharpurnagarpalika",
+      "name": "rj.manoharpurnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.bahadurgarh(kishangarhbas)nagarpalika",
+      "name": "rj.bahadurgarh(kishangarhbas)nagarpalika",
       "active": true,
       "module": "NationalDashboard"
     }
