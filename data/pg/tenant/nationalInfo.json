@@ -3965,8 +3965,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.laxmangarhnagarpalika_sikar",
-      "name": "rj.laxmangarhnagarpalika_sikar",
+      "code": "rj.laxmangarhnagarpalikasikar",
+      "name": "rj.laxmangarhnagarpalikasikar",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -4189,8 +4189,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.laxmangarhnagarpalika_alwar",
-      "name": "rj.laxmangarhnagarpalika_alwar",
+      "code": "rj.laxmangarhnagarpalikaalwar",
+      "name": "rj.laxmangarhnagarpalikaalwar",
       "active": true,
       "module": "NationalDashboard"
     },
