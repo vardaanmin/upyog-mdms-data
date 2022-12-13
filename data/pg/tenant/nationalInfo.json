@@ -5017,6 +5017,14 @@
       "name": "rj.bahadurgarh(kishangarhbas)nagarpalika",
       "active": true,
       "module": "NationalDashboard"
-    }
+    },
+	{
+      "stateCode": "Chandigarh",
+      "stateName": "Chandigarh",
+      "code": "chd.municipalcorporationchandigarh",
+      "name": "chd.municipalcorporationchandigarh",
+	  "active": true,
+      "module": "NationalDashboard"
+	}
   ]
 }
