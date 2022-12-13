@@ -57,7 +57,7 @@
               {
                 "type": "Polygon",
                 "id": "AR",
-                "properties": { "name": "Arunanchal Pradesh" },
+                "properties": { "name": "Arunachal Pradesh" },
                 "arcs": [[19, 20, 21]]
               },
               {
@@ -233,7 +233,7 @@
               {
                 "type": "Polygon",
                 "id": "JK",
-                "properties": { "name": "Jammu & Kashmir" },
+                "properties": { "name": "Jammu and Kashmir" },
                 "arcs": [[-135, -62, 135]]
               },
               {
