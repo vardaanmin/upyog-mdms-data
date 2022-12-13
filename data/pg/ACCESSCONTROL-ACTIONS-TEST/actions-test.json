@@ -9021,7 +9021,7 @@
          "url": "/fsm/v1/_create",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -9032,7 +9032,7 @@
          "url": "/fsm/v1/_search",
          "displayName": "Search  FSM Appliacations",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -9043,7 +9043,7 @@
          "url": "/fsm/v1/_update",
          "displayName": "Update FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -9054,7 +9054,7 @@
          "url": "/egov-searcher/locality/FSM/_get",
          "displayName": "FSM locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -9065,7 +9065,7 @@
          "url": "/vehicle/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9076,7 +9076,7 @@
          "url": "/vehicle/v1/_search",
          "displayName": "Search  Vehicle",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9087,7 +9087,7 @@
          "url": "/vendor/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
@@ -9098,7 +9098,7 @@
          "url": "/vendor/v1/_search",
          "displayName": "Search  Vendor",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
@@ -9110,7 +9110,7 @@
          "displayName": "FSM Application Audit serach",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9122,7 +9122,7 @@
          "displayName": "FSM BillingSlab Create",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9134,7 +9134,7 @@
          "displayName": "FSM BillingSlab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9146,7 +9146,7 @@
          "displayName": "FSM BillingSlab Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9158,7 +9158,7 @@
          "displayName": "Vehicle Trip Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9170,7 +9170,7 @@
          "displayName": "Vehicle Trip Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9182,7 +9182,7 @@
          "displayName": "FSM Estimate",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9338,7 +9338,7 @@
          "displayName": "FSM Application Charge Payment Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
