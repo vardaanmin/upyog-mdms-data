@@ -49,5 +49,31 @@
             "capacity": "3000",
             "amount": "1000"
         }
+		{
+            "code": "TAFE",
+            "name": "TAFE",
+            "active": true
+        },
+        {
+            "code": "TAFE.TRACTOR_45DI",
+            "name": "TAFE Tractor 45DI",
+            "active": true,
+            "make": "TAFE",
+            "capacity": "10000",
+            "amount": "1000"
+        },
+        {
+            "code": "SONALIKA",
+            "name": "Sonalika",
+            "active": true
+        },
+        {
+            "code": "SONALIKA.TRACTOR_35DI",
+            "name": "Sonalika Tractor 35DI",
+            "active": true,
+            "make": "SONALIKA",
+            "capacity": "8000",
+            "amount": "1000"
+        }
     ]
 }
