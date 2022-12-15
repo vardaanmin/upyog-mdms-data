@@ -9065,7 +9065,7 @@
          "url": "/vehicle/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9076,7 +9076,7 @@
          "url": "/vehicle/v1/_search",
          "displayName": "Search  Vehicle",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9158,7 +9158,7 @@
          "displayName": "Vehicle Trip Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9170,7 +9170,7 @@
          "displayName": "Vehicle Trip Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": ""
