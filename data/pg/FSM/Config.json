@@ -10,13 +10,15 @@
         },
         {
             "code":"additionalDetails.tripAmount",
-            "override":false,
-            "active":true
+            "override":true,
+            "active":true,
+			"default": 100
         },
         {
             "code":"slumName",
             "override":true,
-            "active":true
+            "active":true,
+			"default" : "ABC"
         },
         {
             "code":"ALLOW_MODIFY",
