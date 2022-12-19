@@ -5013,8 +5013,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.bahadurgarh(kishangarhbas)nagarpalika",
-      "name": "rj.bahadurgarh(kishangarhbas)nagarpalika",
+      "code": "rj.bahadurgarhkishangarhbasnagarpalika",
+      "name": "rj.bahadurgarhkishangarhbasnagarpalika",
       "active": true,
       "module": "NationalDashboard"
     },
