@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "FSM",
     "Config": [
         {
@@ -10,15 +10,13 @@
         },
         {
             "code":"additionalDetails.tripAmount",
-            "override":true,
-            "active":true,
-			"default": 100
+            "override":false,
+            "active":true
         },
         {
             "code":"slumName",
             "override":true,
-            "active":true,
-			"default" : "ABC"
+            "active":true
         },
         {
             "code":"ALLOW_MODIFY",
@@ -38,5 +36,6 @@
             ],
             "active":true
         }
+        
     ]
 }
