@@ -1,0 +1,12 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "ws-services-masters",
+  "connectionType": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "description": "Non-Metered Connection",
+      "active": true
+    }
+  ]
+}
