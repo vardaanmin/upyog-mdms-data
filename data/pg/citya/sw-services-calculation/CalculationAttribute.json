@@ -2,11 +2,10 @@
   "tenantId": "pg.citya",
   "moduleName": "sw-services-calculation",
   "CalculationAttribute": [
-   
     {
       "name": "Non Metered",
-      "code": "Non Metered",
-      "attribute": "PLOT_BASED",
+      "code": "NONMETERED",
+      "attribute": "No. of water closets",
       "active": true
     }
   ]
