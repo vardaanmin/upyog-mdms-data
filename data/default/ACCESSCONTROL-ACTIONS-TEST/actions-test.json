@@ -10753,21 +10753,6 @@
       "serviceCode": "Employee",
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
-    }
-	{
-      "id": 1536,
-      "name": "Water&SewerageApplicationStatusReport",
-      "url": "url",
-      "displayName": "Water & Sewerage Application Status Report",
-      "orderNumber": 3,
-      "parentModule": "rainmaker-ws",
-      "enabled": true,
-      "serviceCode": "WS",
-      "code": "null",
-      "path": "Water&Sewerage.Water & Sewerage Reports.Water&SewerageApplicationStatusReport",
-      "navigationURL": "report/rainmaker-ws/Water&SewerageApplicationStatusReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-      },
+    },
   ]
 }
