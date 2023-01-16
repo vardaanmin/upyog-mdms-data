@@ -10752,7 +10752,7 @@
       "enabled": false,
       "serviceCode": "Employee",
       "code": "null",
-      "path": "Employee Management.Employee Masters.Employee.SearchEmployee
+      "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
     }
   ]
 }
