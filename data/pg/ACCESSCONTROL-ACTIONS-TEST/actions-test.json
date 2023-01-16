@@ -13327,7 +13327,7 @@
     },
 	{
 	    "id": 2409,
-         "name": "Water&SewerageApplicationStatusReport",
+         "name": "WSApplicationStatusReport",
          "url": "url",
          "displayName": "Water & Sewerage Application Status Report",
          "orderNumber": 3,
@@ -13335,8 +13335,8 @@
          "enabled": true,
          "serviceCode": "WS",
          "code": "null",
-         "path": "Water&Sewerage.Water & Sewerage Reports.Water&SewerageApplicationStatusReport",
-         "navigationURL": "report/rainmaker-ws/Water&SewerageApplicationStatusReport",
+         "path": "Water&Sewerage.Water & Sewerage Reports.WSApplicationStatusReport",
+         "navigationURL": "report/rainmaker-ws/WSApplicationStatusReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       }
