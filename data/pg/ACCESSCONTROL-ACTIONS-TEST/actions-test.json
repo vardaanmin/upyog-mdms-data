@@ -13328,7 +13328,7 @@
 	{
 	    "id": 2409,
          "name": "WSApplicationStatusReport",
-         "url": "url",
+         "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
          "displayName": "Water & Sewerage Application Status Report",
          "orderNumber": 3,
          "parentModule": "rainmaker-ws",
