@@ -24914,5 +24914,31 @@
       "actioncode": "",
       "tenantId": "pg"
     }
+	, 
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "pg"
+    , 
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "pg"
+    }}
+	
   ]
 }

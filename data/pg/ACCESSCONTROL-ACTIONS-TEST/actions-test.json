@@ -13328,7 +13328,7 @@
 	{
 	  "id": 2409,
       "name": "WSApplicationStatusReport",
-      "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
+      "url": "url"
       "displayName": "Water & Sewerage Application Status Report",
       "orderNumber": 3,
       "parentModule": "rainmaker-ws",
@@ -13339,6 +13339,30 @@
       "navigationURL": "report/rainmaker-ws/WSApplicationStatusReport",
 	  "leftIcon": "action:assignment",
       "rightIcon": ""
+      },
+	  {
+      "id": 2410,
+      "name": "WSApplicationStatusReport",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
+	  "displayName": "rainmaker-ws-WSApplicationStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "Water&Sewerage.Water & Sewerage Reports.WSApplicationStatusReport"
+      },
+	  {
+      "id": 2411,
+      "name": "WSApplicationStatusReport",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/_get",
+      "displayName": "rainmaker-ws-WSApplicationStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "Water&Sewerage.Water & Sewerage Reports.WSApplicationStatusReport"
       }
    ]
 }
