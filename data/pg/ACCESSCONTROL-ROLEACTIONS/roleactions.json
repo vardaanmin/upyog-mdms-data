@@ -24902,12 +24902,6 @@
       "actioncode": "",
       "tenantId": "pg"
     }, 
-    {
-      "rolecode": "NATADMIN",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
 	{
       "rolecode": "WS_CEMP",
       "actionid": 2409,
@@ -24915,61 +24909,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS_CLERK",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "SW_CEMP",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_CLERK",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_DOC_VERIFIER",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_FIELD_INSPECTOR",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SW_APPROVER",
-      "actionid": 2409,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-	 {
-      "rolecode": "EMPLOYEE",
       "actionid": 2409,
       "actioncode": "",
       "tenantId": "pg"
