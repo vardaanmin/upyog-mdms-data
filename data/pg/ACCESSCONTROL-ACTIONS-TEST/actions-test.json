@@ -13335,15 +13335,15 @@
       "enabled": true,
       "serviceCode": "wns",
       "code": "null",
-      "path": "WNS.Reports.WSApplicationStatusReport",
-      "navigationURL": "report/wns/WSApplicationStatusReport",
+      "path": "Water & Sewerage.Water & Sewerage Reports.WSApplicationStatusReport",
+      "navigationURL": "report/rainmaker-ws/WSApplicationStatusReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
     {
       "id": 2410,
       "name": "WSApplicationStatusReport-Metadata",
-      "url": "/report/wns/WSApplicationStatusReport/metadata/_get",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
       "displayName": "WS Metadata Report",
       "orderNumber": 1,
       "enabled": true,
@@ -13354,7 +13354,7 @@
     {
       "id": 2411,
       "name": "WSApplicationStatusReport",
-      "url": "/report/wns/WSApplicationStatusReport/_get",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/_get",
       "displayName": "WS Report",
       "orderNumber": 0,
       "enabled": true,
