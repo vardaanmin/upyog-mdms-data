@@ -6985,7 +6985,7 @@
          "serviceCode": "wns",
          "code": "null",
          "navigationURL": "wns/search",
-         "path": "wns",
+         "path": "Water & Sewerage.Search",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
       },
@@ -13325,20 +13325,26 @@
       "code": "null",
       "path": ""
     },
-	{
-	  "id": 2409,
+    {
+      "id": 2409,
       "name": "WSApplicationStatusReport",
+<<<<<<< HEAD
       "url": "url"
       "displayName": "Water & Sewerage Application Status Report",
+=======
+      "url": "url",
+      "displayName": "WS Application Status Report",
+>>>>>>> 9aa0f6c2ddcf67134db083ebb8484dc1d0a298d8
       "orderNumber": 3,
-      "parentModule": "rainmaker-ws",
+      "parentModule": "",
       "enabled": true,
-      "serviceCode": "WS",
+      "serviceCode": "wns",
       "code": "null",
-      "path": "Water&Sewerage.Water & Sewerage Reports.WSApplicationStatusReport",
+      "path": "Water & Sewerage.Water & Sewerage Reports.WSApplicationStatusReport",
       "navigationURL": "report/rainmaker-ws/WSApplicationStatusReport",
-	  "leftIcon": "action:assignment",
+      "leftIcon": "action:description",
       "rightIcon": ""
+<<<<<<< HEAD
       },
 	  {
       "id": 2410,
@@ -13364,5 +13370,30 @@
       "code": "null",
       "path": "Water&Sewerage.Water & Sewerage Reports.WSApplicationStatusReport"
       }
+=======
+    },
+    {
+      "id": 2410,
+      "name": "WSApplicationStatusReport-Metadata",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2411,
+      "name": "WSApplicationStatusReport",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    }	
+>>>>>>> 9aa0f6c2ddcf67134db083ebb8484dc1d0a298d8
    ]
 }
