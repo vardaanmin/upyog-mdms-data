@@ -3367,7 +3367,7 @@
          "displayName": "Description",
          "orderNumber": 6,
          "parentModule": "rainmaker-pgr",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.DescriptionReport",
@@ -6985,7 +6985,7 @@
          "serviceCode": "wns",
          "code": "null",
          "navigationURL": "wns/search",
-         "path": "wns",
+         "path": "Water & Sewerage.Search",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
       },
@@ -8512,7 +8512,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8570,7 +8570,7 @@
          "url": "/report/pgr/DescriptionReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -9065,7 +9065,7 @@
          "url": "/vehicle/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9076,7 +9076,7 @@
          "url": "/vehicle/v1/_search",
          "displayName": "Search  Vehicle",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9158,7 +9158,7 @@
          "displayName": "Vehicle Trip Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9170,7 +9170,7 @@
          "displayName": "Vehicle Trip Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -13324,6 +13324,43 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2409,
+      "name": "WSApplicationStatusReport",
+      "url": "url",
+      "displayName": "WS Application Status Report",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.Water & Sewerage Reports.WSApplicationStatusReport",
+      "navigationURL": "report/rainmaker-ws/WSApplicationStatusReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 2410,
+      "name": "WSApplicationStatusReport-Metadata",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2411,
+      "name": "WSApplicationStatusReport",
+      "url": "/report/rainmaker-ws/WSApplicationStatusReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    }	
    ]
 }

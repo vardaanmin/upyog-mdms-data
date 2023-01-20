@@ -24903,7 +24903,13 @@
       "tenantId": "pg"
     }, 
     {
-      "rolecode": "NATADMIN",
+      "rolecode": "WS_CEMP",
+      "actionid": 2409,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
       "actionid": 2409,
       "actioncode": "",
       "tenantId": "pg"
@@ -24923,6 +24929,30 @@
      {
       "rolecode": "EMPLOYEE",
       "actionid": 2095,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2411,
       "actioncode": "",
       "tenantId": "pg"
     }
