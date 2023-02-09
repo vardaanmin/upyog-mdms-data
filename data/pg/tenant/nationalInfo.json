@@ -5237,8 +5237,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.ankalagi-akkatangerhal",
-      "name": "ka.ankalagi-akkatangerhal",
+      "code": "ka.ankalagiakkatangerhal",
+      "name": "ka.ankalagiakkatangerhal",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -5405,8 +5405,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.m.k.hubballi",
-      "name": "ka.m.k.hubballi",
+      "code": "ka.mkhubballi",
+      "name": "ka.mkhubballi",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -5517,8 +5517,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.ugar-khurd",
-      "name": "ka.ugar-khurd",
+      "code": "ka.ugarkhurd",
+      "name": "ka.ugarkhurd",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6109,8 +6109,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.hubballi-dharawad",
-      "name": "ka.hubballi-dharawad",
+      "code": "ka.hubballidharawad",
+      "name": "ka.hubballidharawad",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6141,8 +6141,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.gadag-betageri",
-      "name": "ka.gadag-betageri",
+      "code": "ka.gadagbetageri",
+      "name": "ka.gadagbetageri",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6533,8 +6533,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.vemagal-kurugal",
-      "name": "ka.vemagal-kurugal",
+      "code": "ka.vemagalkurugal",
+      "name": "ka.vemagalkurugal",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6621,8 +6621,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.k.r.pet",
-      "name": "ka.k.r.pet",
+      "code": "ka.krpet",
+      "name": "ka.krpet",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6693,8 +6693,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.h.d.kote",
-      "name": "ka.h.d.kote",
+      "code": "ka.hdkote",
+      "name": "ka.hdkote",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6702,7 +6702,6 @@
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
       "code": "ka.hootagalli",
-      "name": "ka.hootagalli",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6717,8 +6716,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.k.r.nagar",
-      "name": "ka.k.r.nagar",
+      "code": "ka.krnagar",
+      "name": "ka.krnagar",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6781,8 +6780,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.t.narasipura",
-      "name": "ka.t.narasipura",
+      "code": "ka.tnarasipura",
+      "name": "ka.tnarasipura",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -6973,8 +6972,8 @@
     {
       "stateCode": "Karnataka",
       "stateName": "Karnataka",
-      "code": "ka.jog-kargal",
-      "name": "ka.jog-kargal",
+      "code": "ka.jogkargal",
+      "name": "ka.jogkargal",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -7506,5 +7505,6 @@
       "active": true,
       "module": "NationalDashboard"
     }
+      "name": "ka.hootagalli",
   ]
 }
