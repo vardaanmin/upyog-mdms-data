@@ -190,7 +190,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Electricity_Chungi",
+      "service": "TX.Electricity_Chungi",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -230,7 +230,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.No_Dues_Certificate",
+      "service": "TX.No_Dues_Certificate",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -294,7 +294,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.TS1_copy_register_for_old_survey",
+      "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -302,7 +302,7 @@
       "fromDate": 1585704194000,
       "toDate": 1617235154000,
       "periodCycle": "ANNUAL",
-     "service": "TX.TS1_copy_register_for_old_survey",
+      "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXNDCAN2017",
       "financialYear": "2020-21"
     },
@@ -318,7 +318,7 @@
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Transfer_Property_Fees",
+      "service": "TX.Transfer_Property_Fees",
       "code": "TXNDCAN2021",
       "financialYear": "2021-22"
     },
@@ -326,7 +326,7 @@
       "fromDate": 1585704194000,
       "toDate": 1617235154000,
       "periodCycle": "ANNUAL",
-     "service": "TX.Transfer_Property_Fees",
+      "service": "TX.Transfer_Property_Fees",
       "code": "TXNDCAN2017",
       "financialYear": "2020-21"
     },
@@ -579,6 +579,38 @@
       "financialYear": "2021-22"
     },
     {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "WC2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "WC2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2022",
+      "financialYear": "2022-23"
+    },
+    {
       "fromDate": 1648751400000,
       "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
@@ -780,7 +812,7 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1648751399999,
+      "toDate": 1648771199999,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2021",
@@ -788,7 +820,7 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1648751399999,
+      "toDate": 1648771199999,
       "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2021",
@@ -803,16 +835,16 @@
       "financialYear": "2020-21"
     },
     {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399999,
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2022",
       "financialYear": "2022-23"
     },
     {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399999,
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
       "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2022",
@@ -1002,7 +1034,7 @@
       "code": "RTJTAN2020",
       "financialYear": "2020-21"
     },
-   {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -1602,7 +1634,7 @@
       "code": "TXPTAN2021",
       "financialYear": "2021-22"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -1866,7 +1898,7 @@
       "code": "TXPTAN2021",
       "financialYear": "2021-22"
     },
-     {
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
