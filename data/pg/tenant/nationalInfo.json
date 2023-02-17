@@ -7504,6 +7504,118 @@
       "name": "ka.yadgir",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.corporationofcityofpanaji",
+      "name": "goa.corporationofcityofpanaji",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.bicholimmunicipalcouncil",
+      "name": "goa.bicholimmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.mapusamunicipalcouncil",
+      "name": "goa.mapusamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.pernemmunicipalcouncil",
+      "name": "goa.pernemmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.sanquelimmunicipalcouncil",
+      "name": "goa.sanquelimmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.valpoimunicipalcouncil",
+      "name": "goa.valpoimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.canaconamunicipalcouncil",
+      "name": "goa.canaconamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.cuncolimmunicipalcouncil",
+      "name": "goa.cuncolimmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.curchoremmunicipalcouncil",
+      "name": "goa.curchoremmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.pondamunicipalcouncil",
+      "name": "goa.pondamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.quepemmunicipalcouncil",
+      "name": "goa.quepemmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.sanguemmunicipalcouncil",
+      "name": "goa.sanguemmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.margaomunicipalcouncil",
+      "name": "goa.margaomunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "goa.mormugaomunicipalcouncil",
+      "name": "goa.mormugaomunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
