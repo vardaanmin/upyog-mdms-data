@@ -8028,14 +8028,6 @@
     {
       "stateCode": "Andra Pradesh",
       "stateName": "Andra Pradesh",
-      "code": "ap.mangalagiritadepalli",
-      "name": "ap.mangalagiritadepalli",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Andra Pradesh",
-      "stateName": "Andra Pradesh",
       "code": "ap.ponnur",
       "name": "ap.ponnur",
       "active": true,
