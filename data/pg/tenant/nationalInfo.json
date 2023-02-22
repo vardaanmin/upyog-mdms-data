@@ -7616,6 +7616,1006 @@
       "name": "goa.mormugaomunicipalcouncil",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.amudalavalasa",
+      "name": "ap.amudalavalasa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.ichapuram",
+      "name": "ap.ichapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.palasakasibugga",
+      "name": "ap.palasakasibugga",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.srikakulam",
+      "name": "ap.srikakulam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bobbili",
+      "name": "ap.bobbili",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.vijayanagaram",
+      "name": "ap.vijayanagaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.rajam",
+      "name": "ap.rajam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nellimarla",
+      "name": "ap.nellimarla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.visakhapatnam",
+      "name": "ap.visakhapatnam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bheemili",
+      "name": "ap.bheemili",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.anakapalli",
+      "name": "ap.anakapalli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.narsipatnam",
+      "name": "ap.narsipatnam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.yelamanchili",
+      "name": "ap.yelamanchili",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.parvathipuram",
+      "name": "ap.parvathipuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.saluru",
+      "name": "ap.saluru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.palakonda",
+      "name": "ap.palakonda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.rajahmundry",
+      "name": "ap.rajahmundry",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kovvur",
+      "name": "ap.kovvur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nidadavole",
+      "name": "ap.nidadavole",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bhimavaram",
+      "name": "ap.bhimavaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.narasapur",
+      "name": "ap.narasapur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.palakol",
+      "name": "ap.palakol",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tadepalligudem",
+      "name": "ap.tadepalligudem",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tanuku",
+      "name": "ap.tanuku",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.akiveedu",
+      "name": "ap.akiveedu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gudivada",
+      "name": "ap.gudivada",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.machilipatnam",
+      "name": "ap.machilipatnam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.pedana",
+      "name": "ap.pedana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.vuyyuru",
+      "name": "ap.vuyyuru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.ysrtadigadapa",
+      "name": "ap.ysrtadigadapa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nuzividu",
+      "name": "ap.nuzividu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.eluru",
+      "name": "ap.eluru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.jangareddygudem",
+      "name": "ap.jangareddygudem",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.chinthalapudi",
+      "name": "ap.chinthalapudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.amalapuram",
+      "name": "ap.amalapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.mandapet",
+      "name": "ap.mandapet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.ramachandrapuram",
+      "name": "ap.ramachandrapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.mummidivaram",
+      "name": "ap.mummidivaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.jaggaiahpet",
+      "name": "ap.jaggaiahpet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.vijayawada",
+      "name": "ap.vijayawada",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nandigama",
+      "name": "ap.nandigama",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tiruvuru",
+      "name": "ap.tiruvuru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kondapalli",
+      "name": "ap.kondapalli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kakinada",
+      "name": "ap.kakinada",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.peddapuram",
+      "name": "ap.peddapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.pithapuram",
+      "name": "ap.pithapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.samalkot",
+      "name": "ap.samalkot",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tuni",
+      "name": "ap.tuni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gollaprolu",
+      "name": "ap.gollaprolu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.yeleswaram",
+      "name": "ap.yeleswaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.guntur",
+      "name": "ap.guntur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.ponnur",
+      "name": "ap.ponnur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tenali",
+      "name": "ap.tenali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.mangalagiritadepalli",
+      "name": "ap.mangalagiritadepalli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.markapur",
+      "name": "ap.markapur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.ongole",
+      "name": "ap.ongole",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.giddalur",
+      "name": "ap.giddalur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.cheemakurthy",
+      "name": "ap.cheemakurthy",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kanigiri",
+      "name": "ap.kanigiri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.darsi",
+      "name": "ap.darsi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.podili",
+      "name": "ap.podili",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kavali",
+      "name": "ap.kavali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nellore",
+      "name": "ap.nellore",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kandukur",
+      "name": "ap.kandukur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.atmakurnlr",
+      "name": "ap.atmakurnlr",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.buchireddypalem",
+      "name": "ap.buchireddypalem",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.alluru",
+      "name": "ap.alluru",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bapatla",
+      "name": "ap.bapatla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.repalle",
+      "name": "ap.repalle",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.chirala",
+      "name": "ap.chirala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.addanki",
+      "name": "ap.addanki",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.chilakaluripet",
+      "name": "ap.chilakaluripet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.macherla",
+      "name": "ap.macherla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.narasaraopet",
+      "name": "ap.narasaraopet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.sattenapalle",
+      "name": "ap.sattenapalle",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.vinukonda",
+      "name": "ap.vinukonda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.piduguralla",
+      "name": "ap.piduguralla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.dachepalli",
+      "name": "ap.dachepalli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gurazala",
+      "name": "ap.gurazala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gudurnlr",
+      "name": "ap.gudurnlr",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.venkatagiri",
+      "name": "ap.venkatagiri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.sullurpeta",
+      "name": "ap.sullurpeta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.naidupet",
+      "name": "ap.naidupet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.chittoor",
+      "name": "ap.chittoor",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.punganur",
+      "name": "ap.punganur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.palamaner",
+      "name": "ap.palamaner",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nagari",
+      "name": "ap.nagari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kuppam",
+      "name": "ap.kuppam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kadapa",
+      "name": "ap.kadapa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.proddatur",
+      "name": "ap.proddatur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.pulivendula",
+      "name": "ap.pulivendula",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.budwel",
+      "name": "ap.budwel",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.jammalamadugu",
+      "name": "ap.jammalamadugu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.mydukur",
+      "name": "ap.mydukur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.yerraguntla",
+      "name": "ap.yerraguntla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kamalapuram",
+      "name": "ap.kamalapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.anantapur",
+      "name": "ap.anantapur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.guntakal",
+      "name": "ap.guntakal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.rayadurg",
+      "name": "ap.rayadurg",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tadipatri",
+      "name": "ap.tadipatri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gooty",
+      "name": "ap.gooty",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kalyanadurgam",
+      "name": "ap.kalyanadurgam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.adoni",
+      "name": "ap.adoni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kurnool",
+      "name": "ap.kurnool",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.yemmiganur",
+      "name": "ap.yemmiganur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.gudurknl",
+      "name": "ap.gudurknl",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.madanapalle",
+      "name": "ap.madanapalle",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.rajampet",
+      "name": "ap.rajampet",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.rayachoty",
+      "name": "ap.rayachoty",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bkothakota",
+      "name": "ap.bkothakota",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nandyal",
+      "name": "ap.nandyal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.dhone",
+      "name": "ap.dhone",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.atmakurknl",
+      "name": "ap.atmakurknl",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.nandikotkur",
+      "name": "ap.nandikotkur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.allagadda",
+      "name": "ap.allagadda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.bethamcherla",
+      "name": "ap.bethamcherla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.dharmavaram",
+      "name": "ap.dharmavaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.hindupur",
+      "name": "ap.hindupur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.kadiri",
+      "name": "ap.kadiri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.madakasira",
+      "name": "ap.madakasira",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.puttaparthy",
+      "name": "ap.puttaparthy",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.penukonda",
+      "name": "ap.penukonda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.srikalahasti",
+      "name": "ap.srikalahasti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.tirupati",
+      "name": "ap.tirupati",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Andra Pradesh",
+      "stateName": "Andra Pradesh",
+      "code": "ap.puttur",
+      "name": "ap.puttur",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
