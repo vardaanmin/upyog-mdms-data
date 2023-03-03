@@ -1489,7 +1489,7 @@
          "url": "/user/password/_update",
          "displayName": "Update Password",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Update Password"
@@ -1500,7 +1500,7 @@
          "url": "/user/password/nologin/_update",
          "displayName": "UpdatePassword For NonLogged InUser",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.UpdatePasswordForNonLoggedInUser"
