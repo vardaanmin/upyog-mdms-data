@@ -3216,7 +3216,7 @@
          "url": "/report/rainmaker-pt/_get",
          "displayName": "PT Report",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PROPERTYREPORTS",
          "code": "null",
          "path": "Property Report"
@@ -3227,7 +3227,7 @@
          "url": "/report/rainmaker-pt/metadata/_get",
          "displayName": "PT Report",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PROPERTYREPORTS",
          "code": "null",
          "path": "Property Report"
@@ -4729,7 +4729,7 @@
          "url": "/report/finance/metadata/_get",
          "displayName": "Report metadata",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "COLLECTIONS",
          "code": "null",
          "path": ""
@@ -6041,7 +6041,7 @@
          "displayName": "Collection Report",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": "FIRE-NOC.Reports.CollectionReport",
@@ -6056,7 +6056,7 @@
          "displayName": "Application Status Report",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "code": "null",
          "path": "FIRE-NOC.Reports.ApplicationStatusReport",
@@ -6085,7 +6085,7 @@
          "url": "/report/rainmaker-common/_get",
          "displayName": "Universal Collection Report",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "REPORTS",
          "code": "null",
          "path": "UC Report"
@@ -6096,7 +6096,7 @@
          "url": "/report/rainmaker-common/metadata/_get",
          "displayName": "Universal Collection Report metadata",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "UCREPORTS",
          "code": "null",
          "path": "UC Collection Metadata "
@@ -6243,7 +6243,7 @@
          "url": "/report/rainmaker-noc/_get",
          "displayName": "FIRENOC Report",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "REPORTS",
          "code": "null",
          "path": "FIRENOC Report"
@@ -6254,7 +6254,7 @@
          "url": "/report/rainmaker-noc/metadata/_get",
          "displayName": "FIRENOC Report metadata",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FIRENOCREPORTS",
          "code": "null",
          "path": "FIRENOC Metadata "
@@ -9477,7 +9477,7 @@
       "url": "url",
       "displayName": "Misc Business Service Collections",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -9490,7 +9490,7 @@
       "url": "url",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -9514,7 +9514,7 @@
       "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
       "displayName": "Misc BusinessService Collection Tenant Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscBusinessServiceCollectionTenant"
@@ -9525,7 +9525,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/metadata/_get",
       "displayName": "MiscReceiptCBCancelled metadata",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "MiscReceiptCBCancelled Metadata"
@@ -9536,7 +9536,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/_get",
       "displayName": "Misc BusinessService Collection Tenant Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscReceiptCBCancelled"
@@ -9547,7 +9547,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptCB/metadata/_get",
       "displayName": "MiscReceiptCB metadata",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "MiscReceiptCB Metadata"
@@ -9558,7 +9558,7 @@
       "url": "/report/rainmaker-uc/MiscReceiptCB/_get",
       "displayName": "Misc Receipt Report",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscReceiptCB"
@@ -12624,7 +12624,7 @@
       "displayName": "BirthRecordsCountReportCBLevel",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "report",
       "code": "null",
       "path": ""
@@ -12777,7 +12777,7 @@
       "displayName": "Death Update Report",
       "orderNumber": 0,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
