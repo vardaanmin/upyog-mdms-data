@@ -12597,7 +12597,7 @@
       "displayName": "Death Records Count",
       "orderNumber": 9,
       "parentModule": "rainmaker-bnd",
-      "enabled": false
+      "enabled": false,
       "serviceCode": "bnd",
       "code": "null",
       "path": "cbbnd.DeathRecordsCountReport",
