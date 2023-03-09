@@ -6085,7 +6085,7 @@
       "url": "/report/rainmaker-common/_get",
       "displayName": "Universal Collection Report",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "UC Report"
@@ -6096,7 +6096,7 @@
       "url": "/report/rainmaker-common/metadata/_get",
       "displayName": "Universal Collection Report metadata",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "UC Collection Metadata "
