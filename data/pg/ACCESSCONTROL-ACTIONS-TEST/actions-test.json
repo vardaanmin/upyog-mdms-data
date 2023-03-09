@@ -13398,6 +13398,21 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
+    },
+	{
+      "id": 2415,
+      "name": "CollectionReport",
+      "url": "url",
+      "displayName": "Collection Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "FIRE-NOC.Reports.CollectionReport",
+      "navigationURL": "report/rainmaker-noc/CollectionReport/metadata/_get",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
