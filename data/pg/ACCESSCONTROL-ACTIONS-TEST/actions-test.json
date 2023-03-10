@@ -13401,18 +13401,25 @@
     },
 	{
       "id": 2415,
-      "name": "CollectionReport",
-      "url": "url",
-      "displayName": "Collection Report",
+      "name": "CollectionReport-Metadata",
+      "url": "/report/rainmaker-noc/CollectionReport/metadata/_get",
+      "displayName": "Collection Metadata Report",
       "orderNumber": 1,
-      "parentModule": "",
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": "FIRE-NOC.Reports.CollectionReport",
-      "navigationURL": "report/rainmaker-noc/CollectionReport/metadata/_get",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "path": "Collection Report"
+    },
+	{
+      "id": 2416,
+      "name": "CollectionReport",
+      "url": "/report/rainmaker-noc/CollectionReport/_get",
+      "displayName": "Collection Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Collection Report"
     }
   ]
 }
