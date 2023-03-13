@@ -4887,7 +4887,7 @@
       "displayName": "State Level Trade License Registry Report",
       "orderNumber": 4,
       "parentModule": "rainmaker-tl",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
