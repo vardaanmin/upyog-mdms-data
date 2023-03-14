@@ -13420,6 +13420,28 @@
       "serviceCode": "",
       "code": "null",
       "path": "Collection Report"
+    },
+	{
+      "id": 2417,
+      "name": "ApplicationStatusReport-Metadata",
+      "url": "/report/rainmaker-noc/ApplicationStatusReport/metadata/_get",
+      "displayName": "NOC Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "NOC Report"
+    },
+    {
+      "id": 2418,
+      "name": "ApplicationStatusReport",
+      "url": "/report/rainmaker-noc/ApplicationStatusReport/_get",
+      "displayName": "NOC Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "NOC Report"
     }
   ]
 }
