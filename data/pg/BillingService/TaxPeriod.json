@@ -836,7 +836,7 @@
     },
     {
       "fromDate": 1648771200000,
-      "toDate": 1680307199000,
+      "toDate": 1680307199999,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2022",
@@ -844,7 +844,7 @@
     },
     {
       "fromDate": 1648771200000,
-      "toDate": 1680307199000,
+      "toDate": 1680307199999,
       "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2022",
