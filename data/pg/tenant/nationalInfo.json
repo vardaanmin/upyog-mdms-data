@@ -11920,6 +11920,750 @@
       "name": "mp.bargavansingrauli",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.adoormunicipality",
+      "name": "kl.adoormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.alappuzhamunicipality",
+      "name": "kl.alappuzhamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.aluvamunicipality",
+      "name": "kl.aluvamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.angamalymunicipality",
+      "name": "kl.angamalymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.anthoormunicipality",
+      "name": "kl.anthoormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.attingalmunicipality",
+      "name": "kl.attingalmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chalakudymunicipality",
+      "name": "kl.chalakudymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.changanasserymunicipality",
+      "name": "kl.changanasserymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chavakkadmunicipality",
+      "name": "kl.chavakkadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chengannurmunicipality",
+      "name": "kl.chengannurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.cherpulasserymunicipality",
+      "name": "kl.cherpulasserymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.cherthalamunicipality",
+      "name": "kl.cherthalamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chitturtattamangalammunicipality",
+      "name": "kl.chitturtattamangalammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kochicorporation",
+      "name": "kl.kochicorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.eloormunicipality",
+      "name": "kl.eloormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.erattupettamunicipality",
+      "name": "kl.erattupettamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ettumanoormunicipality",
+      "name": "kl.ettumanoormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ferokemunicipality",
+      "name": "kl.ferokemunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.guruvayurmunicipality",
+      "name": "kl.guruvayurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.haripadmunicipality",
+      "name": "kl.haripadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.irinjalakudamunicipality",
+      "name": "kl.irinjalakudamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.irittymunicipality",
+      "name": "kl.irittymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kalamasserymunicipality",
+      "name": "kl.kalamasserymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kalpettamunicipality",
+      "name": "kl.kalpettamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kanhangadmunicipality",
+      "name": "kl.kanhangadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kannurcorporation",
+      "name": "kl.kannurcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.karunagappallymunicipality",
+      "name": "kl.karunagappallymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kasaragodmunicipality",
+      "name": "kl.kasaragodmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kattappanamunicipality",
+      "name": "kl.kattappanamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kayamkulammunicipality",
+      "name": "kl.kayamkulammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kodungallurmunicipality",
+      "name": "kl.kodungallurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koduvallymunicipality",
+      "name": "kl.koduvallymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kollamcorporation",
+      "name": "kl.kollamcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kondottymunicipality",
+      "name": "kl.kondottymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koothattukulammunicipality",
+      "name": "kl.koothattukulammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kothamangalammunicipality",
+      "name": "kl.kothamangalammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottakkalmunicipality",
+      "name": "kl.kottakkalmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottarakaramunicipality",
+      "name": "kl.kottarakaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottayammunicipality",
+      "name": "kl.kottayammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koyilandymunicipality",
+      "name": "kl.koyilandymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kozhikodecorporation",
+      "name": "kl.kozhikodecorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kunnamkulammunicipality",
+      "name": "kl.kunnamkulammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kuthuparambamunicipality",
+      "name": "kl.kuthuparambamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.malappurammunicipality",
+      "name": "kl.malappurammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mananthavadymunicipality",
+      "name": "kl.mananthavadymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.manjerimunicipality",
+      "name": "kl.manjerimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mannarkadmunicipality",
+      "name": "kl.mannarkadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.maradumunicipality",
+      "name": "kl.maradumunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mattanurmunicipality",
+      "name": "kl.mattanurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mavelikaramunicipality",
+      "name": "kl.mavelikaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mukkammunicipality",
+      "name": "kl.mukkammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.muvattupuzhamunicipality",
+      "name": "kl.muvattupuzhamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nedumangadmunicipality",
+      "name": "kl.nedumangadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.neyyattinkaramunicipality",
+      "name": "kl.neyyattinkaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nilamburmunicipality",
+      "name": "kl.nilamburmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nileshwarmunicipality",
+      "name": "kl.nileshwarmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.northparavurmunicipality",
+      "name": "kl.northparavurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ottapalammunicipality",
+      "name": "kl.ottapalammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.palamunicipality",
+      "name": "kl.palamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.palakkadmunicipality",
+      "name": "kl.palakkadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pandalammunicipality",
+      "name": "kl.pandalammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.panoormunicipality",
+      "name": "kl.panoormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.parappanangadimunicipality",
+      "name": "kl.parappanangadimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.paravurmunicipality",
+      "name": "kl.paravurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pathanamthittamunicipality",
+      "name": "kl.pathanamthittamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pattambimunicipality",
+      "name": "kl.pattambimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.payyannurmunicipality",
+      "name": "kl.payyannurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.payyolimunicipality",
+      "name": "kl.payyolimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.perinthalmannamunicipality",
+      "name": "kl.perinthalmannamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.perumbavoormunicipality",
+      "name": "kl.perumbavoormunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.piravommunicipality",
+      "name": "kl.piravommunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ponnanimunicipality",
+      "name": "kl.ponnanimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.punalurmunicipality",
+      "name": "kl.punalurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ramanattukaramunicipality",
+      "name": "kl.ramanattukaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.shoranurmunicipality",
+      "name": "kl.shoranurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.sreekandapurammunicipality",
+      "name": "kl.sreekandapurammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.sulthanbatherymunicipality",
+      "name": "kl.sulthanbatherymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tanurmunicipality",
+      "name": "kl.tanurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thalasserymunicipality",
+      "name": "kl.thalasserymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thalipparambamunicipality",
+      "name": "kl.thalipparambamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thiruvallamunicipality",
+      "name": "kl.thiruvallamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thiruvananthapuramcorporation",
+      "name": "kl.thiruvananthapuramcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thodupuzhamunicipality",
+      "name": "kl.thodupuzhamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thrikkakaramunicipality",
+      "name": "kl.thrikkakaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thrissurcorporation",
+      "name": "kl.thrissurcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tirurmunicipality",
+      "name": "kl.tirurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tirurangadimunicipality",
+      "name": "kl.tirurangadimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tripunithuramunicipality",
+      "name": "kl.tripunithuramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.vadakaramunicipality",
+      "name": "kl.vadakaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.vaikommunicipality",
+      "name": "kl.vaikommunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.valancherymunicipality",
+      "name": "kl.valancherymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.varkalamunicipality",
+      "name": "kl.varkalamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.wadakancherymunicipality",
+      "name": "kl.wadakancherymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
