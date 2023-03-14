@@ -6056,7 +6056,7 @@
       "displayName": "Application Status Report",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "FIRE-NOC.Reports.ApplicationStatusReport",
