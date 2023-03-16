@@ -10416,7 +10416,7 @@
       "displayName": "Recepit Register",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "UC.Reports.ReceiptRegister",
@@ -10430,7 +10430,7 @@
       "url": "/report/mcollect/MCollectReceiptRegister/_get",
       "displayName": "Receipt Register",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MCOLLECTRECEIPTREGISTER",
       "code": "null",
       "path": "Receipt Register"
@@ -10441,7 +10441,7 @@
       "url": "/report/mcollect/MCollectReceiptRegister/metadata/_get",
       "displayName": "Receipt Report",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "MCOLLECTRECEIPTREGISTERMETADATA",
       "code": "null",
       "path": "Receipt Register"
