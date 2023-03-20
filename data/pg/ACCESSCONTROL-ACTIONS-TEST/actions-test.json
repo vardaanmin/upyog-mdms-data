@@ -6027,7 +6027,7 @@
       "url": "url",
       "displayName": "Collection Register",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "leftIcon": "action:description",
