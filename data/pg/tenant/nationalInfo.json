@@ -12664,6 +12664,1262 @@
       "name": "kl.wadakancherymunicipality",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.avadi",
+      "name": "tn.avadi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.coimbatore",
+      "name": "tn.coimbatore",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.dindigul",
+      "name": "tn.dindigul",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.erode",
+      "name": "tn.erode",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.hosur",
+      "name": "tn.hosur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.madurai",
+      "name": "tn.madurai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.nagercoil",
+      "name": "tn.nagercoil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.salem",
+      "name": "tn.salem",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thanjavur",
+      "name": "tn.thanjavur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thoothukudi",
+      "name": "tn.thoothukudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tiruchirappallicitymunicipalcorporation",
+      "name": "tn.tiruchirappallicitymunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tirunelvelicorporation",
+      "name": "tn.tirunelvelicorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tiruppur",
+      "name": "tn.tiruppur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vellore",
+      "name": "tn.vellore",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tambaram",
+      "name": "tn.tambaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kancheepuram",
+      "name": "tn.kancheepuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sivakasithiruthangal",
+      "name": "tn.sivakasithiruthangal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kumbakonam",
+      "name": "tn.kumbakonam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.cuddalore",
+      "name": "tn.cuddalore",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.karur",
+      "name": "tn.karur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.chengalpattu",
+      "name": "tn.chengalpattu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.madurantakam",
+      "name": "tn.madurantakam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.maraimalainagar",
+      "name": "tn.maraimalainagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.nguduvancherry",
+      "name": "tn.nguduvancherry",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.mangadu",
+      "name": "tn.mangadu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kundrathur",
+      "name": "tn.kundrathur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tiruvallur",
+      "name": "tn.tiruvallur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.poonamallee",
+      "name": "tn.poonamallee",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruthani",
+      "name": "tn.thiruthani",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruverkadu",
+      "name": "tn.thiruverkadu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ponneri",
+      "name": "tn.ponneri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruninravur",
+      "name": "tn.thiruninravur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.chidambaram",
+      "name": "tn.chidambaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.nellikuppam",
+      "name": "tn.nellikuppam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.panruti",
+      "name": "tn.panruti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.virudhachalam",
+      "name": "tn.virudhachalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thittakudi",
+      "name": "tn.thittakudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vadalur",
+      "name": "tn.vadalur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tirumangalam",
+      "name": "tn.tirumangalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.melur",
+      "name": "tn.melur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.usilampatti",
+      "name": "tn.usilampatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.theniallinagaram",
+      "name": "tn.theniallinagaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.bodinayakanur",
+      "name": "tn.bodinayakanur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.cumbum",
+      "name": "tn.cumbum",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.chinnamanur",
+      "name": "tn.chinnamanur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.peiryakulam",
+      "name": "tn.peiryakulam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.gudalur",
+      "name": "tn.gudalur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sivagangai",
+      "name": "tn.sivagangai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.karaikudi",
+      "name": "tn.karaikudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.devakottai",
+      "name": "tn.devakottai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.manamadurai",
+      "name": "tn.manamadurai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kodaikanal",
+      "name": "tn.kodaikanal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.palani",
+      "name": "tn.palani",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.oddanchatram",
+      "name": "tn.oddanchatram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ramanathapuram",
+      "name": "tn.ramanathapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.paramakudi",
+      "name": "tn.paramakudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.rameswaram",
+      "name": "tn.rameswaram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.keelakarai",
+      "name": "tn.keelakarai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.attur",
+      "name": "tn.attur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.mettur",
+      "name": "tn.mettur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.idappadi",
+      "name": "tn.idappadi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.narasingapuram",
+      "name": "tn.narasingapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.komarapalayam",
+      "name": "tn.komarapalayam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.namakkal",
+      "name": "tn.namakkal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pallipalayam",
+      "name": "tn.pallipalayam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.rasipuram",
+      "name": "tn.rasipuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tiruchengode",
+      "name": "tn.tiruchengode",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.dharmapuri",
+      "name": "tn.dharmapuri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.krishnagiri",
+      "name": "tn.krishnagiri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kulithalai",
+      "name": "tn.kulithalai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pallapatti",
+      "name": "tn.pallapatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pugallur",
+      "name": "tn.pugallur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.edanganasalai",
+      "name": "tn.edanganasalai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thaaramangalam",
+      "name": "tn.thaaramangalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pattukottai",
+      "name": "tn.pattukottai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.nagapattinam",
+      "name": "tn.nagapattinam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sirkali",
+      "name": "tn.sirkali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vedaranyam",
+      "name": "tn.vedaranyam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.mayiladuthurai",
+      "name": "tn.mayiladuthurai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.koothanallur",
+      "name": "tn.koothanallur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.mannargudi",
+      "name": "tn.mannargudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruthuraipoondi",
+      "name": "tn.thiruthuraipoondi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruvarur",
+      "name": "tn.thiruvarur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.aranthangi",
+      "name": "tn.aranthangi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pudukkottai",
+      "name": "tn.pudukkottai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.manapparai",
+      "name": "tn.manapparai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thuraiyur",
+      "name": "tn.thuraiyur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thuvakudi",
+      "name": "tn.thuvakudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.perambalur",
+      "name": "tn.perambalur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ariyalur",
+      "name": "tn.ariyalur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.jayankondam",
+      "name": "tn.jayankondam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.adirampattinam",
+      "name": "tn.adirampattinam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.musiri",
+      "name": "tn.musiri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.lalkudi",
+      "name": "tn.lalkudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kadayanallur",
+      "name": "tn.kadayanallur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.puliyangudi",
+      "name": "tn.puliyangudi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sankarankoil",
+      "name": "tn.sankarankoil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sengottai",
+      "name": "tn.sengottai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tenkasi",
+      "name": "tn.tenkasi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ambasamudram",
+      "name": "tn.ambasamudram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vickramasingapuram",
+      "name": "tn.vickramasingapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kayalpattinam",
+      "name": "tn.kayalpattinam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kovilpatti",
+      "name": "tn.kovilpatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.colachel",
+      "name": "tn.colachel",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kuzhithurai",
+      "name": "tn.kuzhithurai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.padmanabhapuram",
+      "name": "tn.padmanabhapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.aruppukottai",
+      "name": "tn.aruppukottai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.rajapalayam",
+      "name": "tn.rajapalayam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sattur",
+      "name": "tn.sattur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.srivilliputhur",
+      "name": "tn.srivilliputhur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.virudhunagar",
+      "name": "tn.virudhunagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.surandai",
+      "name": "tn.surandai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kalakadu",
+      "name": "tn.kalakadu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kollankodu",
+      "name": "tn.kollankodu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruchendur",
+      "name": "tn.thiruchendur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.bhavani",
+      "name": "tn.bhavani",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.gobichettipalayam",
+      "name": "tn.gobichettipalayam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.punjaipuliampatti",
+      "name": "tn.punjaipuliampatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sathyamangalam",
+      "name": "tn.sathyamangalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.coonoor",
+      "name": "tn.coonoor",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.gudalurnilgiris",
+      "name": "tn.gudalurnilgiris",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.nelliyalam",
+      "name": "tn.nelliyalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.udhagamandalam",
+      "name": "tn.udhagamandalam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.dharapuram",
+      "name": "tn.dharapuram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kangeyam",
+      "name": "tn.kangeyam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.palladam",
+      "name": "tn.palladam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.udumalaipettai",
+      "name": "tn.udumalaipettai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vellakovil",
+      "name": "tn.vellakovil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.mettupalayam",
+      "name": "tn.mettupalayam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pollachi",
+      "name": "tn.pollachi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.valparai",
+      "name": "tn.valparai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thirumuruganpoondi",
+      "name": "tn.thirumuruganpoondi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.karamadai",
+      "name": "tn.karamadai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.karumathampatti",
+      "name": "tn.karumathampatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.madhukarai",
+      "name": "tn.madhukarai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.gudiyathammunicipality",
+      "name": "tn.gudiyathammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.pernampetmunicipality",
+      "name": "tn.pernampetmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thirupathurmunicipality",
+      "name": "tn.thirupathurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.amburmunicipality",
+      "name": "tn.amburmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.jolarpetmunicipality",
+      "name": "tn.jolarpetmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vaniyambadimunicipality",
+      "name": "tn.vaniyambadimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ranipetmunicipality",
+      "name": "tn.ranipetmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.arakkonammunicipality",
+      "name": "tn.arakkonammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.arcotmunicipality",
+      "name": "tn.arcotmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.melvisharammunicipality",
+      "name": "tn.melvisharammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.walajapetmunicipality",
+      "name": "tn.walajapetmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.sholinghurmunicipality",
+      "name": "tn.sholinghurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tiruvannamalaimunicipality",
+      "name": "tn.tiruvannamalaimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.aranimunicipality",
+      "name": "tn.aranimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.thiruvathipurammunicipality",
+      "name": "tn.thiruvathipurammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.vandavasimunicipality",
+      "name": "tn.vandavasimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.villupurammunicipality",
+      "name": "tn.villupurammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tindivanammunicipality",
+      "name": "tn.tindivanammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kottakuppammunicipality",
+      "name": "tn.kottakuppammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.kallakurichimunicipality",
+      "name": "tn.kallakurichimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.ulundurpettaimunicipality",
+      "name": "tn.ulundurpettaimunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
+      "code": "tn.tirukkoyilurmunicipality",
+      "name": "tn.tirukkoyilurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
