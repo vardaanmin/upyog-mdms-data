@@ -25112,6 +25112,18 @@
       "actionid": 2414,
       "actioncode": "",
       "tenantId": "pg"
-    }	
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	   {
+      "rolecode": "NATADMIN",
+      "actionid": 2420,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
