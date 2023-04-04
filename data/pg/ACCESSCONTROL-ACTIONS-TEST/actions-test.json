@@ -13466,7 +13466,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FaecalSludgeManagement",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-faecalsludgemanagement",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }	  
