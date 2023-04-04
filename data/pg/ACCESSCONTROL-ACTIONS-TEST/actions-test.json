@@ -13442,6 +13442,34 @@
       "serviceCode": "",
       "code": "null",
       "path": "NOC Report"
-    }
+    },
+    {
+      "id": 2419,
+      "name": "NSS Dashboard Config National FSM",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-faecalsludgemanagement",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2420,
+      "name": "National Dashboard FSM",
+      "url": "url",
+      "displayName": "National Faecal Sludge Management",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.FaecalSludgeManagement",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/national-faecalsludgemanagement",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    }	  
+	  
   ]
 }
