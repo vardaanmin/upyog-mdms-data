@@ -13446,7 +13446,7 @@
     {
       "id": 2419,
       "name": "NSS Dashboard Config National FSM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-faecalsludgemanagement",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fsm",
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
