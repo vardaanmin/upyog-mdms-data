@@ -247,7 +247,7 @@
     {
       "module": "FSM",
       "code": "FSM",
-      "active": false,
+      "active": true,
       "order":2,
       "tenants": [
         {
@@ -362,7 +362,7 @@
     {
       "module": "Engagement",
       "code": "Engagement",
-      "active": false,
+      "active": true,
       "order":3,
       "tenants": [
         {
