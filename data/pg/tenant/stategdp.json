@@ -1,0 +1,46 @@
+{
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "stateGDPinfo":[
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "financialYear": "2022-23",
+      "stateGDP":"32800000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "financialYear": "2022-23",
+      "stateGDP":"46700000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chandigarh",
+      "stateName": "Chandigarh",
+      "financialYear": "2022-23",
+      "stateGDP":"21400000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Karnataka",
+      "stateName": "Karnataka",
+      "financialYear": "2022-23",
+      "stateGDP":"94100000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "financialYear": "2022-23",
+      "stateGDP":"43000000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    ]
+}
