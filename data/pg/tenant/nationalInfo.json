@@ -6702,6 +6702,7 @@
       "stateCode": "KARNATAKA",
       "stateName": "KARNATAKA",
       "code": "ka.hootagalli",
+      "name": "ka.hootagalli",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -9553,7 +9554,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-    {
+	{
       "stateCode": "Madhya Pradesh",
       "stateName": "Madhya Pradesh",
       "code": "mp.kukdeshwar",
@@ -10241,7 +10242,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-    {
+	{
       "stateCode": "Madhya Pradesh",
       "stateName": "Madhya Pradesh",
       "code": "mp.boda",
