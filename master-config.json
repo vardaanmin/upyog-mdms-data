@@ -961,12 +961,6 @@
       ]
     }
   },
-    "waterSourceWithSubSource": {
-      "masterName": "waterSourceWithSubSource",
-      "isStateLevel": true,
-      "uniqueKeys": []
-    }
-  },
   "ws-services-calculation": {
     "WaterCess": {
       "masterName": "WaterCess",
@@ -1048,7 +1042,7 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
       "uniqueKeys": []
-	  },
+    },
     "PipeSize": {
       "masterName": "PipeSize",
       "isStateLevel": true,
@@ -1133,6 +1127,13 @@
     }
   },
   "FSM": {
+"Slum": {
+      "masterName": "Slum",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "ApplicationChannel": {
       "masterName": "ApplicationChannel",
       "isStateLevel": true,
@@ -1230,7 +1231,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-  },
+    },
     "ReceivedPaymentType": {
       "masterName": "ReceivedPaymentType",
       "isStateLevel": true,
@@ -1238,7 +1239,7 @@
         "$.code"
       ]
     }
-	},
+  },
   "Vehicle":{
      "SuctionType": {
       "masterName": "SuctionType",
