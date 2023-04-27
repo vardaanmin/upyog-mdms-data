@@ -1048,7 +1048,7 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
       "uniqueKeys": []
-	  },
+    },
     "PipeSize": {
       "masterName": "PipeSize",
       "isStateLevel": true,
@@ -1230,7 +1230,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-  },
+    },
     "ReceivedPaymentType": {
       "masterName": "ReceivedPaymentType",
       "isStateLevel": true,
@@ -1238,7 +1238,7 @@
         "$.code"
       ]
     }
-	},
+  },
   "Vehicle":{
      "SuctionType": {
       "masterName": "SuctionType",
