@@ -1129,7 +1129,7 @@
   "FSM": {
     "ApplicationChannel": {
       "masterName": "ApplicationChannel",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
