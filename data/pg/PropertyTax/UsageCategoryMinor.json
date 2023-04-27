@@ -39,7 +39,7 @@
       }
     },
     {
-      "name": "Other Non-Residential",
+      "name": "Others",
       "code": "OTHERS",
       "active": true,
       "fromFY": "2015-16",
