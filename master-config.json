@@ -1128,7 +1128,7 @@
   },
   "FSM": {
 "Slum": {
-      "masterName": "ApplicationChannel",
+      "masterName": "Slum",
       "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
