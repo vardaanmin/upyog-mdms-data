@@ -1127,6 +1127,13 @@
     }
   },
   "FSM": {
+"Slum": {
+      "masterName": "ApplicationChannel",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "ApplicationChannel": {
       "masterName": "ApplicationChannel",
       "isStateLevel": true,
