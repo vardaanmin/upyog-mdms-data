@@ -695,17 +695,17 @@
       "uniqueKeys": []
     }
   },
-   "NOC":{
-    "DocumentTypeMapping":{
+  "NOC": {
+    "DocumentTypeMapping": {
       "masterName": "DocumentTypeMapping",
       "isStateLevel": true,
       "uniqueKeys": []
     },
-     "NocType":{
+    "NocType": {
       "masterName": "NocType",
       "isStateLevel": true,
       "uniqueKeys": [
-       "$.code"
+        "$.code"
       ]
     }
   },
@@ -953,14 +953,13 @@
         "$.code"
       ]
     },
-		 "ModifyConnectionDocuments": {
+    "ModifyConnectionDocuments": {
       "masterName": "ModifyConnectionDocuments",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
-    }
-  },
+    },
     "waterSourceWithSubSource": {
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
@@ -1048,7 +1047,7 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
       "uniqueKeys": []
-	  },
+    },
     "PipeSize": {
       "masterName": "PipeSize",
       "isStateLevel": true,
@@ -1146,8 +1145,8 @@
       "uniqueKeys": [
         "$.code"
       ]
-      },
-      "PaymentType": {
+    },
+    "PaymentType": {
       "masterName": "PaymentType",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -1230,7 +1229,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-  },
+    },
     "ReceivedPaymentType": {
       "masterName": "ReceivedPaymentType",
       "isStateLevel": true,
@@ -1238,9 +1237,9 @@
         "$.code"
       ]
     }
-	},
-  "Vehicle":{
-     "SuctionType": {
+  },
+  "Vehicle": {
+    "SuctionType": {
       "masterName": "SuctionType",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -1260,22 +1259,22 @@
       "uniqueKeys": [
         "$.code"
       ]
-  },
-    "Vendor": {
-    "AgencyType": {
-      "masterName": "AgencyType",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
     },
-    "PaymentPreference": {
-      "masterName": "PaymentPreference",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+    "Vendor": {
+      "AgencyType": {
+        "masterName": "AgencyType",
+        "isStateLevel": false,
+        "uniqueKeys": [
+          "$.code"
+        ]
+      },
+      "PaymentPreference": {
+        "masterName": "PaymentPreference",
+        "isStateLevel": false,
+        "uniqueKeys": [
+          "$.code"
+        ]
+      }
     }
-  }
   }
 }
