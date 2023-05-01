@@ -15048,6 +15048,1358 @@
       "name": "tl.zaheerabadmunicipality",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.ambikapurmunicipalcorporation",
+      "name": "ch.ambikapurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhilaimunicipalcorporation",
+      "name": "ch.bhilaimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhilaicharodamunicipalcorporation",
+      "name": "ch.bhilaicharodamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bilaspurmunicipalcorporation",
+      "name": "ch.bilaspurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.birgaonmunicipalcorporation",
+      "name": "ch.birgaonmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chirimirimunicipalcorporation",
+      "name": "ch.chirimirimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dhamtarimunicipalcorporation",
+      "name": "ch.dhamtarimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.durgmunicipalcorporation",
+      "name": "ch.durgmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jagdalpurmunicipalcorporation",
+      "name": "ch.jagdalpurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.korbamunicipalcorporation",
+      "name": "ch.korbamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.raigarhmunicipalcorporation",
+      "name": "ch.raigarhmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.raipurmunicipalcorporation",
+      "name": "ch.raipurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.rajnandgaonmunicipalcorporation",
+      "name": "ch.rajnandgaonmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.risalimunicipalcorporation",
+      "name": "ch.risalimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.ahiwaramunicipalcouncil",
+      "name": "ch.ahiwaramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.akaltaramunicipalcouncil",
+      "name": "ch.akaltaramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.arangmunicipalcouncil",
+      "name": "ch.arangmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.badibachelimunicipalcouncil",
+      "name": "ch.badibachelimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.baghbaharamunicipalcouncil",
+      "name": "ch.baghbaharamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.baikunthpurmunicipalcouncil",
+      "name": "ch.baikunthpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.balodmunicipalcouncil",
+      "name": "ch.balodmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.balodabazarmunicipalcouncil",
+      "name": "ch.balodabazarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.balrampurmunicipalcouncil",
+      "name": "ch.balrampurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bemetaramunicipalcouncil",
+      "name": "ch.bemetaramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhataparamunicipalcouncil",
+      "name": "ch.bhataparamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bijapurmunicipalcouncil",
+      "name": "ch.bijapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.champamunicipalcouncil",
+      "name": "ch.champamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dallirajharamunicipalcouncil",
+      "name": "ch.dallirajharamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dantewadamunicipalcouncil",
+      "name": "ch.dantewadamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dipkamunicipalcouncil",
+      "name": "ch.dipkamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dongargarhmunicipalcouncil",
+      "name": "ch.dongargarhmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gariyabandmunicipalcouncil",
+      "name": "ch.gariyabandmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gobranawaparamunicipalcouncil",
+      "name": "ch.gobranawaparamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jamulmunicipalcouncil",
+      "name": "ch.jamulmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.janjgirnailamunicipalcouncil",
+      "name": "ch.janjgirnailamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jashpurnagarmunicipalcouncil",
+      "name": "ch.jashpurnagarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kankermunicipalcouncil",
+      "name": "ch.kankermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kathgoramunicipalcouncil",
+      "name": "ch.kathgoramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kawardhamunicipalcouncil",
+      "name": "ch.kawardhamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.khairagarhmunicipalcouncil",
+      "name": "ch.khairagarhmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kharsiyamunicipalcouncil",
+      "name": "ch.kharsiyamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kirandulmunicipalcouncil",
+      "name": "ch.kirandulmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kondagaonmunicipalcouncil",
+      "name": "ch.kondagaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kumharimunicipalcouncil",
+      "name": "ch.kumharimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.mahasamundmunicipalcouncil",
+      "name": "ch.mahasamundmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.manendragarhmunicipalcouncil",
+      "name": "ch.manendragarhmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.mungelimunicipalcouncil",
+      "name": "ch.mungelimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.narayanpurmunicipalcouncil",
+      "name": "ch.narayanpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.ratanpurmunicipalcouncil",
+      "name": "ch.ratanpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.saktimunicipalcouncil",
+      "name": "ch.saktimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.saraipalimunicipalcouncil",
+      "name": "ch.saraipalimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sarangarhmunicipalcouncil",
+      "name": "ch.sarangarhmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.shivpurcharchamunicipalcouncil",
+      "name": "ch.shivpurcharchamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sukmamunicipalcouncil",
+      "name": "ch.sukmamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.surajpurmunicipalcouncil",
+      "name": "ch.surajpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.takhatpurmunicipalcouncil",
+      "name": "ch.takhatpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.tildanevramunicipalcouncil",
+      "name": "ch.tildanevramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.abhanpurnagarpanchayat",
+      "name": "ch.abhanpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.adbharnagarpanchayat",
+      "name": "ch.adbharnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.amadinagarpanchayat",
+      "name": "ch.amadinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.ambagarhchowkinagarpanchayat",
+      "name": "ch.ambagarhchowkinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.antagarhnagarpanchayat",
+      "name": "ch.antagarhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.arjundanagarpanchayat",
+      "name": "ch.arjundanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bagichanagarpanchayat",
+      "name": "ch.bagichanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.balodanagarpanchayat",
+      "name": "ch.balodanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.baramkelanagarpanchayat",
+      "name": "ch.baramkelanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.barsurnagarpanchayat",
+      "name": "ch.barsurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.basnanagarpanchayat",
+      "name": "ch.basnanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bastarnagarpanchayat",
+      "name": "ch.bastarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.berlanagarpanchayat",
+      "name": "ch.berlanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhairamgarhnagarpanchayat",
+      "name": "ch.bhairamgarhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhakharanagarpanchayat",
+      "name": "ch.bhakharanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhanupratapurnagarpanchayat",
+      "name": "ch.bhanupratapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhatgaonnagarpanchayat",
+      "name": "ch.bhatgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhatgaonnagarpanchayat(surajpur)",
+      "name": "ch.bhatgaonnagarpanchayat(surajpur)",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bhopalpatnamnagarpanchayat",
+      "name": "ch.bhopalpatnamnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bilaigarhnagarpanchayat",
+      "name": "ch.bilaigarhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bilhanagarpanchayat",
+      "name": "ch.bilhanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bishrampurnagarpanchayat",
+      "name": "ch.bishrampurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bodlanagarpanchayat",
+      "name": "ch.bodlanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.bodrinagarpanchayat",
+      "name": "ch.bodrinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chandkhurinagarpanchayat",
+      "name": "ch.chandkhurinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chandrapurnagarpanchayat",
+      "name": "ch.chandrapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.charamanagarpanchayat",
+      "name": "ch.charamanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chhuikhadannagarpanchayat",
+      "name": "ch.chhuikhadannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chhuranagarpanchayat",
+      "name": "ch.chhuranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chhurikalanagarpanchayat",
+      "name": "ch.chhurikalanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chhuriyanagarpanchayat",
+      "name": "ch.chhuriyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.chikhlakasanagarpanchayat",
+      "name": "ch.chikhlakasanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dabharanagarpanchayat",
+      "name": "ch.dabharanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.daundiloharanagarpanchayat",
+      "name": "ch.daundiloharanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.daundinagarpanchayat",
+      "name": "ch.daundinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.devkarnagarpanchayat",
+      "name": "ch.devkarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dhamdhanagarpanchayat",
+      "name": "ch.dhamdhanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dharamjaigarhnagarpanchayat",
+      "name": "ch.dharamjaigarhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dongargaonnagarpanchayat",
+      "name": "ch.dongargaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.dornapalnagarpanchayat",
+      "name": "ch.dornapalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.farasgaonnagarpanchayat",
+      "name": "ch.farasgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.fingeshwarnagarpanchayat",
+      "name": "ch.fingeshwarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gandainagarpanchayat",
+      "name": "ch.gandainagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.geedamnagarpanchayat",
+      "name": "ch.geedamnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gharghodanagarpanchayat",
+      "name": "ch.gharghodanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gourelanagarpanchayat",
+      "name": "ch.gourelanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gunderdehinagarpanchayat",
+      "name": "ch.gunderdehinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.gururnagarpanchayat",
+      "name": "ch.gururnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jaijaipurnagarpanchayat",
+      "name": "ch.jaijaipurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jarhinagarpanchayat",
+      "name": "ch.jarhinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.jhagarakhandnagarpanchayat",
+      "name": "ch.jhagarakhandnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kasdolnagarpanchayat",
+      "name": "ch.kasdolnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.keshkalnagarpanchayat",
+      "name": "ch.keshkalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kharodnagarpanchayat",
+      "name": "ch.kharodnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kharoranagarpanchayat",
+      "name": "ch.kharoranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.khongapaninagarpanchayat",
+      "name": "ch.khongapaninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kirodimalnagarpanchayat",
+      "name": "ch.kirodimalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kontanagarpanchayat",
+      "name": "ch.kontanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kotanagarpanchayat",
+      "name": "ch.kotanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kotbanagarpanchayat",
+      "name": "ch.kotbanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kunkurinagarpanchayat",
+      "name": "ch.kunkurinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kuranagarpanchayat",
+      "name": "ch.kuranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kurudnagarpanchayat",
+      "name": "ch.kurudnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.kusminagarpanchayat",
+      "name": "ch.kusminagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.lailunganagarpanchayat",
+      "name": "ch.lailunganagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.lakhanpurnagarpanchayat",
+      "name": "ch.lakhanpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.lawannagarpanchayat",
+      "name": "ch.lawannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.lorminagarpanchayat",
+      "name": "ch.lorminagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.magarloadnagarpanchayat",
+      "name": "ch.magarloadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.malharnagarpanchayat",
+      "name": "ch.malharnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.manacampnagarpanchayat",
+      "name": "ch.manacampnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.mandirhasoudnagarpanchayat",
+      "name": "ch.mandirhasoudnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.maronagarpanchayat",
+      "name": "ch.maronagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.nagarinagarpanchayat",
+      "name": "ch.nagarinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.nailedrinagarpanchayat",
+      "name": "ch.nailedrinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.narharpurnagarpanchayat",
+      "name": "ch.narharpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.nawagarhnagarpanchayat",
+      "name": "ch.nawagarhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.nawagarhnagarpanchayat(bemetra)",
+      "name": "ch.nawagarhnagarpanchayat(bemetra)",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.nayabaradwarnagarpanchayat",
+      "name": "ch.nayabaradwarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pakhanjurnagarpanchayat",
+      "name": "ch.pakhanjurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.palarinagarpanchayat",
+      "name": "ch.palarinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.palinagarpanchayat",
+      "name": "ch.palinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pandarianagarpanchayat",
+      "name": "ch.pandarianagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pandatarainagarpanchayat",
+      "name": "ch.pandatarainagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.parpodinagarpanchayat",
+      "name": "ch.parpodinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.patannagarpanchayat",
+      "name": "ch.patannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pathariyanagarpanchayat",
+      "name": "ch.pathariyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.patthalgaonnagarpanchayat",
+      "name": "ch.patthalgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pendranagarpanchayat",
+      "name": "ch.pendranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pipariyanagarpanchayat",
+      "name": "ch.pipariyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pithoranagarpanchayat",
+      "name": "ch.pithoranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pratappurnagarpanchayat",
+      "name": "ch.pratappurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.premnagarnagarpanchayat",
+      "name": "ch.premnagarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.pusaurnagarpanchayat",
+      "name": "ch.pusaurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.rahodnagarpanchayat",
+      "name": "ch.rahodnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.rajimnagarpanchayat",
+      "name": "ch.rajimnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.rajpurnagarpanchayat",
+      "name": "ch.rajpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.ramanujganjnagarpanchayat",
+      "name": "ch.ramanujganjnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sahaspurlohara",
+      "name": "ch.sahaspurlohara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sajanagarpanchayat",
+      "name": "ch.sajanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.samodanagarpanchayat",
+      "name": "ch.samodanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.saragaonnagarpanchayat",
+      "name": "ch.saragaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sargaonnagarpanchayat",
+      "name": "ch.sargaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sariyanagarpanchayat",
+      "name": "ch.sariyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.shivrinarayannagarpanchayat",
+      "name": "ch.shivrinarayannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.simganagarpanchayat",
+      "name": "ch.simganagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.sitapurnagarpanchayat",
+      "name": "ch.sitapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.thankhamhariyanagarpanchayat",
+      "name": "ch.thankhamhariyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.tumgaonnagarpanchayat",
+      "name": "ch.tumgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.tundranagarpanchayat",
+      "name": "ch.tundranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.utainagarpanchayat",
+      "name": "ch.utainagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Chhatisgarh",
+      "stateName": "Chhatisgarh",
+      "code": "ch.wadrafnagarnagarpanchayat",
+      "name": "ch.wadrafnagarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
