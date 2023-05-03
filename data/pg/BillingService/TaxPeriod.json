@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "BillingService",
-  "TaxPeriod": {
+  "TaxPeriod":
 	  [
     {
       "fromDate": 1648751400000,
