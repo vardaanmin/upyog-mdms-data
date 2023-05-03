@@ -3,10 +3,6 @@
     "moduleName": "DIGIT-UI",
     "PaymentGateway": [
         {
-            "gateway": "AXIS",
-            "active": true
-        },
-        {
             "gateway": "PAYGOV",
             "active": true
         }
