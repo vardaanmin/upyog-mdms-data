@@ -3158,16 +3158,6 @@
 "order": "0",
 "isRequired": false
 },
-
-
-
-
-
-
-
-
-
-
 {
 "category": "TAX",
 "service": "ADVT.Canopy_Fee",
@@ -3210,8 +3200,8 @@
 },
 {
 "category": "TAX",
-"service": "TX.ADVT.Outdoor_Media_Display_Fee",
-"name": "TX.ADVT.Outdoor_Media_Display_Fee_TAX",
+"service": "ADVT.Outdoor_Media_Display_Fee",
+"name": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "code": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "isDebit": false,
 "isActualDemand": true,
