@@ -695,17 +695,17 @@
       "uniqueKeys": []
     }
   },
-   "NOC":{
-    "DocumentTypeMapping":{
+  "NOC": {
+    "DocumentTypeMapping": {
       "masterName": "DocumentTypeMapping",
       "isStateLevel": true,
       "uniqueKeys": []
     },
-     "NocType":{
+    "NocType": {
       "masterName": "NocType",
       "isStateLevel": true,
       "uniqueKeys": [
-       "$.code"
+        "$.code"
       ]
     }
   },
@@ -904,14 +904,14 @@
   "ws-services-masters": {
     "connectionCategory": {
       "masterName": "connectionCategory",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
     },
     "connectionType": {
       "masterName": "connectionType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
@@ -925,9 +925,39 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
+      ]
+    },
+    "subUsageType": {
+      "masterName": "subUsageType",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "billingType": {
+      "masterName": "billingType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ModifyConnectionDocuments": {
+      "masterName": "ModifyConnectionDocuments",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
       ]
     },
     "waterSourceWithSubSource": {
@@ -944,7 +974,7 @@
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -965,7 +995,7 @@
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -975,7 +1005,7 @@
     },
     "WS_TIME_PENALTY": {
       "masterName": "WS_TIME_PENALTY",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_WATER_CESS": {
@@ -995,34 +1025,41 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
+    },
+    "PipeSize": {
+      "masterName": "PipeSize",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
     }
   },
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -1036,19 +1073,19 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -1070,27 +1107,27 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
@@ -1109,13 +1146,13 @@
         "$.code"
       ]
       },
-       "PaymentType": {
-			"masterName": "PaymentType",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},"ReceivedPaymentType": {
+      "PaymentType": {
+      "masterName": "PaymentType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },"ReceivedPaymentType": {
 			"masterName": "ReceivedPaymentType",
 			"isStateLevel": true,
 			"uniqueKeys": [
@@ -1200,8 +1237,8 @@
       ]
     }
   },
-  "Vehicle":{
-     "SuctionType": {
+  "Vehicle": {
+    "SuctionType": {
       "masterName": "SuctionType",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -1221,22 +1258,22 @@
       "uniqueKeys": [
         "$.code"
       ]
-  },
-    "Vendor": {
-    "AgencyType": {
-      "masterName": "AgencyType",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
     },
-    "PaymentPreference": {
-      "masterName": "PaymentPreference",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+    "Vendor": {
+      "AgencyType": {
+        "masterName": "AgencyType",
+        "isStateLevel": false,
+        "uniqueKeys": [
+          "$.code"
+        ]
+      },
+      "PaymentPreference": {
+        "masterName": "PaymentPreference",
+        "isStateLevel": false,
+        "uniqueKeys": [
+          "$.code"
+        ]
+      }
     }
-  }
   }
 }

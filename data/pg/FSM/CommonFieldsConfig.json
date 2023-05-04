@@ -168,7 +168,7 @@
           },
           "type": "component",
           "key": "pitDetail",
-          "nextStep": "select-gender",
+          "nextStep": "select-payment-preference",
           "label": "ES_NEW_APPLICATION_PIT_DIMENSION"
         }
       ]
@@ -229,7 +229,7 @@
           },
           "nextStep": null
         }
-      ]
-    }
+		]
+	}
   ]
 }
