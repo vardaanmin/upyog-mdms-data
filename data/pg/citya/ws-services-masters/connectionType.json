@@ -7,6 +7,16 @@
       "code": "Non Metered",
       "description": "Non-Metered Connection",
       "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "active": true
+    },
+    {
+      "name": "Metered",
+      "code": "Metered",
+      "active": true
     }
   ]
 }
