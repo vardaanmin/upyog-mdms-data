@@ -1145,13 +1145,19 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },
-    "PaymentType": {
+      },
+      "PaymentType": {
       "masterName": "PaymentType",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
+    },"ReceivedPaymentType": {
+			"masterName": "ReceivedPaymentType",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
     },
     "CheckList": {
       "masterName": "CheckList",
@@ -1226,13 +1232,6 @@
     "PeriodicService": {
       "masterName": "PeriodicService",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },
-    "ReceivedPaymentType": {
-      "masterName": "ReceivedPaymentType",
-      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
