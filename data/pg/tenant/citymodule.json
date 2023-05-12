@@ -118,7 +118,7 @@
     {
       "module": "FIRENOC",
       "code": "FIRENOC",
-      "active": false,
+      "active": true,
       "order":2,
       "tenants": [
         {
