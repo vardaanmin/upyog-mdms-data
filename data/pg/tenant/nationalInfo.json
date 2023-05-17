@@ -12668,6 +12668,14 @@
     {
       "stateCode": "Tamil Nadu",
       "stateName": "Tamil Nadu",
+      "code": "tn.greaterchennaicorporation",
+      "name": "tn.greaterchennaicorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Tamil Nadu",
+      "stateName": "Tamil Nadu",
       "code": "tn.avadi",
       "name": "tn.avadi",
       "active": true,
