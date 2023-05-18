@@ -1537,7 +1537,7 @@
     },
      {
       "category": "TAX",
-      "service": "CSS.cow_cess",
+      "service": "WF.Contractor_Enlistment",
       "name": "WF.Contractor_Enlistment_CGST",
       "code": "WF.Contractor_Enlistment_CGST",
       "isDebit": false,
