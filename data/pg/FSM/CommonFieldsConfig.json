@@ -123,7 +123,7 @@
         {
           "type": "component",
           "route": "landmark",
-          "component": "SelectLandmark",
+          "component": "FSMSelectLandmark",
           "withoutLabel": true,
           "texts": {
             "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
