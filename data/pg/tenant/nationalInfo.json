@@ -16408,6 +16408,94 @@
       "name": "ch.wadrafnagarnagarpanchayat",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ahmednagarmunicipalcorporation",
+      "name": "mh.ahmednagarmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.amravatimunicipalcorporation",
+      "name": "mh.amravatimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhiwandinizampurmunicipalcorporation",
+      "name": "mh.bhiwandinizampurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhulemunicipalcorporation",
+      "name": "mh.dhulemunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ichalkaranjimunicipalcorporation",
+      "name": "mh.ichalkaranjimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.laturcitymunicipalcorporation",
+      "name": "mh.laturcitymunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malegaonmunicipalcorporation",
+      "name": "mh.malegaonmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.thanemunicipalcorporation",
+      "name": "mh.thanemunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vasaivirarmunicipalcorporation",
+      "name": "mh.vasaivirarmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.urunislampurnagarparishad",
+      "name": "mh.urunislampurnagarparishad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kolhapurmunicipalcorporation",
+      "name": "mh.kolhapurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
