@@ -16496,6 +16496,3294 @@
       "name": "mh.kolhapurmunicipalcorporation",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kulgaonbadlapurmunicipalcouncil",
+      "name": "mh.kulgaonbadlapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ambarnathmuncipalcouncil",
+      "name": "mh.ambarnathmuncipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malegaonmunicipalcorporation",
+      "name": "mh.malegaonmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nandedwaghalamunicipalcorporation",
+      "name": "mh.nandedwaghalamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ichalkaranjimunicipalcouncil",
+      "name": "mh.ichalkaranjimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.baramatimunicipalcouncil",
+      "name": "mh.baramatimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ambadmunicipalcouncil",
+      "name": "mh.ambadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.amravatimunicipalcorporation",
+      "name": "mh.amravatimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khopolimunicipalcouncil",
+      "name": "mh.khopolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.penmunicipalcouncil",
+      "name": "mh.penmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.alibagmunicipalcouncil",
+      "name": "mh.alibagmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhormunicipalcouncil",
+      "name": "mh.bhormunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.daundmunicipalcouncil",
+      "name": "mh.daundmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirurmunicipalcouncilghodnadi",
+      "name": "mh.shirurmunicipalcouncilghodnadi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.junnarmunicipalcouncil",
+      "name": "mh.junnarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sataramunicipalcouncil",
+      "name": "mh.sataramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karadmunicipalcouncil",
+      "name": "mh.karadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.phaltanmunicipalcouncil",
+      "name": "mh.phaltanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rahimatpurmunicipalcouncil",
+      "name": "mh.rahimatpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.panchgani-giristhanmunicipalcouncil",
+      "name": "mh.panchgani-giristhanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.solapurmunicipalcorporation",
+      "name": "mh.solapurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mangalwedhamunicipalcouncil",
+      "name": "mh.mangalwedhamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pandharpurmunicipalcouncil",
+      "name": "mh.pandharpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karmalamunicipalcouncil",
+      "name": "mh.karmalamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sangolamunicipalcouncil",
+      "name": "mh.sangolamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kurduwadimunicipalcouncil",
+      "name": "mh.kurduwadimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jaysingpurmunicipalcouncil",
+      "name": "mh.jaysingpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vadgaonmunicipalcouncil",
+      "name": "mh.vadgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gadhinglajmunicipalcouncil",
+      "name": "mh.gadhinglajmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.islampurmunicipalcouncil",
+      "name": "mh.islampurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.tasgaonmunicipalcouncil",
+      "name": "mh.tasgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vitamunicipalcouncil",
+      "name": "mh.vitamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ashtamunicipalcouncil",
+      "name": "mh.ashtamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chiplunmunicipalcouncil",
+      "name": "mh.chiplunmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dapolinagarpanchayat",
+      "name": "mh.dapolinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malvanmunicipalcouncil",
+      "name": "mh.malvanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vengurlamunicipalcouncil",
+      "name": "mh.vengurlamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ahmednagarmunicipalcorporation",
+      "name": "mh.ahmednagarmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shrirampurmunicipalcouncil",
+      "name": "mh.shrirampurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sangamnermunicipalcouncil",
+      "name": "mh.sangamnermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirdimunicipalcouncil",
+      "name": "mh.shirdimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.yeolamunicipalcouncil",
+      "name": "mh.yeolamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhulemunicipalcorporation",
+      "name": "mh.dhulemunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.amalnermunicipalcouncil",
+      "name": "mh.amalnermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chopdamunicipalcouncil",
+      "name": "mh.chopdamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chalisgaonmunicipalcouncil",
+      "name": "mh.chalisgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pachoramunicipalcouncil",
+      "name": "mh.pachoramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parolamunicipalcouncil",
+      "name": "mh.parolamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jamnermunicipalcouncil",
+      "name": "mh.jamnermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nandurbarmunicipalcouncil",
+      "name": "mh.nandurbarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shahadamunicipalcouncil",
+      "name": "mh.shahadamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.aurangabadmunicipalcorporation",
+      "name": "mh.aurangabadmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sillodmunicipalcouncil",
+      "name": "mh.sillodmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vaijapurmunicipalcouncil",
+      "name": "mh.vaijapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jalnamunicipalcouncil",
+      "name": "mh.jalnamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khamgaonmunicipalcouncil",
+      "name": "mh.khamgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shegaonmunicipalcouncil",
+      "name": "mh.shegaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.achalpurmunicipalcouncil",
+      "name": "mh.achalpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.akolamunicipalcorporation",
+      "name": "mh.akolamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.telharamunicipalcouncil",
+      "name": "mh.telharamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.balapurmunicipalcouncil",
+      "name": "mh.balapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.murtizapurmunicipalcouncil",
+      "name": "mh.murtizapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.akotmunicipalcouncil",
+      "name": "mh.akotmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.washimmunicipalcouncil",
+      "name": "mh.washimmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.yavatmalmunicipalcouncil",
+      "name": "mh.yavatmalmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pusadmunicipalcouncil",
+      "name": "mh.pusadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.hadgaonmunicipalcouncil",
+      "name": "mh.hadgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.laturmunicipalcouncil",
+      "name": "mh.laturmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.hingolimunicipalcouncil",
+      "name": "mh.hingolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.basmatmunicipalcouncil",
+      "name": "mh.basmatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sonpethmunicipalcouncil",
+      "name": "mh.sonpethmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sailumunicipalcouncil",
+      "name": "mh.sailumunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jinturmunicipalcouncil",
+      "name": "mh.jinturmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pathrimunicipalcouncil",
+      "name": "mh.pathrimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parbhanimunicipalcorporation",
+      "name": "mh.parbhanimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.osmanabadmunicipalcouncil",
+      "name": "mh.osmanabadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.beedmunicipalcouncil",
+      "name": "mh.beedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.saonermunicipalcouncil",
+      "name": "mh.saonermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kampteemunicipalcouncil",
+      "name": "mh.kampteemunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.umredmunicipalcouncil",
+      "name": "mh.umredmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.katolmunicipalcouncil",
+      "name": "mh.katolmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wardhamunicipalcouncil",
+      "name": "mh.wardhamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.arvimunicipalcouncil",
+      "name": "mh.arvimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chandrapurmunicipalcouncil",
+      "name": "mh.chandrapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhadravatimunicipalcouncil",
+      "name": "mh.bhadravatimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gondiamunicipalcouncil",
+      "name": "mh.gondiamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vasai-virar-nalasoparamunicipalcorporation",
+      "name": "mh.vasai-virar-nalasoparamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lonavalamunicipalcouncil",
+      "name": "mh.lonavalamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.talegaondabhademunicipalcouncil",
+      "name": "mh.talegaondabhademunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khedmunicipalcouncil",
+      "name": "mh.khedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jejurimunicipalcouncil",
+      "name": "mh.jejurimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sinnarmunicipalcouncil",
+      "name": "mh.sinnarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.erandolmunicipalcouncil",
+      "name": "mh.erandolmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kagalmunicipalcouncil",
+      "name": "mh.kagalmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.saswadmunicipalcouncil",
+      "name": "mh.saswadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhagurmunicipalcouncil",
+      "name": "mh.bhagurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.igatpurimunicipalcouncil",
+      "name": "mh.igatpurimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khapamunicipalcouncil",
+      "name": "mh.khapamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhusawalmunicipalcouncil",
+      "name": "mh.bhusawalmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.satanamunicipalcouncil",
+      "name": "mh.satanamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhandaramunicipalcouncil",
+      "name": "mh.bhandaramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.tumsarmunicipalcouncil",
+      "name": "mh.tumsarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.matheranmunicipalcouncil",
+      "name": "mh.matheranmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gadchirolimunicipalcouncil",
+      "name": "mh.gadchirolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.hinganghatmunicipalcouncil",
+      "name": "mh.hinganghatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dahanumunicipalcouncil",
+      "name": "mh.dahanumunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dondaicha-warwademunicipalcouncil",
+      "name": "mh.dondaicha-warwademunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.manmadmunicipalcouncil",
+      "name": "mh.manmadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nandgaonmunicipalcouncil",
+      "name": "mh.nandgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirpur-warwademunicipalcouncil",
+      "name": "mh.shirpur-warwademunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ballarpurmunicipalcouncil",
+      "name": "mh.ballarpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wanimunicipalcouncil",
+      "name": "mh.wanimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.alandimunicipalcouncil",
+      "name": "mh.alandimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rohamunicipalcouncil",
+      "name": "mh.rohamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.anjangaonsurjimunicipalcouncil",
+      "name": "mh.anjangaonsurjimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.barshimunicipalcouncil",
+      "name": "mh.barshimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kurundwadmunicipalcouncil",
+      "name": "mh.kurundwadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kopargaonmunicipalcouncil",
+      "name": "mh.kopargaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rahurimunicipalcouncil",
+      "name": "mh.rahurimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deolali-pravramunicipalcouncil",
+      "name": "mh.deolali-pravramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.indapurmunicipalcouncil",
+      "name": "mh.indapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalmeshwarmunicipalcouncil",
+      "name": "mh.kalmeshwarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.warudmunicipalcouncil",
+      "name": "mh.warudmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.akkalkotmunicipalcouncil",
+      "name": "mh.akkalkotmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhokardanmunicipalcouncil",
+      "name": "mh.bhokardanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.paithanmunicipalcouncil",
+      "name": "mh.paithanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parturmunicipalcouncil",
+      "name": "mh.parturmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.waimunicipalcouncil",
+      "name": "mh.waimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ambajogaimunicipalcouncil",
+      "name": "mh.ambajogaimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kannadmunicipalcouncil",
+      "name": "mh.kannadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sawantwadimunicipalcouncil",
+      "name": "mh.sawantwadimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.murgudmunicipalcouncil",
+      "name": "mh.murgudmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.panhalagiristhanmunicipalcouncil",
+      "name": "mh.panhalagiristhanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ratnagirimunicipalcouncil",
+      "name": "mh.ratnagirimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karjatmunicipalcouncil",
+      "name": "mh.karjatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahabaleshwar-giristhanmunicipalcouncil",
+      "name": "mh.mahabaleshwar-giristhanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.tiroramunicipalcouncil",
+      "name": "mh.tiroramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malkapurmunicipalcouncil",
+      "name": "mh.malkapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pulgaonmunicipalcouncil",
+      "name": "mh.pulgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gangapurmunicipalcouncil",
+      "name": "mh.gangapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.majalgaonmunicipalcouncil",
+      "name": "mh.majalgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gangakhedmunicipalcouncil",
+      "name": "mh.gangakhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.desaiganjwadsamunicipalcouncil",
+      "name": "mh.desaiganjwadsamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chikhlimunicipalcouncil",
+      "name": "mh.chikhlimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parlivaijnathmunicipalcouncil",
+      "name": "mh.parlivaijnathmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mhaswadmunicipalcouncil",
+      "name": "mh.mhaswadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chikhaldarahillstationmunicipalcouncil",
+      "name": "mh.chikhaldarahillstationmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhamangaonrailwaymunicipalcouncil",
+      "name": "mh.dhamangaonrailwaymunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ahmedpurmunicipalcouncil",
+      "name": "mh.ahmedpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pandharkawadamunicipalcouncil",
+      "name": "mh.pandharkawadamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karanjaladmunicipalcouncil",
+      "name": "mh.karanjaladmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pathardimunicipalcouncil",
+      "name": "mh.pathardimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rahatamunicipalcouncil",
+      "name": "mh.rahatamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shrigondamunicipalcouncil",
+      "name": "mh.shrigondamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.trimbakmunicipalcouncil",
+      "name": "mh.trimbakmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.savdamunicipalcouncil",
+      "name": "mh.savdamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.talodamunicipalcouncil",
+      "name": "mh.talodamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.palgharmunicipalcouncil",
+      "name": "mh.palgharmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bilolimunicipalcouncil",
+      "name": "mh.bilolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.purnamunicipalcouncil",
+      "name": "mh.purnamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.manwatmunicipalcouncil",
+      "name": "mh.manwatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.udgirmunicipalcouncil",
+      "name": "mh.udgirmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.buldhanamunicipalcouncil",
+      "name": "mh.buldhanamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malkapur-buldhanamunicipalcouncil",
+      "name": "mh.malkapur-buldhanamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rajapurmunicipalcouncil",
+      "name": "mh.rajapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.navapurmunicipalcouncil",
+      "name": "mh.navapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deolimunicipalcouncil",
+      "name": "mh.deolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ramtekmunicipalcouncil",
+      "name": "mh.ramtekmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sindimunicipalcouncil",
+      "name": "mh.sindimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rajuramunicipalcouncil",
+      "name": "mh.rajuramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dudhanimunicipalcouncil",
+      "name": "mh.dudhanimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mangrulpirmunicipalcouncil",
+      "name": "mh.mangrulpirmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.paturmunicipalcouncil",
+      "name": "mh.paturmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.maindargimunicipalcouncil",
+      "name": "mh.maindargimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.uranmunicipalcouncil",
+      "name": "mh.uranmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dharmabadmunicipalcouncil",
+      "name": "mh.dharmabadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deglurmunicipalcouncil",
+      "name": "mh.deglurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.narkhedmunicipalcouncil",
+      "name": "mh.narkhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.waroramunicipalcouncil",
+      "name": "mh.waroramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.darwhamunicipalcouncil",
+      "name": "mh.darwhamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.daryapurmunicipalcouncil",
+      "name": "mh.daryapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chandurrailwaymunicipalcouncil",
+      "name": "mh.chandurrailwaymunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kankavlinagarpanchayat",
+      "name": "mh.kankavlinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khuldabadmunicipalcouncil",
+      "name": "mh.khuldabadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.risodmunicipalcouncil",
+      "name": "mh.risodmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.paunimunicipalcouncil",
+      "name": "mh.paunimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.yawalmunicipalcouncil",
+      "name": "mh.yawalmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mulmunicipalcouncil",
+      "name": "mh.mulmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.morshimunicipalcouncil",
+      "name": "mh.morshimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mudkhedmunicipalcouncil",
+      "name": "mh.mudkhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhoommunicipalcouncil",
+      "name": "mh.bhoommunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.tuljapurmunicipalcouncil",
+      "name": "mh.tuljapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ravermunicipalcouncil",
+      "name": "mh.ravermunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.faizpurmunicipalcouncil",
+      "name": "mh.faizpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chandurbazaarmunicipalcouncil",
+      "name": "mh.chandurbazaarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ghatanjimunicipalcouncil",
+      "name": "mh.ghatanjimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deulgaonrajamunicipalcouncil",
+      "name": "mh.deulgaonrajamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lonarmunicipalcouncil",
+      "name": "mh.lonarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.murud-janjiramunicipalcouncil",
+      "name": "mh.murud-janjiramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.georaimunicipalcouncil",
+      "name": "mh.georaimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.umarkhedmunicipalcouncil",
+      "name": "mh.umarkhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.umrimunicipalcouncil",
+      "name": "mh.umrimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mohapamunicipalcouncil",
+      "name": "mh.mohapamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalamnurimunicipalcouncil",
+      "name": "mh.kalamnurimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kandharmunicipalcouncil",
+      "name": "mh.kandharmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.digrasmunicipalcouncil",
+      "name": "mh.digrasmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mowadmunicipalcouncil",
+      "name": "mh.mowadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parandamunicipalcouncil",
+      "name": "mh.parandamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jawharmunicipalcouncil",
+      "name": "mh.jawharmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shrivardhanmunicipalcouncil",
+      "name": "mh.shrivardhanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sindkhedrajamunicipalcouncil",
+      "name": "mh.sindkhedrajamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bramhapurimunicipalcouncil",
+      "name": "mh.bramhapurimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dharangaonmunicipalcouncil",
+      "name": "mh.dharangaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shendurjanaghatmunicipalcouncil",
+      "name": "mh.shendurjanaghatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhadgaonmunicipalcouncil",
+      "name": "mh.bhadgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jalgaonjamodmunicipalcouncil",
+      "name": "mh.jalgaonjamodmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ausamunicipalcouncil",
+      "name": "mh.ausamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dharurmunicipalcouncil",
+      "name": "mh.dharurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalambmunicipalcouncil",
+      "name": "mh.kalambmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kinwatmunicipalcouncil",
+      "name": "mh.kinwatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kundalwadimunicipalcouncil",
+      "name": "mh.kundalwadimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lohamunicipalcouncil",
+      "name": "mh.lohamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahadmunicipalcouncil",
+      "name": "mh.mahadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mehkarmunicipalcouncil",
+      "name": "mh.mehkarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mukhedmunicipalcouncil",
+      "name": "mh.mukhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.murummunicipalcouncil",
+      "name": "mh.murummunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.naldurgmunicipalcouncil",
+      "name": "mh.naldurgmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nanduramunicipalcouncil",
+      "name": "mh.nanduramunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nilangamunicipalcouncil",
+      "name": "mh.nilangamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.omergamunicipalcouncil",
+      "name": "mh.omergamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhiwandinizampurmunicipalcorporation",
+      "name": "mh.bhiwandinizampurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.panvelmuncipalcorporation",
+      "name": "mh.panvelmuncipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ulhasnagarmuncipalcorporation",
+      "name": "mh.ulhasnagarmuncipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.murbadnagarpanchayat",
+      "name": "mh.murbadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.barshi-takalinagarpanchayat",
+      "name": "mh.barshi-takalinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.teosanagarpanchayat",
+      "name": "mh.teosanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dharninagarpanchayat",
+      "name": "mh.dharninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nandgaon-khandeshwarnagarpanchayat",
+      "name": "mh.nandgaon-khandeshwarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhatkulinagarpanchayat",
+      "name": "mh.bhatkulinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.motalanagarpanchayat",
+      "name": "mh.motalanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sangrampurnagarpanchayat",
+      "name": "mh.sangrampurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malegaon-jahangirnagarpanchayat",
+      "name": "mh.malegaon-jahangirnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.manoranagarpanchayat",
+      "name": "mh.manoranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ralegaonnagarpanchayat",
+      "name": "mh.ralegaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalambnagarpanchayat",
+      "name": "mh.kalambnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahagaonnagarpanchayat",
+      "name": "mh.mahagaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.maregaonnagarpanchayat",
+      "name": "mh.maregaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.babhulgaonnagarpanchayat",
+      "name": "mh.babhulgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.zari-zamaninagarpanchayat",
+      "name": "mh.zari-zamaninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhankinagarpanchayat",
+      "name": "mh.dhankinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.phulambrinagarpanchayat",
+      "name": "mh.phulambrinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.soygaonnagarpanchayat",
+      "name": "mh.soygaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kaijnagarpanchayat",
+      "name": "mh.kaijnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.patodanagarpanchayat",
+      "name": "mh.patodanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wadvaninagarpanchayat",
+      "name": "mh.wadvaninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ashtinagarpanchayat",
+      "name": "mh.ashtinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirur-kasarnagarpanchayat",
+      "name": "mh.shirur-kasarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.aundha-nagnathnagarpanchayat",
+      "name": "mh.aundha-nagnathnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sengaonnagarpanchayat",
+      "name": "mh.sengaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.manthanagarpanchayat",
+      "name": "mh.manthanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jafrabadnagarpanchayat",
+      "name": "mh.jafrabadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.badnapurnagarpanchayat",
+      "name": "mh.badnapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ghansavanginagarpanchayat",
+      "name": "mh.ghansavanginagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.tirthapurinagarpanchayat",
+      "name": "mh.tirthapurinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chakurnagarpanchayat",
+      "name": "mh.chakurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deoninagarpanchayat",
+      "name": "mh.deoninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.renapurnagarpanchayat",
+      "name": "mh.renapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirur-anantpalnagarpanchayat",
+      "name": "mh.shirur-anantpalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jalkotnagarpanchayat",
+      "name": "mh.jalkotnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahurnagarpanchayat",
+      "name": "mh.mahurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ardhapurnagarpanchayat",
+      "name": "mh.ardhapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.naigaonnagarpanchayat",
+      "name": "mh.naigaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.himayatnagarnagarpanchayat",
+      "name": "mh.himayatnagarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vashinagarpanchayat",
+      "name": "mh.vashinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.loharabnagarpanchayat",
+      "name": "mh.loharabnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.palamnagarpanchayat",
+      "name": "mh.palamnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.talasarinagarpanchayat",
+      "name": "mh.talasarinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mokhadanagarpanchayat",
+      "name": "mh.mokhadanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vikarmgadnagarpanchayat",
+      "name": "mh.vikarmgadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wadanagarpanchayat",
+      "name": "mh.wadanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mangaonnagarpanchayat",
+      "name": "mh.mangaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.talanagarpanchayat",
+      "name": "mh.talanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.poladpurnagarpanchayat",
+      "name": "mh.poladpurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mhasalanagarpanchayat",
+      "name": "mh.mhasalanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.palinagarpanchayat",
+      "name": "mh.palinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.devrukhnagarpanchayat",
+      "name": "mh.devrukhnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mandangadnagarpanchayat",
+      "name": "mh.mandangadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.guhagarnagarpanchayat",
+      "name": "mh.guhagarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kudalnagarpanchayat",
+      "name": "mh.kudalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.devgad-jamsandenagarpanchayat",
+      "name": "mh.devgad-jamsandenagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vabhave-vaibhavwadinagarpanchayat",
+      "name": "mh.vabhave-vaibhavwadinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kasai-dodamargnagarpanchayat",
+      "name": "mh.kasai-dodamargnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shahapurnagarpanchayat",
+      "name": "mh.shahapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lakhaninagarpanchayat",
+      "name": "mh.lakhaninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lakhandurnagarpanchayat",
+      "name": "mh.lakhandurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mohadinagarpanchayat",
+      "name": "mh.mohadinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sindevahinagarpanchayat",
+      "name": "mh.sindevahinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sawlinagarpanchayat",
+      "name": "mh.sawlinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gondpiprinagarpanchayat",
+      "name": "mh.gondpiprinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pombhurnanagarpanchayat",
+      "name": "mh.pombhurnanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.korpananagarpanchayat",
+      "name": "mh.korpananagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jiwatinagarpanchayat",
+      "name": "mh.jiwatinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhisinagarpanchayat",
+      "name": "mh.bhisinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chamorshinagarpanchayat",
+      "name": "mh.chamorshinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.aherinagarpanchayat",
+      "name": "mh.aherinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sironchanagarpanchayat",
+      "name": "mh.sironchanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kurkhedanagarpanchayat",
+      "name": "mh.kurkhedanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.etapallinagarpanchayat",
+      "name": "mh.etapallinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhanoranagarpanchayat",
+      "name": "mh.dhanoranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.korchinagarpanchayat",
+      "name": "mh.korchinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhamragadnagarpanchayat",
+      "name": "mh.bhamragadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mulcheranagarpanchayat",
+      "name": "mh.mulcheranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.arjuni-morgaonnagarpanchayat",
+      "name": "mh.arjuni-morgaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deorinagarpanchayat",
+      "name": "mh.deorinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sadak-arjuninagarpanchayat",
+      "name": "mh.sadak-arjuninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.goregaonnagarpanchayat",
+      "name": "mh.goregaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.salekasanagarpanchayat",
+      "name": "mh.salekasanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahadulanagarpanchayat",
+      "name": "mh.mahadulanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhiwapurnagarpanchayat",
+      "name": "mh.bhiwapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.maudanagarpanchayat",
+      "name": "mh.maudanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kuhinagarpanchayat",
+      "name": "mh.kuhinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.hingnanagarpanchayat",
+      "name": "mh.hingnanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parshivaninagarpanchayat",
+      "name": "mh.parshivaninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.samudrapurnagarpanchayat",
+      "name": "mh.samudrapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.seloonagarpanchayat",
+      "name": "mh.seloonagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ashtinagarpanchayat",
+      "name": "mh.ashtinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karanjaghadagenagarpanchayat",
+      "name": "mh.karanjaghadagenagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karjantnagarpanchayat",
+      "name": "mh.karjantnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.akolenagarpanchayat",
+      "name": "mh.akolenagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.parnernagarpanchayat",
+      "name": "mh.parnernagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nevasanagarpanchayat",
+      "name": "mh.nevasanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shindkhedanagarpanchayat",
+      "name": "mh.shindkhedanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sakrinagarpanchayat",
+      "name": "mh.sakrinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.muktainagarnagarpanchayat",
+      "name": "mh.muktainagarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shendurninagarpanchayat",
+      "name": "mh.shendurninagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bodwadnagarpanchayat",
+      "name": "mh.bodwadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dhadgaon-wadfalyanagarpanchayat",
+      "name": "mh.dhadgaon-wadfalyanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dindorinagarpanchayat",
+      "name": "mh.dindorinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalwannagarpanchayat",
+      "name": "mh.kalwannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.niphadnagarpanchayat",
+      "name": "mh.niphadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.deolanagarpanchayat",
+      "name": "mh.deolanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pethnagarpanchayat",
+      "name": "mh.pethnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.surgananagarpanchayat",
+      "name": "mh.surgananagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ajaranagarpanchayat",
+      "name": "mh.ajaranagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.hatkangalenagarpanchayat",
+      "name": "mh.hatkangalenagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chandgadnagarpanchayat",
+      "name": "mh.chandgadnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wadgaon-mavalnagarpanchayat",
+      "name": "mh.wadgaon-mavalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dehunagarpanchayat",
+      "name": "mh.dehunagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malegaonbudruknagarpanchayat",
+      "name": "mh.malegaonbudruknagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mancharnagarpanchayat",
+      "name": "mh.mancharnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.koregaonnagarpanchayat",
+      "name": "mh.koregaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.medhanagarpanchayat",
+      "name": "mh.medhanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.patannagarpanchayat",
+      "name": "mh.patannagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wadujnagarpanchayat",
+      "name": "mh.wadujnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khandalanagarpanchayat",
+      "name": "mh.khandalanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.dahivadinagarpanchayat",
+      "name": "mh.dahivadinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.lonandnagarpanchayat",
+      "name": "mh.lonandnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malshirasnagarpanchayat",
+      "name": "mh.malshirasnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.madhanagarpanchayat",
+      "name": "mh.madhanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mahalung-shripurnagarpanchayat",
+      "name": "mh.mahalung-shripurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.vairagnagarpanchayat",
+      "name": "mh.vairagnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nateputenagarpanchayat",
+      "name": "mh.nateputenagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.angarnagarpanchayat",
+      "name": "mh.angarnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kavathe-mahankalnagarpanchayat",
+      "name": "mh.kavathe-mahankalnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kadegaonnagarpanchayat",
+      "name": "mh.kadegaonnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khanapurnagarpanchayat",
+      "name": "mh.khanapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shiralanagarpanchayat",
+      "name": "mh.shiralanagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nernababpurmunicipalcouncil",
+      "name": "mh.nernababpurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.aarnimunicipalcouncil",
+      "name": "mh.aarnimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shevgaonmunicipalcouncil",
+      "name": "mh.shevgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jamkhedmunicipalcouncil",
+      "name": "mh.jamkhedmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chimurmunicipalcouncil",
+      "name": "mh.chimurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.gadchandurmunicipalcouncil",
+      "name": "mh.gadchandurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ghugghusmunicipalcouncil",
+      "name": "mh.ghugghusmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nagbhidmunicipalcouncil",
+      "name": "mh.nagbhidmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.aklujmunicipalcouncil",
+      "name": "mh.aklujmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.moholmunicipalcouncil",
+      "name": "mh.moholmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nashirabadmunicipalcouncil",
+      "name": "mh.nashirabadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.bhokarmunicipalcouncil",
+      "name": "mh.bhokarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.armorimunicipalcouncil",
+      "name": "mh.armorimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.amgaonmunicipalcouncil",
+      "name": "mh.amgaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wadimunicipalcouncil",
+      "name": "mh.wadimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kanhan-pimparimunicipalcouncil",
+      "name": "mh.kanhan-pimparimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.butiborimunicipalcouncil",
+      "name": "mh.butiborimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.wanadongrimunicipalcouncil",
+      "name": "mh.wanadongrimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.varangaonmunicipalcouncil",
+      "name": "mh.varangaonmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chakanmunicipalcouncil",
+      "name": "mh.chakanmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.ozarmunicipalcouncil",
+      "name": "mh.ozarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.chandwadmunicipalcouncil",
+      "name": "mh.chandwadmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.rajgurunagarmunicipalcouncil",
+      "name": "mh.rajgurunagarmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.palusmunicipalcouncil",
+      "name": "mh.palusmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.umargamunicipalcouncil",
+      "name": "mh.umargamunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sakolimunicipalcouncil",
+      "name": "mh.sakolimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.khalapurnagarpanchayat",
+      "name": "mh.khalapurnagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kalyandombivalimunicipalcorporation",
+      "name": "mh.kalyandombivalimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.navimumbaimunicipalcorporation",
+      "name": "mh.navimumbaimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.punemunicipalcorporation",
+      "name": "mh.punemunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nashikmunicipalcorporation",
+      "name": "mh.nashikmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.nagpurmunicipalcorporation",
+      "name": "mh.nagpurmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.karjatmunicipalcouncil",
+      "name": "mh.karjatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.kolhapurmunicipalcouncil",
+      "name": "mh.kolhapurmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.malkapurmunicipalcouncilkolhapur",
+      "name": "mh.malkapurmunicipalcouncilkolhapur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mangaonmunicipalcouncilbeed",
+      "name": "mh.mangaonmunicipalcouncilbeed",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.mirabhindermunicipalcorporation",
+      "name": "mh.mirabhindermunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.pimprichinchwadmunicipalcorporation",
+      "name": "mh.pimprichinchwadmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.sangli-miraj-kupwadamunicipalcorporation",
+      "name": "mh.sangli-miraj-kupwadamunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jatmunicipalcouncil",
+      "name": "mh.jatmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.huparimunicipalcouncil",
+      "name": "mh.huparimunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.atpadinagarpanchayat",
+      "name": "mh.atpadinagarpanchayat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.jalgaonmunicipalcorporation",
+      "name": "mh.jalgaonmunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Maharashtra",
+      "stateName": "Maharashtra",
+      "code": "mh.shirolmunicipalcouncil",
+      "name": "mh.shirolmunicipalcouncil",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
