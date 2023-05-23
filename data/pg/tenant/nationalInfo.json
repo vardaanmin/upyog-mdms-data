@@ -17572,14 +17572,6 @@
     {
       "stateCode": "Maharashtra",
       "stateName": "Maharashtra",
-      "code": "mh.karjatmunicipalcouncil",
-      "name": "mh.karjatmunicipalcouncil",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Maharashtra",
-      "stateName": "Maharashtra",
       "code": "mh.mahabaleshwar-giristhanmunicipalcouncil",
       "name": "mh.mahabaleshwar-giristhanmunicipalcouncil",
       "active": true,
@@ -18534,14 +18526,6 @@
       "stateName": "Maharashtra",
       "code": "mh.wadvaninagarpanchayat",
       "name": "mh.wadvaninagarpanchayat",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Maharashtra",
-      "stateName": "Maharashtra",
-      "code": "mh.ashtinagarpanchayat",
-      "name": "mh.ashtinagarpanchayat",
       "active": true,
       "module": "NationalDashboard"
     },
