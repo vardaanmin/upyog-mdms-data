@@ -26162,11 +26162,17 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	 {
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2519,
       "actioncode": "",
       "tenantId": "pg"
-    }
+   },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 2070,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
   ]
 }
