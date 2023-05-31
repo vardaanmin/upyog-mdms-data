@@ -170,6 +170,12 @@
           "key": "pitDetail",
           "nextStep": "select-payment-preference",
           "label": "ES_NEW_APPLICATION_PIT_DIMENSION"
+        },
+        {
+          "type": "component",
+          "key": "tripData",
+          "withoutLabel": true,
+          "component": "SelectTrips"
         }
       ]
     },
@@ -229,7 +235,24 @@
           },
           "nextStep": null
         }
-		]
-	}
+      ]
+    },
+    {
+      "head": "ES_TITLE_PAYMENT_DETAILS",
+      "body": [
+        {
+          "type": "component",
+          "key": "tripData",
+          "withoutLabel": true,
+          "component": "SelectTripData"
+        },
+        {
+          "type": "component",
+          "key": "advancepaymentPreference",
+          "withoutLabel": true,
+          "component": "AdvanceCollection"
+        }
+      ]
+    }
   ]
 }

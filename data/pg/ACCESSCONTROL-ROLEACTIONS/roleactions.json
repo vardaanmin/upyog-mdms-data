@@ -26138,9 +26138,39 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	   {
+	  {
       "rolecode": "NATADMIN",
       "actionid": 2517,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2519,
+      "actioncode": "",
+      "tenantId": "pg"
+   },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 2070,
       "actioncode": "",
       "tenantId": "pg"
     }

@@ -326,6 +326,22 @@
       ]
     },
     {
+      "key": "MiscReceiptCB",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "LMEPerformanceReport",
       "roleAttributeAccessList": [
         {
