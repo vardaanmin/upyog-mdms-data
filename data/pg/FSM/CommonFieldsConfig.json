@@ -236,9 +236,7 @@
           "nextStep": null
         }
       ]
-<<<<<<< HEAD
 	}
-=======
     },
     {
       "head": "ES_TITLE_PAYMENT_DETAILS",
@@ -257,6 +255,5 @@
         }
       ]
     }
->>>>>>> 26f2a6af4b2170794c8894177a6cfa1c765e95b5
   ]
 }
