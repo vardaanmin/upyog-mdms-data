@@ -1531,8 +1531,6 @@
       "financialYear": "2020-21"
     },
     {
-<<<<<<< HEAD
-=======
       "fromDate": 1648771200000,
       "toDate": 1680307199999,
       "periodCycle": "TWOYEARS",
@@ -1549,7 +1547,6 @@
       "financialYear": "2022-23"
     },
     {
->>>>>>> 26f2a6af4b2170794c8894177a6cfa1c765e95b5
       "fromDate": 1522540801000,
       "toDate": 1838159999000,
       "periodCycle": "FORTENYEARS",
