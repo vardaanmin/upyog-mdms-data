@@ -3,6 +3,23 @@
   "moduleName": "common-masters",
   "uiCommonPay": [
     {
+      "code": "FSM.TRIP_CHARGES",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "fsm-receipt",
+      "billKey": "fsm-receipt",
+      "cancelReceipt":false,
+      "cancelBill": false,
+      "pdfModule":"PAYMENT",
+      "arrears": false,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
       "code": "FSM",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "fsm-receipt",
@@ -2335,7 +2352,10 @@
       "code": "BIRTH_CERT",
       "headerBandLabel": "PAYMENT_BND_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",
-      "billKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "cancelReceipt": false,
+      "cancelBill": false,
+      "arrears": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -2348,7 +2368,10 @@
       "code": "DEATH_CERT",
       "headerBandLabel": "PAYMENT_BND_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",
-      "billKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "cancelReceipt": false,
+      "cancelBill": false,
+      "arrears": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",

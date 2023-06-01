@@ -1203,6 +1203,14 @@
       "financialYear": "2023-24"
     },
     {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2023",
+      "financialYear": "2023-24"
+    },
+    {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
@@ -1261,6 +1269,14 @@
 	{
       "fromDate": 1459449000000,
       "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
       "code": "TXNDCAN2023",
@@ -1345,6 +1361,14 @@
       "service": "TL",
       "code": "TLRENEWAL2022",
       "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2023",
+      "financialYear": "2023-24"
     },
     {
       "fromDate": 1617172199000,
@@ -1507,6 +1531,25 @@
       "financialYear": "2020-21"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromDate": 1648771200000,
+      "toDate": 1680307199999,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199999,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2022",
+      "financialYear": "2022-23"
+    },
+    {
+>>>>>>> 26f2a6af4b2170794c8894177a6cfa1c765e95b5
       "fromDate": 1522540801000,
       "toDate": 1838159999000,
       "periodCycle": "FORTENYEARS",
