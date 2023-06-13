@@ -3057,7 +3057,7 @@
     {
       "name":"Audio cassettes",
       "code": "GOODS.RETAIL.TST-117",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
