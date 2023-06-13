@@ -10516,7 +10516,7 @@
     {
       "id": 2182,
       "name": "DSS Dashboard Config Facial Sludge Management",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fsm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
@@ -13446,7 +13446,7 @@
     {
       "id": 2419,
       "name": "NSS Dashboard Config National FSM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fsm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
