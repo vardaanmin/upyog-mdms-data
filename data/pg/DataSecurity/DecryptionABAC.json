@@ -336,6 +336,13 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
