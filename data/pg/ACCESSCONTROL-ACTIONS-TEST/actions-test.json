@@ -10509,7 +10509,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.FSM",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13466,7 +13466,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FaecalSludgeManagement",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }	  
