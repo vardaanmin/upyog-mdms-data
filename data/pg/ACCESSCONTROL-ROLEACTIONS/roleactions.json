@@ -24188,6 +24188,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "DEATH_REPORT_VIEWER",
+      "actionid": 2360,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "BND_CEMP",
       "actionid": 2361,
       "actioncode": "",
