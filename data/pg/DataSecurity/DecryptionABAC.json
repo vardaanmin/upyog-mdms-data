@@ -326,22 +326,6 @@
       ]
     },
     {
-      "key": "MiscReceiptCB",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "EMPLOYEE",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "key": "LMEPerformanceReport",
       "roleAttributeAccessList": [
         {
@@ -433,6 +417,22 @@
               "attribute": {
                 "jsonPath": "*/mobilenumber",
                 "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MiscReceiptCB",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             }
