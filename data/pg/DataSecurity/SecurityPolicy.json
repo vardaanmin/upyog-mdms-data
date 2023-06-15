@@ -774,6 +774,12 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "consumername",
+            "jsonPath": "consumername",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
