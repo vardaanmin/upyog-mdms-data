@@ -13451,7 +13451,7 @@
    },
    {
       "id": 2425,
-      "name": "FirenocCitizen",
+      "name": "Firenoc Citizen Home",
       "url": "digit-ui-card",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
@@ -13460,16 +13460,16 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/citizen/fire-noc/home",
+      "navigationURL": "fire-noc/home",
       "leftIcon": "FirenocIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/fire-noc/home"
+      "sidebarURL": "fire-noc/home"
    },
    {
       "id": 2426,
-      "name": "BirthCitizen",
+      "name": "Birth Certificate Home",
       "url": "digit-ui-card",
       "displayName": "Birth Search",
       "orderNumber": 1,
@@ -13478,16 +13478,16 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/citizen/birth-citizen/home",
+      "navigationURL": "birth-citizen/home",
       "leftIcon": "BirthIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/birth-citizen/home"
+      "sidebarURL": "birth-citizen/home"
    },
    {
       "id": 2427,
-      "name": "DeathCitizen",
+      "name": "Death Certificate Home",
       "url": "digit-ui-card",
       "displayName": "Death Search",
       "orderNumber": 1,
@@ -13496,12 +13496,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/citizen/death-citizen/home",
+      "navigationURL": "death-citizen/home",
       "leftIcon": "DeathIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/death-citizen/home"
+      "sidebarURL": "death-citizen/home"
    },
    {
       "id": 2428,
