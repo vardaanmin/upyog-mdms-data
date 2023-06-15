@@ -13460,12 +13460,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "fire-noc/home",
+      "navigationURL": "/citizen/fire-noc/home",
       "leftIcon": "FirenocIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "fire-noc/home"
+      "sidebarURL": "/citizen/fire-noc/home"
    },
    {
       "id": 2426,
@@ -13478,12 +13478,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "birth-citizen/home",
+      "navigationURL": "/citizen/birth-citizen/home",
       "leftIcon": "BirthIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "birth-citizen/home"
+      "sidebarURL": "/citizen/birth-citizen/home"
    },
    {
       "id": 2427,
@@ -13496,12 +13496,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "death-citizen/home",
+      "navigationURL": "/citizen/death-citizen/home",
       "leftIcon": "DeathIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "death-citizen/home"
+      "sidebarURL": "/citizen/death-citizen/home"
    },
    {
       "id": 2428,
