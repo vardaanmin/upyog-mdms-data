@@ -12613,7 +12613,7 @@
       "displayName": "Birth-Death Payment Report",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "report",
       "code": "null",
       "path": ""
@@ -12625,7 +12625,7 @@
       "displayName": "BnD Paid and Downloaded Records",
       "orderNumber": 9,
       "parentModule": "rainmaker-bnd",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "bnd",
       "code": "null",
       "path": "cbbnd.BirthAndDeathCertificatePayment",
