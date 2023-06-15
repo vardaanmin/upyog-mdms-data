@@ -99,6 +99,14 @@
                  "routePath": "/dashboard/ulb-fsm",
                  "isOrigin": true
               },
+             "fssm": {
+                 "routePath": "/dashboard/fssm",
+                 "isOrigin": true
+              },
+              "ulb-fssm": {
+                 "routePath": "/dashboard/ulb-fssm",
+                 "isOrigin": true
+              }
               "national-propertytax": {
                  "routePath": "/dashboard/national-propertytax",
                  "isOrigin": true
