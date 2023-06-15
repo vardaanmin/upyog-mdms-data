@@ -25124,6 +25124,12 @@
       "actionid": 2420,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "STADMIN",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
