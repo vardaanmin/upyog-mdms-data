@@ -441,6 +441,22 @@
       ]
     },
     {
+      "key": "MCollectReceiptRegister",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "StateLevelTradeLicenseRegistryReport",
       "roleAttributeAccessList": [
         {
@@ -1423,22 +1439,6 @@
       "roleAttributeAccessList": [
         {
           "roleCode": "PT_CEMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "MCollectReceiptRegister",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {
