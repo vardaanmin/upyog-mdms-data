@@ -13469,7 +13469,19 @@
       "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    }	  
+    },
+	  {
+      "id": 2045,
+      "name": "DSS Dashboard Config Faecal sludge management",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    }
 	  
   ]
 }
