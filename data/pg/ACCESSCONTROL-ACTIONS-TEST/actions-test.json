@@ -10509,14 +10509,14 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.FSM",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
     {
       "id": 2182,
       "name": "DSS Dashboard Config Facial Sludge Management",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fsm",
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
@@ -13446,7 +13446,7 @@
     {
       "id": 2419,
       "name": "NSS Dashboard Config National FSM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fsm",
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
@@ -13466,7 +13466,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FaecalSludgeManagement",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }	  
