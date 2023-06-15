@@ -13469,7 +13469,33 @@
       "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+	  {
+      "id": 2421,
+      "name": "National Dashboard Faecal Sludge Management",
+      "url": "url",
+      "displayName": "National FSM",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.Faecal Sludge Management",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2422,
+      "name": "DSS Dashboard Config National FSM",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }	  
-	  
   ]
 }
