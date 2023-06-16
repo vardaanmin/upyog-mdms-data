@@ -326,22 +326,6 @@
       ]
     },
     {
-      "key": "MiscReceiptCB",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "EMPLOYEE",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "key": "LMEPerformanceReport",
       "roleAttributeAccessList": [
         {
@@ -433,6 +417,38 @@
               "attribute": {
                 "jsonPath": "*/mobilenumber",
                 "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MiscReceiptCB",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MCollectReceiptRegister",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             }
@@ -1423,22 +1439,6 @@
       "roleAttributeAccessList": [
         {
           "roleCode": "PT_CEMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "MCollectReceiptRegister",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {

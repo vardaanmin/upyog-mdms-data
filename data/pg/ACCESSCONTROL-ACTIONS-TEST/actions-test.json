@@ -13451,7 +13451,7 @@
    },
    {
       "id": 2425,
-      "name": "FirenocCitizen",
+      "name": "Firenoc Citizen Home",
       "url": "digit-ui-card",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
@@ -13469,7 +13469,7 @@
    },
    {
       "id": 2426,
-      "name": "BirthCitizen",
+      "name": "Birth Certificate Home",
       "url": "digit-ui-card",
       "displayName": "Birth Search",
       "orderNumber": 1,
@@ -13487,7 +13487,7 @@
    },
    {
       "id": 2427,
-      "name": "DeathCitizen",
+      "name": "Death Certificate Home",
       "url": "digit-ui-card",
       "displayName": "Death Search",
       "orderNumber": 1,
