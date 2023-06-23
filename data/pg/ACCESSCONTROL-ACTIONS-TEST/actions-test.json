@@ -13490,10 +13490,10 @@
       "name": "DSS Dashboard Config National FSM",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
       "parentModule": "",
-      "displayName": "DSS",
+      "displayName": "NSS",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "DSS",
+      "serviceCode": "NSS",
       "code": "null",
       "path": ""
     }
