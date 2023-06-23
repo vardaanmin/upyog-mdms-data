@@ -13488,7 +13488,7 @@
     {
       "id": 2422,
       "name": "DSS Dashboard Config National FSM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/mational-fssm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-fssm",
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
