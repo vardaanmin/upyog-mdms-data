@@ -13481,14 +13481,14 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Faecal Sludge Management",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fssm",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/national-fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
     {
       "id": 2422,
       "name": "DSS Dashboard Config National FSM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/fssm",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/mational-fsm",
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
