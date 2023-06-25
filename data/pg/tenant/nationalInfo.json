@@ -19769,6 +19769,822 @@
       "name": "mh.shirolmunicipalcouncil",
       "active": true,
       "module": "NationalDashboard"
-    }
+    },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dehradun",
+   "name": "uk.dehradun",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.vikasnagar",
+   "name": "uk.vikasnagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.mussoorie",
+   "name": "uk.mussoorie",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.rishikesh",
+   "name": "uk.rishikesh",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.herbertpur",
+   "name": "uk.herbertpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.doiwala",
+   "name": "uk.doiwala",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.selaqui",
+   "name": "uk.selaqui",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.haridwar",
+   "name": "uk.haridwar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.roorkee",
+   "name": "uk.roorkee",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.manglaur",
+   "name": "uk.manglaur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.jhabreda",
+   "name": "uk.jhabreda",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.laksar",
+   "name": "uk.laksar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.landhora",
+   "name": "uk.landhora",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bhagwanpur",
+   "name": "uk.bhagwanpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.shivalik nagar",
+   "name": "uk.shivalik nagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.piran kaliyar",
+   "name": "uk.piran kaliyar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dhandera",
+   "name": "uk.dhandera",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.imlikhera",
+   "name": "uk.imlikhera",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.pandali gurjar",
+   "name": "uk.pandali gurjar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.rampur",
+   "name": "uk.rampur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.uttarkashi",
+   "name": "uk.uttarkashi",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.barkot",
+   "name": "uk.barkot",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gangotri",
+   "name": "uk.gangotri",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.purola",
+   "name": "uk.purola",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.chinyalisaur",
+   "name": "uk.chinyalisaur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.naugaon",
+   "name": "uk.naugaon",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.chamoli gopeshwar",
+   "name": "uk.chamoli gopeshwar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.joshimath",
+   "name": "uk.joshimath",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.badrinath",
+   "name": "uk.badrinath",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.nandprayag",
+   "name": "uk.nandprayag",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gauchar",
+   "name": "uk.gauchar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.karanprayag",
+   "name": "uk.karanprayag",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.pokhari",
+   "name": "uk.pokhari",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gairsen",
+   "name": "uk.gairsen",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.tharali",
+   "name": "uk.tharali",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.pipalkoti",
+   "name": "uk.pipalkoti",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.tehri",
+   "name": "uk.tehri",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.narendranagar",
+   "name": "uk.narendranagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.chamba",
+   "name": "uk.chamba",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kirtinagar",
+   "name": "uk.kirtinagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.devprayag",
+   "name": "uk.devprayag",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.munikireti",
+   "name": "uk.munikireti",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.ghansali",
+   "name": "uk.ghansali",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gaja",
+   "name": "uk.gaja",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.lambgaon",
+   "name": "uk.lambgaon",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.chamiyala",
+   "name": "uk.chamiyala",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.tapovan",
+   "name": "uk.tapovan",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.rudraprayag",
+   "name": "uk.rudraprayag",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kedarnath",
+   "name": "uk.kedarnath",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.augustmuni",
+   "name": "uk.augustmuni",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.ukhimath",
+   "name": "uk.ukhimath",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.tilwara",
+   "name": "uk.tilwara",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.pauri",
+   "name": "uk.pauri",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.srinagar",
+   "name": "uk.srinagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.swargashram jonk",
+   "name": "uk.swargashram jonk",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dugadda",
+   "name": "uk.dugadda",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kotdwar",
+   "name": "uk.kotdwar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.satpuli",
+   "name": "uk.satpuli",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.thalisain",
+   "name": "uk.thalisain",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.pithoragarh",
+   "name": "uk.pithoragarh",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dharchula",
+   "name": "uk.dharchula",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.didihat",
+   "name": "uk.didihat",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gangolihat",
+   "name": "uk.gangolihat",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.berinag",
+   "name": "uk.berinag",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.tanakpur",
+   "name": "uk.tanakpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.champawat",
+   "name": "uk.champawat",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.lohaghat",
+   "name": "uk.lohaghat",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.banbasa",
+   "name": "uk.banbasa",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.almora",
+   "name": "uk.almora",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dwarahat",
+   "name": "uk.dwarahat",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.ranikhet",
+   "name": "uk.ranikhet",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bhikiyasen",
+   "name": "uk.bhikiyasen",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.chaukhutia",
+   "name": "uk.chaukhutia",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bageshwar",
+   "name": "uk.bageshwar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kapkot",
+   "name": "uk.kapkot",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.garur",
+   "name": "uk.garur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.nainital",
+   "name": "uk.nainital",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.ramnagar",
+   "name": "uk.ramnagar",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bhowali",
+   "name": "uk.bhowali",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.haldwani",
+   "name": "uk.haldwani",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kaladhungi",
+   "name": "uk.kaladhungi",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.lalkuan",
+   "name": "uk.lalkuan",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bhimtal",
+   "name": "uk.bhimtal",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gadarpur",
+   "name": "uk.gadarpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.jaspur",
+   "name": "uk.jaspur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kashipur",
+   "name": "uk.kashipur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.bajpur",
+   "name": "uk.bajpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.rudrapur",
+   "name": "uk.rudrapur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kichha",
+   "name": "uk.kichha",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.sitarganj",
+   "name": "uk.sitarganj",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.khatima",
+   "name": "uk.khatima",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.mahuadabra",
+   "name": "uk.mahuadabra",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.mahuakheraganj",
+   "name": "uk.mahuakheraganj",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.sultanpur patti",
+   "name": "uk.sultanpur patti",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.kelakhera",
+   "name": "uk.kelakhera",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.dineshpur",
+   "name": "uk.dineshpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.shaktigarh",
+   "name": "uk.shaktigarh",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.nanakmatta",
+   "name": "uk.nanakmatta",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.gularbhoj",
+   "name": "uk.gularbhoj",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.nagla",
+   "name": "uk.nagla",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.lalpur",
+   "name": "uk.lalpur",
+   "active": true,
+   "module": "NationalDashboard"
+ },
+ {
+   "stateCode": "Uttrakhand",
+   "stateName": "Uttrakhand",
+   "code": "uk.shirolikalan",
+   "name": "uk.shirolikalan",
+   "active": true,
+   "module": "NationalDashboard"
+ }
   ]
 }
