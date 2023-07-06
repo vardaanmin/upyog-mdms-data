@@ -6043,8 +6043,8 @@
       "module": "NationalDashboard"
     },
     {
-      "stateCode": "KARNATAKA",
-      "stateName": "KARNATAKA",
+      "stateCode": "Karnataka",
+      "stateName": "Karnataka",
       "code": "ka.davanagere",
       "name": "ka.davanagere",
       "active": true,
@@ -6395,8 +6395,8 @@
       "module": "NationalDashboard"
     },
     {
-      "stateCode": "KARNATAKA",
-      "stateName": "KARNATAKA",
+      "stateCode": "Karnataka",
+      "stateName": "Karnataka",
       "code": "ka.kalaburagi",
       "name": "ka.kalaburagi",
       "active": true,
