@@ -26191,6 +26191,24 @@
       "actionid": 2522,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2345,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2345,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2345,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
