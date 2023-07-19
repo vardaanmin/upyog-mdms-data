@@ -204,7 +204,7 @@
             "isEditByConfigConnection": true,
             "body": [
               {
-                "component": "WSPropertyDetails",
+                "component": "CPTPropertySearchNSummary",
                 "withoutLabel": true,
                 "key": "cpt",
                 "type": "component",
@@ -366,7 +366,7 @@
             "isEditByConfigConnection": true,
             "body": [
               {
-                "component": "WSPropertyDetails",
+                "component": "CPTPropertySearchNSummary",
                 "withoutLabel": true,
                 "key": "cpt",
                 "type": "component",
@@ -527,7 +527,7 @@
             "isEditByConfigConnection": true,
             "body": [
               {
-                "component": "WSPropertyDetails",
+                "component": "CPTPropertySearchNSummary",
                 "withoutLabel": true,
                 "key": "cpt",
                 "type": "component",
@@ -688,7 +688,7 @@
             "isEditByConfigConnection": true,
             "body": [
               {
-                "component": "WSPropertyDetails",
+                "component": "CPTPropertySearchNSummary",
                 "withoutLabel": true,
                 "key": "cpt",
                 "type": "component",
