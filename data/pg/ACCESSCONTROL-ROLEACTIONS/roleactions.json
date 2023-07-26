@@ -26179,6 +26179,12 @@
       "actionid": 2070,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2520,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
