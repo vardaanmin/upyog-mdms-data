@@ -13394,6 +13394,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "WS_CEMP",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
+    {
       "rolecode": "SW_CEMP",
       "actionid": 1882,
       "actioncode": "",
@@ -13423,6 +13429,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
     {
       "rolecode": "CITIZEN",
       "actionid": 1883,
