@@ -14883,7 +14883,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.IntegratedWater&SewerageBill",
-      "navigationURL": "digit-ui/employee/ws/water/wns-search",
+      "navigationURL": "/digit-ui/employee/ws/water/wns-search",
       "leftIcon": "action:description",
       "rightIcon": ""
     }
