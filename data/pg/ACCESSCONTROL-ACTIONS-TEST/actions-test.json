@@ -14871,6 +14871,21 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2523, 
+      "name": "IntegratedWater&SewerageBill",
+      "url": "url",
+      "displayName": "Integrated Water & Sewerage Bill",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.IntegratedWater&SewerageBill",
+      "navigationURL": "digit-ui/employee/ws/water/wns-search",
+      "leftIcon": "action:description",
+      "rightIcon": ""
     }
    ]
 }
