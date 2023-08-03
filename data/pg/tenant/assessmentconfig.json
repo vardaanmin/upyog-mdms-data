@@ -1,0 +1,12 @@
+{
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "pg.cityb",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}
