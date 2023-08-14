@@ -25,9 +25,9 @@
           "Content-Type": "application/json"
         }
       },
-                         {
+      {
         "jobName": "daily",
-        "active": "false",
+        "active": "true",
         "method": "POST",
         "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
         "payload": {
