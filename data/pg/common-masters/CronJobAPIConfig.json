@@ -26,7 +26,7 @@
         }
       },
       {
-        "jobName": "daily",
+        "jobName": "ws-demand-generation-job-scheduler",
         "active": "true",
         "method": "POST",
         "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
