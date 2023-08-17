@@ -9225,6 +9225,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 1631,
+      "actioncode": "",
+      "tenantId": "pg"
+    }	  
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1632,
       "actioncode": "",
