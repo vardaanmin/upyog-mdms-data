@@ -3701,7 +3701,7 @@
       {
          "id": 1631,
          "name": "View Vouchers",
-         "url": "/services/EGF/voucher/voucherSearch-beforesearch.action",
+         "url": "url",
          "parentModule": "",
          "displayName": "View Voucher",
          "orderNumber": 5,
