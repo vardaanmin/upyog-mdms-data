@@ -5109,6 +5109,36 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 909,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 910,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 911,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 912,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
+    {
       "rolecode": "CITIZEN",
       "actionid": 748,
       "actioncode": "",
