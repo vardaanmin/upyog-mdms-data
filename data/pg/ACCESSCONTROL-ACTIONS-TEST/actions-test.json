@@ -9922,7 +9922,7 @@
       "displayName": "FSM Daily Collection Report",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "FSM.Reports.FSMDailyCollectionReport",
