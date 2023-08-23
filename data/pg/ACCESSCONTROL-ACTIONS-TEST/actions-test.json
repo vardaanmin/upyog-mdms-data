@@ -14886,6 +14886,21 @@
       "navigationURL": "/digit-ui/employee/ws/water/wns-search",
       "leftIcon": "action:description",
       "rightIcon": ""
+    },
+    {
+      "id": 2524,
+      "name": "National Dashboard PGR",
+      "url": "url",
+      "displayName": "National PGR",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.PGR",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/national-pgr",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
    ]
 }
