@@ -26257,6 +26257,12 @@
       "actionid": 2345,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "NATADMIN",
+      "actionid": 2524,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
