@@ -20,6 +20,6 @@
       "demandExpiryDate": 0,
       "demandGenerationDateMillis": 345600000,
       "description": "Metered connectionType is not available. Adding this for testing purpose."
-    },
+    }
   ]
 }
