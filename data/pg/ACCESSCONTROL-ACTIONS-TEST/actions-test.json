@@ -14871,6 +14871,18 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }
+    },
+	    {
+         "id": 2523,
+         "name": "BillingSlabCreate",
+         "url": "/pt-calculator-v2/assessment/_jobscheduler",
+         "displayName": "Assessment Job Scheduler",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "pt-calculator-v2",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
