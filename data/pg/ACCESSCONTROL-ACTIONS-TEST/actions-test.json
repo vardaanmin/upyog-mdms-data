@@ -14884,17 +14884,18 @@
          "code": "null",
          "path": ""
       },
-	       {
+	
+	   {
          "id": 2524,
-         "name": "Create assessment ULB",
+        "name": "Create assessment ULB",
          "url": "/pt-calculator-v2/assessment/_create",
          "displayName": "Assessment Job Scheduler",
-         "orderNumber": 1,
-         "parentModule": "",
+         "orderNumber": 0,
+         "parentModule": null,
          "enabled": false,
-         "serviceCode": "pt-calculator-v2",
+         "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
-         "path": ""
+         "path": "null"
       }
    ]
 }
