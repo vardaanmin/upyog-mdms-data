@@ -14874,8 +14874,20 @@
     },
 	    {
          "id": 2523,
-         "name": "BillingSlabCreate",
+         "name": "Scheduler for assessment generation",
          "url": "/pt-calculator-v2/assessment/_jobscheduler",
+         "displayName": "Assessment Job Scheduler",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "pt-calculator-v2",
+         "code": "null",
+         "path": ""
+      },
+	       {
+         "id": 2524,
+         "name": "Create assessment ULB",
+         "url": "/pt-calculator-v2/assessment/_create",
          "displayName": "Assessment Job Scheduler",
          "orderNumber": 1,
          "parentModule": "",
