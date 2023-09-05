@@ -26221,6 +26221,42 @@
       "actionid": 2524,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
