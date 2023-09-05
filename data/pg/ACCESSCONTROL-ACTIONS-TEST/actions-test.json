@@ -14896,6 +14896,39 @@
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
+      },
+	   {
+         "id": 2525,
+         "name": "Create Pet registration application",
+         "url": "/pet-services/pet-registration/_create",
+         "displayName": "Create Pet registration application",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "pet-services",
+         "code": "null",
+         "path": ""
+      },
+	   {
+         "id": 2526,
+         "name": "Update Pet registration application",
+         "url": "/pet-services/pet-registration/_update",
+         "displayName": "Update Property Registry",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "pet-services",
+         "code": "null",
+         "path": ""
+      },
+	   {
+         "id": 2527,
+         "name": "Search Pet registration application",
+         "url": "/pet-services/pet-registration/_search",
+         "displayName": "Search Property Registry",
+         "orderNumber": 3,
+         "enabled": false,
+         "serviceCode": "pet-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
