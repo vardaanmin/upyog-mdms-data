@@ -14929,6 +14929,29 @@
          "serviceCode": "pet-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2528,
+         "name": "Generate Water Demand",
+         "url": "/ws-calculator/waterCalculator/_generateDemand",
+         "displayName": "Generate Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+
+      {
+         "id": 2529,
+         "name": "Get Connection for Water Demand",
+         "url": "/ws-calculator/waterCalculator/_getConnectionForDemand",
+         "displayName": "Get Connection for Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
       }
    ]
 }
