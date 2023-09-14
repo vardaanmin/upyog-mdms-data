@@ -14901,6 +14901,28 @@
       "navigationURL": "/digit-ui/employee/dss/dashboard/national-pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    }
+    },
+    {
+         "id": 2525,
+         "name": "Calculate Water Bill",
+         "url": "/ws-calculator/waterCalculator/_generateDemand",
+         "displayName": "Generate Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+	    {
+         "id": 2526,
+         "name": "Calculate Water Bill",
+         "url": "/ws-calculator/waterCalculator/_getConnectionForDemand",
+         "displayName": "Get Connection for Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
