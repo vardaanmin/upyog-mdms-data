@@ -14952,6 +14952,19 @@
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
-      }
+      },
+	   
+    {
+      "id": 2530,
+      "name": "PT defaulter search",
+      "url": "/egov-pdf/download/PT/ptdefaulternotice",
+      "displayName": "PT defaulter search",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    }
+	   
    ]
 }
