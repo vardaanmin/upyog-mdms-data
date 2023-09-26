@@ -5,7 +5,7 @@
     {
       "name": "Any other manufacturing or store house or plane of business not specified elsewhere form offersive or unwholees smell noise or smoke arise",
       "code": "GOODS.MANUFACTURE.TST-1",
-      "uom": null,
+      "uom": GROSSUNITS,
       "applicationDocument": [
         {
           "applicationType": "NEW",
