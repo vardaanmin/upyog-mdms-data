@@ -14964,7 +14964,30 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
-    }
+    },
+	    {
+         "id": 2531,
+         "name": "Generate Water Demand",
+         "url": "/sw-calculator/sewerageCalculator/_generateDemand",
+         "displayName": "Generate Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "sw-calculator",
+         "code": "null",
+         "path": ""
+      },
+
+      {
+         "id": 2532,
+         "name": "Get Connection for Water Demand",
+         "url": "/sw-calculator/sewerageCalculator/_getConnectionForDemand",
+         "displayName": "Get Connection for Water Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "sw-calculator",
+         "code": "null",
+         "path": ""
+      }
 	   
    ]
 }
