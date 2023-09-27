@@ -26270,6 +26270,18 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2531,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+   {
+      "rolecode": "SW_CEMP",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
 	   {
       "rolecode": "PT_CEMP",
       "actionid": 2530,
