@@ -14987,7 +14987,18 @@
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
-      }
+      },
+{
+      "id": 2533,
+      "name": "Bulk PDF Details",
+      "url": "/pdf-service/v1/_getBulkDefaulterNoticeRecordsDetails",
+      "displayName": "Bulk Defaulter Details",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pdf-generator-create",
+      "code": "null",
+      "path": ""
+    }
 	   
    ]
 }
