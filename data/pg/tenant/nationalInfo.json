@@ -1339,54 +1339,6 @@
       "module": "NationalDashboard"
     },
     {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.agra",
-      "name": "up.agra",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.aligarh",
-      "name": "up.aligarh",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.fatehpur",
-      "name": "up.fatehpur",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.ghaziabad",
-      "name": "up.ghaziabad",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.lucknow",
-      "name": "up.lucknow",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Uttar Pradesh",
-      "stateName": "Uttar Pradesh",
-      "code": "up.varanasi",
-      "name": "up.varanasi",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
    "stateCode": "Uttarakhand",
    "stateName": "Uttarakhand",
    "code": "uk.dehradun",
