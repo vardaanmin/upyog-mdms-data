@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "UsageCategory": [
     {
-      "name": "Residential",
+      "name": "Residential/ Domestic Consumers",
       "code": "RESIDENTIAL",
       "active": true,
       "fromFY": "2015-16"
@@ -15,7 +15,7 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Mixed",
+      "name": "Mixed Use Category",
       "code": "MIXED",
       "active": true,
       "fromFY": "2015-16"
