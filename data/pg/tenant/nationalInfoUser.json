@@ -1,0 +1,12 @@
+{
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "nationalInfo": [
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.amritsar",
+      "name": "pb.amritsar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
