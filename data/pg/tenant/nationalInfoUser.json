@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "tenant",
-  "nationalInfo": [
+  "nationalInfoUser": [
     {
       "stateCode": "Punjab",
       "stateName": "Punjab",
