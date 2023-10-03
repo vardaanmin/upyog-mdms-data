@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pg.citya",
   "moduleName": "sw-services-calculation",
   "SCBillingSlab": [
     {

@@ -16040,25 +16040,25 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS-CEMP",
+      "rolecode": "WS_CEMP",
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "SW-CEMP",
+      "rolecode": "SW_CEMP",
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS-APPROVER",
+      "rolecode": "WS_APPROVER",
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "SW-APPROVER",
+      "rolecode": "SW_APPROVER",
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "pg"
@@ -17384,25 +17384,25 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS-CEMP",
+      "rolecode": "WS_CEMP",
       "actionid": 2053,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "SW-CEMP",
+      "rolecode": "SW_CEMP",
       "actionid": 2053,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "WS-APPROVER",
+      "rolecode": "WS_APPROVER",
       "actionid": 2053,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "SW-APPROVER",
+      "rolecode": "SW_APPROVER",
       "actionid": 2053,
       "actioncode": "",
       "tenantId": "pg"
@@ -26297,6 +26297,48 @@
 	     {
       "rolecode": "PT_CEMP",
       "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	 {
+      "rolecode": "PT_CEMP",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	 {
+      "rolecode": "WS_CEMP",
+      "actionid": 2531,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2531,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2531,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1872,
       "actioncode": "",
       "tenantId": "pg"
     }
