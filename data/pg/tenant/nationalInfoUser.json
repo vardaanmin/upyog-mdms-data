@@ -4,9 +4,51 @@
   "nationalInfoUser": [
     {
       "stateCode": "Punjab",
-      "stateName": "Punjab",
-      "code": "pb.amritsar",
-      "name": "pb.amritsar",
-      "active": true,
-      "module": "NationalDashboard"
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
     },
+ {
+      "stateCode": "Chandigarh",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+ {
+      "stateCode": "Uttarakhand",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+ {
+      "stateCode": "Karnataka",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+ {
+      "stateCode": "Maharashtra",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+ {
+      "stateCode": "Telangana",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Tamil Nadu",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Madhya Pradesh",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Andra Pradesh",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Chattisgarh",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Goa",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    },
+{
+      "stateCode": "Rajasthan",
+      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+    }
+]
+}
