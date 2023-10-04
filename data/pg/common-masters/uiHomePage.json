@@ -53,6 +53,13 @@
               "label": "ACTION_TEST_WATER_AND_SEWERAGE",
               "enabled": true,
               "navigationUrl": "/digit-ui/citizen/ws-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_PTR",
+              "name": "Pet Services",
+              "label": "ACTION_TEST_PET_SERVICES",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/ptr-home"
             }
           ]
         },
