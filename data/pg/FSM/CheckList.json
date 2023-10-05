@@ -12,12 +12,6 @@
                 "HAND_GLOVES",
                 "NOSE_MASK"
             ]
-        },
-		{
-            "code": "No. of Trips",
-            "active": true,
-            "type": "INTEGER",
-            "required": false
         }
 		
     ]
