@@ -26341,6 +26341,12 @@
       "actionid": 1872,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_GIS",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
