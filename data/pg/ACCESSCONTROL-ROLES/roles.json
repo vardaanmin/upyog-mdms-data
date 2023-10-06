@@ -691,6 +691,11 @@
       "code": "FIRENOC_REPORT_VIEWER",
       "name": "FireNOC Report Viewer",
       "description": "FireNOC User that can view FireNOC reports"
+    },
+    {
+      "code": "SYS_INTEGRATOR_GIS",
+      "name": "System Integrator GIS",
+      "description": "Role for allowing system integration of GIS app with UPYOG"
     }
   ]
 }
