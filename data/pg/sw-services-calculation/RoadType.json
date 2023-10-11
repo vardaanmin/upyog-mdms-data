@@ -33,9 +33,9 @@
       "isActive": true
     },
     {
-      "name": "Open Pipe",
-      "code": "OPENPIPE",
-      "unitCost": 200,
+      "name": "Under Scheme",
+      "code": "UNDERSHEME",
+      "unitCost": 0,
       "isActive": true
     },
     {
