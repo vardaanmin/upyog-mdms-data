@@ -194,6 +194,13 @@
                 },
                 {
                     "type": "component",
+                    "isMandatory": true,
+                    "component": "Electricity",
+                    "key": "electricity",
+                    "withoutLabel": true
+                },
+                {
+                    "type": "component",
                     "route": "area",
                     "isMandatory": true,
                     "component": "Area",
