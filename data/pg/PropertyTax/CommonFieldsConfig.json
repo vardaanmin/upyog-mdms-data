@@ -199,6 +199,26 @@
                     "key": "electricity",
                     "withoutLabel": true
                 },
+                  {
+                    "type": "component",
+                    "route": "electricity",
+                    "isMandatory": true,
+                    "component": "Electricity",
+                    "texts": {
+                        "headerCaption": "",
+                        "header": "PT_ASSESSMENT_FLOW_AREA_HEADER",
+                        "cardText": "PT_SELFOCCUPIED_AREA",
+                        "submitBarLabel": "PT_COMMON_NEXT"
+                    },
+                    "key": "units",
+                    "withoutLabel": true,
+                    "nextStep": {
+                        "yes": "rental-details",
+                        "no": "provide-sub-usage-type",
+                        "vacant": "map"
+                    },
+                    "hideInEmployee": true
+                },
                 {
                     "type": "component",
                     "route": "area",
