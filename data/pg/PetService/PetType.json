@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PetService",
+  "PropertyType": [
+    {
+      "name": "Dog",
+      "code": "DOG",
+      "active": true
+    },
+    {
+      "name": "Cat",
+      "code": "CAT",
+      "active": true
+    }
+  ]
+}
