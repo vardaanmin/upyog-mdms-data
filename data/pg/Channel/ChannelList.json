@@ -1269,6 +1269,56 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+     {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	 {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "ASSIGN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	 {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "RESOLVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	 {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	 {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
