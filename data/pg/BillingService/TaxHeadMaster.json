@@ -5707,6 +5707,16 @@
   "order": "0",
   "isRequired": false,
   "isDiscountApplicable": false
-}
+},
+	   {
+      "category": "FEE",
+      "service": "WSReconnection",
+      "name": "Water application form fee",
+      "code": "WS_RECONNECTION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
