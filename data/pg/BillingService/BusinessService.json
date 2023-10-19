@@ -1980,6 +1980,17 @@
       "isActive": true,
       "isCitizen": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "WSReconnection",
+      "code": "WSReconnection",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
