@@ -1617,6 +1617,14 @@
       "service": "PT.MUTATION",
       "code": "PTMUTAN2023",
       "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "WSReconnection",
+      "code": "WS10YRS2019",
+      "financialYear": "2019-29"
     }
   ]
 }
