@@ -780,7 +780,7 @@
       "isRequired": false
     },
 	{
-      "category": "WS_RECONNECTION",
+      "category": "FEE",
       "service": "WS",
       "name": "Ws reconnection",
       "code": "WS_RECONNECTION_CHARGE",
@@ -790,7 +790,7 @@
       "isRequired": false
     },
 	{
-      "category": "SW_RECONNECTION",
+      "category": "FEE",
       "service": "SW",
       "name": "SW reconnection",
       "code": "SW_RECONNECTION_CHARGE",
