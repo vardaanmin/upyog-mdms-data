@@ -779,26 +779,6 @@
       "order": "0",
       "isRequired": false
     },
-	{
-      "category": "FEE",
-      "service": "WS",
-      "name": "Ws reconnection",
-      "code": "WS_RECONNECTION_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
-	{
-      "category": "FEE",
-      "service": "SW",
-      "name": "SW reconnection",
-      "code": "SW_RECONNECTION_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
     {
       "category": "FEE",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
