@@ -15501,14 +15501,6 @@
     {
       "stateCode": "Maharashtra",
       "stateName": "Maharashtra",
-      "code": "mh.bhiwandinizampurmunicipalcorporation",
-      "name": "mh.bhiwandinizampurmunicipalcorporation",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Maharashtra",
-      "stateName": "Maharashtra",
       "code": "mh.dhulemunicipalcorporation",
       "name": "mh.dhulemunicipalcorporation",
       "active": true,
