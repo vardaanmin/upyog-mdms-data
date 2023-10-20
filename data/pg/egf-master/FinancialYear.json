@@ -16,6 +16,20 @@
       "transferClosingBalance": false,
       "module": "WS"
     },
+	 {
+      "id": "59",
+      "tenantId": "pg",
+      "finYearRange":  "2023-24",
+      "name":  "2023-2024",
+      "code":  "2023-24",
+      "startingDate": 1680307199000,
+      "endingDate": 1711929599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FSM"
+    },
     {
       "id": "27",
       "tenantId": "pg",
