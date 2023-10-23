@@ -16,20 +16,6 @@
       "transferClosingBalance": false,
       "module": "WS"
     },
-	 {
-      "id": "59",
-      "tenantId": "pg",
-      "finYearRange":  "2023-24",
-      "name":  "2023-2024",
-      "code":  "2023-24",
-      "startingDate": 1680307199000,
-      "endingDate": 1711929599000,
-      "active": true,
-      "isActiveForPosting": true,
-      "isClosed": false,
-      "transferClosingBalance": false,
-      "module": "FSM"
-    },
     {
       "id": "27",
       "tenantId": "pg",
@@ -449,6 +435,62 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
-    }
+    },
+ {
+      "id": "31",
+      "tenantId": "pg",
+      "finYearRange":  "2023-24",
+      "name":  "2023-2024",
+      "code":  "2023-24",
+      "startingDate": 1680287400000,
+      "endingDate": 1711929599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FSM"
+    },
+ {
+      "id": "32",
+      "tenantId": "pg",
+      "finYearRange":  "2022-23",
+      "name":  "2022-2023",
+      "code":  "2022-23",
+      "startingDate": 1648751400000,
+      "endingDate": 1680287399000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FSM"
+    },
+{
+      "id": "33",
+      "tenantId": "pg",
+      "finYearRange":  "2021-22",
+      "name":  "2021-2022",
+      "code":  "2021-22",
+      "startingDate": 1617215400000,
+      "endingDate": 1648751399000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FSM"
+    },
+{
+      "id": "34",
+      "tenantId": "pg",
+      "finYearRange":  "2020-21",
+      "name":  "2020-2021",
+      "code":  "2020-21",
+      "startingDate": 1585679400000,
+      "endingDate": 1617215399000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FSM"
+    },
   ]
 }
