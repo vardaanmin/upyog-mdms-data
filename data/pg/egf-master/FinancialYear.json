@@ -491,6 +491,6 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "FSM"
-    },
+    }
   ]
 }
