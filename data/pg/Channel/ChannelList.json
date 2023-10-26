@@ -1354,7 +1354,7 @@
     },
     {
       "businessService": "WSReconnection",
-      "module": "WS",
+      "module": "WS.CREATE",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
         "SMS",
@@ -1364,7 +1364,7 @@
     },
     {
       "businessService": "DisconnectWSConnection",
-      "module": "WS",
+      "module": "WS.CREATE",
       "action": "EXECUTE_DISCONNECTION",
       "channelNames": [
         "SMS",
