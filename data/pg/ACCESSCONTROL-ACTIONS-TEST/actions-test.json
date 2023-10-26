@@ -15034,6 +15034,17 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ptr-home"
-    }
+    },
+	   {
+      "id": 2370,
+      "name": "Water Reconnection Payment Search",
+      "url": "/collection-services/payments/WSReconnection/_search",
+      "displayName": "collectionservices search",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+   }
    ]
 }
