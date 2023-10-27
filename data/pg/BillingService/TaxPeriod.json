@@ -1625,6 +1625,14 @@
       "service": "WSReconnection",
       "code": "WS10YRS2019",
       "financialYear": "2019-29"
+    },
+	{
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "SWReconnection",
+      "code": "SW10YRS2019",
+      "financialYear": "2019-29"
     }
   ]
 }
