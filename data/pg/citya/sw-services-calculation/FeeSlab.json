@@ -8,6 +8,7 @@
       "connectionFee": 50,
       "other": 0,
       "taxpercentage": 0,
+      "reconnectionfee": 200,
       "isActive": true
     }
   ]
