@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "propertyType": [
+	{
+      "name": "Residential",
+      "code": "Residential",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
+      "name": "Industrial",
+      "code": "Industrial",
+      "active": true,
+      "module": "NationalDashboard"
+    }
+  ]
+}
