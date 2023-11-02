@@ -696,6 +696,21 @@
       "code": "SYS_INTEGRATOR_GIS",
       "name": "System Integrator GIS",
       "description": "Role for allowing system integration of GIS app with UPYOG"
+    },
+    {
+      "code": "PTR_CEMP",
+      "name": "Pet Counter Employee",
+      "description": "Counter Employee in Pet Application who files application on behalf of the citizen"
+    },
+    {
+      "code": "PTR_APPROVER",
+      "name": "Pet Approver",
+      "description": "Pet Approver"
+    },
+    {
+      "code": "PTR_VERIFIER",
+      "name": "Pet Document Verifier",
+      "description": "Pet Document Verifier"
     }
   ]
 }

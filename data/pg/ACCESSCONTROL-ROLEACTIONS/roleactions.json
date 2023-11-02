@@ -26367,19 +26367,43 @@
       "tenantId": "pg"
     },
 	  {
-      "rolecode": "PT_CEMP",
+      "rolecode": "PTR_CEMP",
       "actionid": 2525,
       "actioncode": "",
       "tenantId": "pg"
     },
 	  {
-      "rolecode": "PT_CEMP",
+      "rolecode": "PTR_CEMP",
       "actionid": 2526,
       "actioncode": "",
       "tenantId": "pg"
     },
 	  {
-      "rolecode": "PT_CEMP",
+      "rolecode": "PTR_CEMP",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "PTR_VERIFIER",
       "actionid": 2527,
       "actioncode": "",
       "tenantId": "pg"
