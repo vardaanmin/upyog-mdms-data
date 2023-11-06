@@ -14909,7 +14909,7 @@
          "displayName": "Assessment Job Scheduler",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
