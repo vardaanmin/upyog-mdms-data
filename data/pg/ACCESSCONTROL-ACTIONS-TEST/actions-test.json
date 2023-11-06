@@ -14879,7 +14879,7 @@
          "displayName": "Assessment Job Scheduler",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -14903,7 +14903,7 @@
          "url": "/pet-services/pet-registration/_create",
          "displayName": "Create Pet Registration Application",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "pet-services",
          "code": "null",
          "path": ""
