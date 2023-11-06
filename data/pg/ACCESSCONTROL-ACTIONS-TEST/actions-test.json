@@ -15045,6 +15045,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
-   }
+   },
+ {
+         "id": 2536,
+         "name": "Scheduler for assessment generation",
+         "url": "/ws-calculator/waterCalculator/_jobscheduler",
+         "displayName": "Assessment Job Scheduler",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
