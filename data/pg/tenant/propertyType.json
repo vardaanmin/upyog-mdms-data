@@ -13,6 +13,19 @@
       "code": "Industrial",
       "active": true,
       "module": "NationalDashboard"
-    }
+	},
+	{
+      "name": "Commercial",
+      "code": "Commercial",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+{
+      "name": "Institutional",
+      "code": "Institutional",
+      "active": true,
+      "module": "NationalDashboard"
+    }  
+	  
   ]
 }
